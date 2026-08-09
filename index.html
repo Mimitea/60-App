@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
 <title>60篇外刊阅读 · 高考必备核心词</title>
 
 <!-- ============ PWA / iOS 支持 ============ -->
@@ -19,7 +19,7 @@
 <style>
     /* ============ 全局重置 ============ */
     * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-    html, body { height: 100%; }
+    html, body { height: 100%; touch-action: manipulation; }
     html { min-height: 100%; }
     body {
         min-height: 100%;
@@ -166,6 +166,21 @@
         padding: 6px 15px; border-radius: 40px;
         box-shadow: none;
     }
+    .header-right { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+    /* REVIEW 分享导出按钮 */
+    .share-btn {
+        width: 34px; height: 34px; border-radius: 50%;
+        border: 1px solid rgba(255,255,255,0.6);
+        cursor: pointer;
+        background: rgba(255,255,255,0.6);
+        color: #665f93;
+        display: flex; align-items: center; justify-content: center;
+        box-shadow: none;
+        transition: transform .15s ease, opacity .2s ease;
+    }
+    .share-btn:active { transform: scale(0.9); }
+    .share-btn.disabled { opacity: 0.4; pointer-events: none; }
+    .share-btn svg { width: 17px; height: 17px; fill: currentColor; }
     /* GO 按钮：与返回键同尺寸，置于返回栏右侧 */
     .go-btn {
         border: 1px solid rgba(255,255,255,0.6);
@@ -453,7 +468,12 @@
         </div>
         <div class="header">
             <h1 id="reviewTitle">📘 REVIEW</h1>
-            <span class="counter" id="reviewCount">0</span>
+            <div class="header-right">
+                <span class="counter" id="reviewCount">0</span>
+                <button id="shareBtn" class="share-btn" aria-label="导出收藏词汇">
+                    <svg viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>
+                </button>
+            </div>
         </div>
         <div class="review-list" id="reviewList"></div>
         <div class="review-empty" id="reviewEmpty">
@@ -702,7 +722,9 @@
         var list = loadReview();
         var wrap = $('reviewList'), empty = $('reviewEmpty');
         wrap.innerHTML = '';
-        $('goBtn').classList.toggle('disabled', list.length === 0);
+        var hasWords = list.length > 0;
+        $('goBtn').classList.toggle('disabled', !hasWords);
+        $('shareBtn').classList.toggle('disabled', !hasWords);
         if (list.length === 0) {
             empty.style.display = 'block';
         } else {
@@ -743,6 +765,56 @@
             });
         }
         updateReviewBadge();
+    }
+
+    /* ---------- REVIEW 导出 ---------- */
+    function buildReviewTxt() {
+        var list = loadReview();
+        var lines = [];
+        lines.push('60篇外刊阅读 · 高考必备核心词');
+        lines.push('REVIEW 收藏词汇（共 ' + list.length + ' 个）');
+        lines.push('导出时间：' + new Date().toLocaleString('zh-CN'));
+        lines.push('----------------------------------------');
+        lines.push('');
+        list.forEach(function (x) {
+            var e = findEntry(x.p, x.w);
+            if (!e) return;
+            lines.push('【' + e.data.word + '】 ' + e.data.phonetic);
+            lines.push('释义：' + e.data.meaning);
+            if (e.data.phrases && e.data.phrases.length > 0) {
+                lines.push('词组：' + e.data.phrases.join('；'));
+            }
+            if (e.data.example) {
+                lines.push('例句：' + e.data.example + (e.data.exampleZh ? '  ——  ' + e.data.exampleZh : ''));
+            }
+            lines.push('');
+        });
+        return lines.join('\n');
+    }
+    function exportReview() {
+        var list = loadReview();
+        if (list.length === 0) {
+            try { alert('还没有收藏词汇，先在单词卡右上角点「+」收藏吧'); } catch (e) {}
+            return;
+        }
+        var content = '\ufeff' + buildReviewTxt();
+        var file = new File([content], 'REVIEW词汇_' + list.length + '词.txt', { type: 'text/plain;charset=utf-8' });
+        // iOS / 桌面优先走系统分享（可存文件、发送到微信/备忘录等），不支持则降级直接下载
+        if (navigator.canShare && navigator.canShare({ files: [file] })) {
+            navigator.share({
+                files: [file],
+                title: 'REVIEW 收藏词汇',
+                text: '共 ' + list.length + ' 个高考核心词'
+            }).catch(function () { /* 用户取消 */ });
+        } else {
+            var url = URL.createObjectURL(file);
+            var a = document.createElement('a');
+            a.href = url;
+            a.download = 'REVIEW词汇_' + list.length + '词.txt';
+            document.body.appendChild(a);
+            a.click();
+            setTimeout(function () { URL.revokeObjectURL(url); a.remove(); }, 200);
+        }
     }
 
     /* ---------- 发音（有道 HTTPS + 系统语音兜底） ---------- */
@@ -855,6 +927,15 @@
         if (loadReview().length === 0) return;
         location.hash = '#/go';
     });
+    $('shareBtn').addEventListener('click', function (e) {
+        e.stopPropagation();
+        exportReview();
+    });
+
+    /* 禁止双指/双击缩放（iOS Safari gesture 拦截 + 兜底） */
+    document.addEventListener('gesturestart', function (e) { e.preventDefault(); });
+    document.addEventListener('gesturechange', function (e) { e.preventDefault(); });
+    document.addEventListener('gestureend', function (e) { e.preventDefault(); });
     $('addBtn').addEventListener('click', function (e) {
         e.stopPropagation();
         toggleReview();
