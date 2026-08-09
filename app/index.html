@@ -644,10 +644,15 @@
         if (data.phrases && data.phrases.length > 0) {
             pc.style.display = 'block';
             pd.innerHTML = data.phrases.map(function (p) {
-                var en = p.replace(/\s*[（(].*$/, '').trim();
-                var zh = p.indexOf(' ') > 0 ? p.substring(p.indexOf(' ') + 1).trim() : '';
-                if (zh && en !== zh) {
-                    return '<span class="phrase-item"><span class="en">' + en + '</span> <span class="zh">' + zh + '</span></span>';
+                // 词组格式："英文词组 中文翻译"（英文可含括号补充）。
+                // 按第一个中文字符切分，避免英文内部空格/括号导致"黑字+浅色字重复"的错位
+                var m = p.match(/[\u4e00-\u9fff]/);
+                if (m) {
+                    var en = p.slice(0, m.index).trim();
+                    var zh = p.slice(m.index).trim();
+                    if (en && zh && en !== zh) {
+                        return '<span class="phrase-item"><span class="en">' + en + '</span> <span class="zh">' + zh + '</span></span>';
+                    }
                 }
                 return '<span class="phrase-item">' + p + '</span>';
             }).join('');
