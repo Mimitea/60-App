@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# 构建中间产物
+app/meta.json
+build/preview/
+build/check*.js
+
+# 工作区数据
+.workbuddy/

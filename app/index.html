@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>60篇外刊阅读 · 高考必备核心词</title>
+
+<!-- ============ PWA / iOS 支持 ============ -->
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="外刊单词卡" />
+<meta name="theme-color" content="#5a4a8a" />
+<meta name="description" content="60篇外刊阅读 · 高考必备核心词 — 21篇外刊阅读共568个高考核心词，翻转单词卡，即点即学。" />
+<link rel="manifest" href="manifest.webmanifest" />
+<link rel="apple-touch-icon" href="icons/icon-180.png" />
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png" />
+
+<style>
+    /* ============ 全局重置 ============ */
+    * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+    html, body { height: 100%; }
+    html { min-height: 100%; }
+    body {
+        min-height: 100%;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, system-ui, sans-serif;
+        color: #2d2d44;
+        transition: background 0.45s ease;
+        background-attachment: fixed;
+        -webkit-background-attachment: fixed;
+        padding: calc(env(safe-area-inset-top, 0px) + 16px) 16px calc(env(safe-area-inset-bottom, 0px) + 16px);
+        -webkit-font-smoothing: antialiased;
+    }
+    /* 首页背景：品牌紫渐变 */
+    body.home {
+        background: linear-gradient(150deg, #45327d 0%, #6a4a9a 48%, #9a8ac8 100%);
+    }
+    /* 闪卡页背景：由 JS 按各篇主题设置 */
+    body.passage {
+        background: linear-gradient(135deg, var(--vc1) 0%, var(--vc2) 100%);
+    }
+
+    /* ============ 通用玻璃面板 ============ */
+    .panel {
+        width: 100%;
+        max-width: 700px;
+        margin: auto;
+        background: rgba(255, 255, 255, 0.50);
+        backdrop-filter: blur(14px);
+        -webkit-backdrop-filter: blur(14px);
+        border-radius: 44px;
+        border: 1px solid rgba(255, 255, 255, 0.35);
+        box-shadow: 0 25px 50px -12px rgba(40, 20, 80, 0.40);
+        padding: 34px 28px 40px;
+    }
+
+    /* ============ 视图切换 ============ */
+    .view { display: none; }
+    .view.active {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: calc(100dvh - 32px);
+        padding-bottom: 4vh;
+        animation: fadeUp .35s ease;
+    }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+
+    /* =========================================================
+       首页
+       ========================================================= */
+    .home-panel { padding: 38px 24px 44px; text-align: center; }
+    .home-title {
+        font-size: clamp(30px, 7.5vw, 44px);
+        font-weight: 800;
+        letter-spacing: 2px;
+        background: linear-gradient(135deg, #fff 0%, #d9ccf7 100%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        line-height: 1.25;
+    }
+    .home-sub {
+        display: inline-flex; align-items: center; gap: 8px;
+        margin-top: 14px;
+        font-size: 16px; font-weight: 600; letter-spacing: 3px;
+        color: #fff;
+        background: rgba(255, 255, 255, 0.16);
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        padding: 8px 22px; border-radius: 60px;
+        backdrop-filter: blur(4px);
+    }
+    .home-stats {
+        margin-top: 18px;
+        font-size: 14px; color: rgba(255, 255, 255, 0.85); letter-spacing: 1px;
+    }
+    .home-stats b { font-weight: 700; color: #fff; }
+
+    /* 单列按钮列表（平面风格） */
+    .grid { margin-top: 28px; display: grid; grid-template-columns: 1fr; gap: 12px; }
+    .p-btn {
+        position: relative;
+        border: 1px solid rgba(255, 255, 255, 0.30);
+        border-radius: 18px;
+        padding: 16px 18px 15px;
+        text-align: center;
+        cursor: pointer;
+        color: #fff;
+        background: #7a6ab0;
+        box-shadow: none;
+        transition: background 0.2s ease, transform 0.15s ease;
+        text-decoration: none;
+        display: block;
+    }
+    .p-btn:active { transform: scale(0.97); }
+    .p-btn .p-no { font-size: 17px; font-weight: 800; letter-spacing: 1px; }
+    .p-btn .p-count { display: block; margin-top: 4px; font-size: 12.5px; opacity: 0.9; }
+    .p-btn .p-go {
+        position: absolute; top: 50%; right: 16px; transform: translateY(-50%);
+        width: 26px; height: 26px; border-radius: 50%;
+        background: rgba(255,255,255,0.25);
+        display: flex; align-items: center; justify-content: center;
+        font-size: 13px; line-height: 1;
+    }
+    /* REVIEW 按钮：固定品牌色 #625a94 */
+    .p-btn-review {
+        background: #625a94;
+        border-color: rgba(255, 255, 255, 0.30);
+    }
+    .p-btn-review .p-go { background: rgba(255,255,255,0.30); }
+
+    /* =========================================================
+       闪卡页（主题变量由 JS 按篇注入）
+       ========================================================= */
+    .back-bar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; padding: 0 2px; }
+    .back-btn {
+        display: inline-flex; align-items: center; gap: 6px;
+        border: 1px solid rgba(255,255,255,0.6);
+        cursor: pointer;
+        background: rgba(255,255,255,0.6);
+        color: var(--accent, #5a4a8a);
+        font-size: 15px; font-weight: 600;
+        padding: 8px 16px; border-radius: 60px;
+        box-shadow: none;
+        backdrop-filter: blur(4px);
+        transition: transform .15s ease;
+    }
+    .back-btn:active { transform: scale(0.94); }
+    .back-btn .arr { font-size: 18px; line-height: 1; }
+
+    .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding: 0 4px; gap: 10px; }
+    .header h1 {
+        font-size: clamp(20px, 5.4vw, 28px);
+        font-weight: 700; letter-spacing: 2px;
+        color: var(--accent, #5a4a8a);
+        background: linear-gradient(135deg, var(--c2, #9a8ac8), var(--c1, #5a4a8a));
+        -webkit-background-clip: text; background-clip: text;
+        -webkit-text-fill-color: transparent;
+        white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .header .counter {
+        flex-shrink: 0;
+        font-size: 15px; font-weight: 600; color: var(--accent, #5a4a8a);
+        background: rgba(255,255,255,0.6);
+        padding: 6px 15px; border-radius: 40px;
+        box-shadow: none;
+    }
+    /* GO 按钮：与返回键同尺寸，置于返回栏右侧 */
+    .go-btn {
+        border: 1px solid rgba(255,255,255,0.6);
+        cursor: pointer;
+        background: rgba(255,255,255,0.6);
+        color: #625a94;
+        font-size: 15px; font-weight: 600;
+        padding: 8px 16px; border-radius: 60px;
+        box-shadow: none;
+        backdrop-filter: blur(4px);
+        transition: transform .15s ease, opacity .2s ease;
+    }
+    .go-btn:active { transform: scale(0.94); }
+    .go-btn.disabled { opacity: 0.4; pointer-events: none; }
+
+    .card-wrapper { perspective: 1200px; margin: 10px 0 22px; position: relative; }
+    .card {
+        position: relative; width: 100%; padding-top: 92%;
+        transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+        transform-style: preserve-3d;
+        cursor: pointer;
+    }
+    .card.flipped { transform: rotateY(180deg); }
+    .card-face {
+        position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+        border-radius: 26px;
+        backface-visibility: hidden; -webkit-backface-visibility: hidden;
+        display: flex; flex-direction: column;
+        padding: 30px 26px;
+        background: linear-gradient(160deg, #ffffff 0%, var(--cardBg, #f0eaf8) 100%);
+        box-shadow: 0 20px 40px -12px var(--glow, rgba(60,40,100,0.25));
+        border: 1px solid rgba(255,255,255,0.7);
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+    /* 安全垂直居中：内容少时居中；内容超高时顶部对齐可完整滚动（避免 flex center 溢出裁剪） */
+    .card-face::before,
+    .card-face::after {
+        content: '';
+        flex: 0 0 auto;
+        margin: auto;
+    }
+    .card-front { align-items: center; text-align: center; }
+    .card-front .word {
+        font-size: clamp(40px, 10vw, 68px);
+        font-weight: 700; color: #1a1a2e; letter-spacing: 1px;
+        line-height: 1.2; margin-bottom: 6px; word-break: break-word;
+    }
+    .card-front .phonetic {
+        font-size: clamp(19px, 4vw, 27px); color: var(--accent, #5a4a8a);
+        margin-bottom: 12px; letter-spacing: 0.5px;
+    }
+    .card-front .speak-btn {
+        margin-top: 8px;
+        background: var(--speak-bg, rgba(90,74,138,0.10));
+        border: 1px solid var(--speak-border, rgba(90,74,138,0.15));
+        border-radius: 60px; padding: 10px 26px;
+        font-size: 17px; font-weight: 500; color: var(--accent, #5a4a8a);
+        display: inline-flex; align-items: center; gap: 10px; cursor: pointer;
+        transition: transform .18s ease, background .2s ease;
+    }
+    .card-front .speak-btn:active { transform: scale(0.94); }
+    .card-front .speak-btn svg { width: 22px; height: 22px; fill: currentColor; }
+    .card-front .flip-hint {
+        position: absolute; bottom: 16px; font-size: 12.5px;
+        color: var(--hint, #b0a0c0); letter-spacing: 1px; opacity: 0.75;
+    }
+
+    /* 收藏 "+" 按钮（卡片右上角） */
+    .add-btn {
+        position: absolute; top: 14px; right: 14px; z-index: 6;
+        width: 42px; height: 42px; border-radius: 50%;
+        border: 1px solid rgba(255,255,255,0.7);
+        cursor: pointer;
+        background: rgba(255,255,255,0.85);
+        color: var(--accent, #5a4a8a);
+        font-size: 26px; font-weight: 500; line-height: 1;
+        display: flex; align-items: center; justify-content: center;
+        box-shadow: none;
+        backdrop-filter: blur(6px);
+        -webkit-backdrop-filter: blur(6px);
+        transition: transform .18s ease, background .2s ease, color .2s ease;
+    }
+    .add-btn:active { transform: scale(0.9); }
+    .add-btn.added {
+        background: #625a94;
+        color: #fff;
+        border-color: #625a94;
+        font-size: 20px;
+    }
+
+    .card-back { transform: rotateY(180deg); align-items: flex-start; text-align: left; gap: 7px; }
+    .card-back .back-word { font-size: 21px; font-weight: 600; color: #1a1a2e; margin-bottom: 2px; }
+    .card-back .back-phonetic { font-size: 16px; color: var(--accent, #5a4a8a); margin-bottom: 10px; }
+    .card-back .detail { width: 100%; margin-bottom: 5px; }
+    .card-back .detail .label {
+        font-size: 12.5px; font-weight: 700; color: var(--accent, #5a4a8a);
+        text-transform: uppercase; letter-spacing: 0.8px;
+        background: var(--label-bg, rgba(90,74,138,0.08));
+        display: inline-block; padding: 2px 10px; border-radius: 8px; margin-bottom: 4px;
+    }
+    .card-back .detail .content { font-size: 15.5px; line-height: 1.6; color: #2d2d44; padding-left: 2px; }
+    .card-back .detail .content .example-en { font-style: italic; color: #3d3d5c; }
+    .card-back .detail .content .example-zh { color: #5a5a7a; font-size: 14.5px; }
+    .card-back .detail .content .phrase-item { display: block; padding: 2px 0; }
+    .card-back .detail .content .phrase-item .en { font-weight: 500; color: #2d2d44; }
+    .card-back .detail .content .phrase-item .zh { color: #5a5a7a; }
+    .card-back .flip-hint-back {
+        position: absolute; bottom: 16px; right: 26px;
+        font-size: 12.5px; color: var(--hint, #b0a0c0); letter-spacing: 1px; opacity: 0.75;
+    }
+
+    .nav { display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: 4px; }
+    .nav button {
+        border: 1px solid rgba(255,255,255,0.6);
+        padding: 12px 22px; border-radius: 60px;
+        font-size: 15.5px; font-weight: 600; cursor: pointer;
+        background: #fff; color: #2d2d44;
+        box-shadow: none;
+        display: inline-flex; align-items: center; gap: 8px;
+        letter-spacing: 0.3px;
+        transition: transform .15s ease, background .2s ease;
+    }
+    .nav button:active { transform: scale(0.94); }
+    .nav button.primary {
+        background: var(--primary-solid, #5a4a8a);
+        color: #fff; border: 1px solid var(--primary-solid, #5a4a8a);
+        box-shadow: none;
+    }
+    .nav .btn-icon { font-size: 18px; line-height: 1; }
+
+    .card-face::-webkit-scrollbar { width: 4px; }
+    .card-face::-webkit-scrollbar-track { background: transparent; }
+    .card-face::-webkit-scrollbar-thumb { background: var(--scroll, #c8b8d8); border-radius: 10px; }
+
+    /* =========================================================
+       REVIEW 收藏页
+       ========================================================= */
+    .review-panel { padding: 30px 24px 40px; }
+    /* REVIEW 标题：与 PASSAGE 页一致的渐变裁剪，书本图标同为单色 */
+    .review-panel .header h1 {
+        background: linear-gradient(135deg, #8a82b8 0%, #625a94 100%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        color: #625a94;
+    }
+    .review-panel .header .counter {
+        color: #625a94;
+    }
+    .review-list { display: flex; flex-direction: column; gap: 10px; margin-top: 6px; }
+    .r-item {
+        display: flex; align-items: center; gap: 12px;
+        background: rgba(255,255,255,0.75);
+        border: 1px solid rgba(255,255,255,0.6);
+        border-radius: 16px;
+        padding: 14px 14px 14px 18px;
+        box-shadow: none;
+        cursor: pointer;
+        transition: transform .15s ease;
+    }
+    .r-item:active { transform: scale(0.98); }
+    .r-info { flex: 1; min-width: 0; }
+    .r-word { font-size: 18px; font-weight: 700; color: #1a1a2e; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .r-phonetic { font-size: 13px; font-weight: 400; color: #7a6a9a; }
+    .r-meaning { font-size: 13.5px; color: #5a5a7a; margin-top: 3px; line-height: 1.5;
+        display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .r-del {
+        flex-shrink: 0;
+        width: 36px; height: 36px; border-radius: 50%;
+        border: none; cursor: pointer;
+        background: rgba(122,58,106,0.10);
+        color: #7a3a6a;
+        font-size: 24px; font-weight: 600; line-height: 1;
+        display: flex; align-items: center; justify-content: center;
+        transition: transform .15s ease, background .2s ease;
+    }
+    .r-del:active { transform: scale(0.88); }
+    .review-empty {
+        margin-top: 40px; text-align: center;
+        color: rgba(90,74,138,0.55);
+        font-size: 15px; line-height: 2; letter-spacing: 1px;
+    }
+    .review-empty .big { font-size: 44px; display: block; margin-bottom: 10px; }
+
+    /* ============ 响应式 ============ */
+    @media (max-width: 560px) {
+        body { padding: calc(env(safe-area-inset-top,0px) + 12px) 12px calc(env(safe-area-inset-bottom,0px) + 12px); }
+        .panel { border-radius: 32px; padding: 22px 16px 28px; }
+        .home-panel { padding: 28px 14px 34px; }
+        .grid { gap: 10px; margin-top: 22px; }
+        .p-btn { padding: 15px 16px 14px; }
+        .card-face { padding: 22px 18px; }
+        .card-front .word { font-size: 46px; }
+        .card-front .phonetic { font-size: 20px; }
+        .card-back .detail .content { font-size: 14px; }
+        .nav button { padding: 10px 14px; font-size: 14px; flex: 1 1 auto; min-width: 78px; justify-content: center; }
+        .nav { gap: 8px; }
+        .card-front .flip-hint, .card-back .flip-hint-back { font-size: 11px; bottom: 10px; }
+        .card-front .speak-btn { padding: 8px 18px; font-size: 15px; }
+        .header { margin-bottom: 16px; }
+        .review-panel { padding: 22px 14px 28px; }
+        .add-btn { width: 38px; height: 38px; font-size: 23px; top: 12px; right: 12px; }
+    }
+    @media (max-width: 390px) {
+        .panel { border-radius: 26px; padding: 18px 12px 24px; }
+        .card-front .word { font-size: 38px; }
+        .nav button { padding: 8px 10px; font-size: 13px; min-width: 60px; }
+    }
+</style>
+</head>
+<body class="home">
+
+<!-- ================= 首页 ================= -->
+<section id="homeView" class="view active">
+    <div class="panel home-panel">
+        <h1 class="home-title">60篇外刊阅读</h1>
+        <span class="home-sub">高 考 必 备 核 心 词</span>
+        <div class="home-stats">共 <b id="statTotal">21</b> 篇 · <b id="statWords">568</b> 个核心词</div>
+        <div class="grid" id="passageGrid"></div>
+    </div>
+</section>
+
+<!-- ================= 闪卡页 ================= -->
+<section id="passageView" class="view">
+    <div class="panel">
+        <div class="back-bar">
+            <button class="back-btn" id="backBtn"><span class="arr">‹</span> 返回</button>
+        </div>
+        <div class="header">
+            <h1 id="passageTitle"></h1>
+            <span class="counter" id="progressDisplay">1 / 24</span>
+        </div>
+
+        <div class="card-wrapper">
+            <button class="add-btn" id="addBtn" aria-label="收藏单词">+</button>
+            <div class="card" id="flashcard" role="button" tabindex="0" aria-label="点击翻转卡片">
+                <div class="card-face card-front">
+                    <div class="word" id="wordDisplay">word</div>
+                    <div class="phonetic" id="phoneticDisplay">/wɜːd/</div>
+                    <button class="speak-btn" id="speakBtn" aria-label="发音">
+                        <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+                        发音
+                    </button>
+                    <span class="flip-hint">↺ 点击翻转</span>
+                </div>
+                <div class="card-face card-back">
+                    <div class="back-word" id="backWord">word</div>
+                    <div class="back-phonetic" id="backPhonetic">/wɜːd/</div>
+                    <div class="detail" id="meaningContainer">
+                        <div class="label">📖 释义</div>
+                        <div class="content" id="meaningDisplay"></div>
+                    </div>
+                    <div class="detail" id="phrasesContainer" style="display:none;">
+                        <div class="label">🔗 词组</div>
+                        <div class="content" id="phrasesDisplay"></div>
+                    </div>
+                    <div class="detail" id="exampleContainer">
+                        <div class="label">✏️ 例句</div>
+                        <div class="content" id="exampleDisplay"></div>
+                    </div>
+                    <div class="detail" id="extensionContainer" style="display:none;">
+                        <div class="label">📎 拓展</div>
+                        <div class="content" id="extensionDisplay"></div>
+                    </div>
+                    <span class="flip-hint-back">↺ 点击翻转</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="nav">
+            <button id="prevBtn"><span class="btn-icon">◀</span> 上一个</button>
+            <button class="primary" id="randomBtn">随机</button>
+            <button id="nextBtn">下一个 <span class="btn-icon">▶</span></button>
+        </div>
+    </div>
+</section>
+
+<!-- ================= REVIEW 收藏页 ================= -->
+<section id="reviewView" class="view">
+    <div class="panel review-panel">
+        <div class="back-bar">
+            <button class="back-btn" id="reviewBackBtn"><span class="arr">‹</span> 返回</button>
+            <button id="goBtn" class="go-btn">GO</button>
+        </div>
+        <div class="header">
+            <h1 id="reviewTitle">📘 REVIEW</h1>
+            <span class="counter" id="reviewCount">0</span>
+        </div>
+        <div class="review-list" id="reviewList"></div>
+        <div class="review-empty" id="reviewEmpty">
+            <span class="big">📭</span>
+            还没有收藏单词<br/>在单词卡右上角点「+」即可加入
+        </div>
+    </div>
+</section>
+
+<script src="data.js"></script>
+<script>
+(function () {
+    'use strict';
+
+    var PASSAGES = window.PASSAGES || [];
+    var $ = function (id) { return document.getElementById(id); };
+
+    /* ---------- 颜色工具 ---------- */
+    function hexToRgb(h) {
+        h = h.replace('#', '');
+        if (h.length === 3) h = h.split('').map(function (c) { return c + c; }).join('');
+        return { r: parseInt(h.slice(0, 2), 16), g: parseInt(h.slice(2, 4), 16), b: parseInt(h.slice(4, 6), 16) };
+    }
+    function mix(a, b, t) {
+        var A = hexToRgb(a), B = hexToRgb(b);
+        var r = Math.round(A.r + (B.r - A.r) * t);
+        var g = Math.round(A.g + (B.g - A.g) * t);
+        var bl = Math.round(A.b + (B.b - A.b) * t);
+        return '#' + [r, g, bl].map(function (v) { return v.toString(16).padStart(2, '0'); }).join('');
+    }
+    function rgba(hex, alpha) {
+        var c = hexToRgb(hex);
+        return 'rgba(' + c.r + ',' + c.g + ',' + c.b + ',' + alpha + ')';
+    }
+    function luminance(hex) {
+        var c = hexToRgb(hex);
+        return (0.299 * c.r + 0.587 * c.g + 0.114 * c.b) / 255;
+    }
+
+    /* ---------- 状态 ---------- */
+    var current = { p: null, i: 0, mode: 'passage' };
+    var currentAudio = null;
+    var REVIEW_KEY = 'waka_review_v1';
+    var HOME_BG = 'linear-gradient(150deg, #45327d 0%, #6a4a9a 48%, #9a8ac8 100%)';
+    var REVIEW_C1 = '#625a94', REVIEW_C2 = '#8a82b8', REVIEW_CARD = '#eceaf8';
+    /* 计算文字用色：主题色偏浅时加深，保证与浅背景的对比度 */
+    function computeTextAccent(c1) {
+        return luminance(c1) < 0.55 ? c1 : mix(c1, '#3a2a5a', 0.55);
+    }
+    /* 标题书本图标：与原始 HTML 一致的彩色实心 emoji */
+    var BOOK_SVG = '📘';
+
+    /* ---------- 背景（html+body 同时设置并固定视口，避免长页面断层） ---------- */
+    function setBg(grad) {
+        var s = grad + ' fixed';
+        document.documentElement.style.background = s;
+        document.body.style.background = s;
+    }
+
+    /* ---------- REVIEW 收藏（localStorage 持久化） ---------- */
+    function loadReview() {
+        try { return JSON.parse(localStorage.getItem(REVIEW_KEY)) || []; } catch (e) { return []; }
+    }
+    function saveReview(list) { try { localStorage.setItem(REVIEW_KEY, JSON.stringify(list)); } catch (e) {} }
+    function isInReview(pId, word) {
+        return loadReview().some(function (x) { return x.p === pId && x.w === word; });
+    }
+    function addWord(pId, word) {
+        var list = loadReview();
+        if (!list.some(function (x) { return x.p === pId && x.w === word; })) {
+            list.push({ p: pId, w: word });
+            saveReview(list);
+            return true;
+        }
+        return false;
+    }
+    function removeWord(pId, word) {
+        var list = loadReview().filter(function (x) { return !(x.p === pId && x.w === word); });
+        saveReview(list);
+    }
+    function findEntry(pId, word) {
+        var p = PASSAGES.find(function (x) { return x.id === pId; });
+        if (!p) return null;
+        var idx = p.words.findIndex(function (w) { return w.word === word; });
+        if (idx < 0) return null;
+        return { p: p, idx: idx, data: p.words[idx] };
+    }
+
+    /* ---------- 首页 ---------- */
+    function renderHome() {
+        $('statTotal').textContent = PASSAGES.length;
+        var total = 0;
+        PASSAGES.forEach(function (p) { total += p.words.length; });
+        $('statWords').textContent = total;
+
+        var grid = $('passageGrid');
+        grid.innerHTML = '';
+
+        // REVIEW 按钮（偏蓝紫，置于 PASSAGE 1 之前）
+        var reviewBtn = document.createElement('a');
+        reviewBtn.className = 'p-btn p-btn-review';
+        reviewBtn.href = '#/review';
+        reviewBtn.id = 'reviewHomeBtn';
+        reviewBtn.innerHTML =
+            '<span class="p-no">REVIEW</span>' +
+            '<span class="p-count" id="reviewHomeCount">0 词</span>' +
+            '<span class="p-go">›</span>';
+        grid.appendChild(reviewBtn);
+
+        // PASSAGE 按钮（统一 PASSAGE1 紫渐变）
+        PASSAGES.forEach(function (p) {
+            var btn = document.createElement('a');
+            btn.className = 'p-btn';
+            btn.href = '#/p/' + p.id;
+            var no = p.title.replace(/[^\d]/g, '');
+            btn.innerHTML =
+                '<span class="p-no">PASSAGE ' + no + '</span>' +
+                '<span class="p-count">' + p.words.length + ' 词</span>' +
+                '<span class="p-go">›</span>';
+            grid.appendChild(btn);
+        });
+
+        updateReviewBadge();
+    }
+    function updateReviewBadge() {
+        var n = loadReview().length;
+        var el = $('reviewHomeCount');
+        if (el) el.textContent = n + ' 词';
+        var c = $('reviewCount');
+        if (c) c.textContent = n;
+    }
+
+    /* ---------- 主题注入 ---------- */
+    function applyTheme() {
+        var p = current.p;
+        if (!p) return;
+        var root = document.documentElement;
+        // 文字用色：主题色偏浅时自动加深，避免与浅色卡片背景混淆
+        var textAccent = computeTextAccent(p.c1);
+        root.style.setProperty('--vc1', p.c1);
+        root.style.setProperty('--vc2', p.c2);
+        root.style.setProperty('--c1', p.c1);
+        root.style.setProperty('--c2', p.c2);
+        root.style.setProperty('--cardBg', p.cardBg);
+        root.style.setProperty('--accent', textAccent);
+        root.style.setProperty('--hint', mix(textAccent, '#ffffff', 0.62));
+        root.style.setProperty('--scroll', mix(p.c1, '#ffffff', 0.55));
+        root.style.setProperty('--glow', rgba(p.c1, 0.28));
+        root.style.setProperty('--label-bg', rgba(textAccent, 0.10));
+        root.style.setProperty('--speak-bg', rgba(textAccent, 0.10));
+        root.style.setProperty('--speak-border', rgba(textAccent, 0.18));
+        // 主按钮纯色：若主题色偏浅则加深，保证白字可读
+        root.style.setProperty('--primary-solid',
+            luminance(p.c1) < 0.55 ? p.c1 : mix(p.c1, '#3a2a5a', 0.62));
+    }
+
+    /* ---------- 闪卡渲染 ---------- */
+    function renderCard() {
+        var data = current.p.words[current.i];
+        if (!data) return;
+        $('wordDisplay').textContent = data.word;
+        $('phoneticDisplay').textContent = data.phonetic;
+        $('backWord').textContent = data.word;
+        $('backPhonetic').textContent = data.phonetic;
+        $('meaningDisplay').textContent = data.meaning;
+
+        var pc = $('phrasesContainer'), pd = $('phrasesDisplay');
+        if (data.phrases && data.phrases.length > 0) {
+            pc.style.display = 'block';
+            pd.innerHTML = data.phrases.map(function (p) {
+                var en = p.replace(/\s*[（(].*$/, '').trim();
+                var zh = p.indexOf(' ') > 0 ? p.substring(p.indexOf(' ') + 1).trim() : '';
+                if (zh && en !== zh) {
+                    return '<span class="phrase-item"><span class="en">' + en + '</span> <span class="zh">' + zh + '</span></span>';
+                }
+                return '<span class="phrase-item">' + p + '</span>';
+            }).join('');
+        } else {
+            pc.style.display = 'none';
+        }
+
+        $('exampleDisplay').innerHTML =
+            '<span class="example-en">"' + data.example + '"</span><br>' +
+            '<span class="example-zh">' + (data.exampleZh || '') + '</span>';
+
+        var ec = $('extensionContainer');
+        if (data.extension && data.extension.trim() !== '') {
+            ec.style.display = 'block';
+            $('extensionDisplay').textContent = data.extension;
+        } else {
+            ec.style.display = 'none';
+        }
+
+        $('progressDisplay').textContent = (current.i + 1) + ' / ' + current.p.words.length;
+        $('flashcard').classList.remove('flipped');
+        updateAddBtn();
+    }
+
+    function goTo(i) {
+        var total = current.p.words.length;
+        if (i < 0) i = total - 1;
+        if (i >= total) i = 0;
+        current.i = i;
+        renderCard();
+    }
+    function next() { goTo(current.i + 1); }
+    function prev() { goTo(current.i - 1); }
+    function random() {
+        var total = current.p.words.length, n;
+        do { n = Math.floor(Math.random() * total); } while (n === current.i && total > 1);
+        goTo(n);
+    }
+
+    /* ---------- 收藏按钮状态 ---------- */
+    function reviewMetaFor(word) {
+        if (current.mode === 'review') {
+            return (current.reviewMeta || []).find(function (x) { return x.data.word === word; });
+        }
+        return null;
+    }
+    function updateAddBtn() {
+        var btn = $('addBtn');
+        var w = current.p.words[current.i];
+        var meta = reviewMetaFor(w.word);
+        var added = meta ? isInReview(meta.p, w.word) : isInReview(current.p.id, w.word);
+        btn.classList.toggle('added', added);
+        btn.textContent = added ? '✓' : '+';
+        btn.setAttribute('aria-label', added ? '移出收藏' : '收藏单词');
+    }
+    function toggleReview() {
+        var w = current.p.words[current.i];
+        var meta = reviewMetaFor(w.word);
+        if (meta) {
+            if (isInReview(meta.p, w.word)) removeWord(meta.p, w.word);
+            else addWord(meta.p, w.word);
+        } else {
+            if (isInReview(current.p.id, w.word)) removeWord(current.p.id, w.word);
+            else addWord(current.p.id, w.word);
+        }
+        updateAddBtn();
+        updateReviewBadge();
+    }
+
+    /* ---------- REVIEW 页 ---------- */
+    function renderReview() {
+        var list = loadReview();
+        var wrap = $('reviewList'), empty = $('reviewEmpty');
+        wrap.innerHTML = '';
+        $('goBtn').classList.toggle('disabled', list.length === 0);
+        if (list.length === 0) {
+            empty.style.display = 'block';
+        } else {
+            empty.style.display = 'none';
+            list.forEach(function (x) {
+                var e = findEntry(x.p, x.w);
+                var item = document.createElement('div');
+                item.className = 'r-item';
+                if (e) {
+                    item.innerHTML =
+                        '<div class="r-info">' +
+                            '<div class="r-word">' + e.data.word +
+                                '<span class="r-phonetic">' + e.data.phonetic + '</span>' +
+                                '<span class="r-phonetic">P' + e.p.id + '</span>' +
+                            '</div>' +
+                            '<div class="r-meaning">' + e.data.meaning + '</div>' +
+                        '</div>';
+                    item.addEventListener('click', function () {
+                        // 点击词条 → 打开对应闪卡
+                        openPassage(e.p.id, e.idx);
+                    });
+                } else {
+                    // 数据找不到（极少见），兜底显示
+                    item.innerHTML = '<div class="r-info"><div class="r-word">' + x.w + '</div></div>';
+                }
+                var del = document.createElement('button');
+                del.className = 'r-del';
+                del.textContent = '−';
+                del.setAttribute('aria-label', '移出收藏');
+                del.addEventListener('click', function (ev) {
+                    ev.stopPropagation();
+                    removeWord(x.p, x.w);
+                    renderReview();
+                    updateReviewBadge();
+                });
+                item.appendChild(del);
+                wrap.appendChild(item);
+            });
+        }
+        updateReviewBadge();
+    }
+
+    /* ---------- 发音（有道 HTTPS + 系统语音兜底） ---------- */
+    function speakWord(word) {
+        if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+        try {
+            var audio = new Audio('https://dict.youdao.com/dictvoice?type=1&audio=' + encodeURIComponent(word));
+            currentAudio = audio;
+            audio.play().catch(function () {
+                currentAudio = null;
+                fallbackSpeak(word);
+            });
+        } catch (e) {
+            fallbackSpeak(word);
+        }
+    }
+    function fallbackSpeak(word) {
+        try {
+            if ('speechSynthesis' in window) {
+                speechSynthesis.cancel();
+                var u = new SpeechSynthesisUtterance(word);
+                u.lang = 'en-US';
+                u.rate = 0.88;
+                speechSynthesis.speak(u);
+            }
+        } catch (e) { /* 忽略 */ }
+    }
+
+    /* ---------- 路由 ---------- */
+    function showView(name) {
+        ['homeView', 'passageView', 'reviewView'].forEach(function (v) {
+            $(v).classList.toggle('active', v === name);
+        });
+        window.scrollTo(0, 0);
+    }
+    function showHome() {
+        stopAudio();
+        document.body.className = 'home';
+        setBg(HOME_BG);
+        renderHome();
+        showView('homeView');
+    }
+    function openPassage(id, idx) {
+        var p = PASSAGES.find(function (x) { return x.id === id; });
+        if (!p) { showHome(); return; }
+        stopAudio();
+        current.p = p;
+        current.i = typeof idx === 'number' && idx >= 0 ? idx : 0;
+        current.mode = 'passage';
+        document.body.className = 'passage';
+        applyTheme();
+        setBg('linear-gradient(135deg, ' + p.c1 + ' 0%, ' + p.c2 + ' 100%)');
+        $('passageTitle').innerHTML = BOOK_SVG + ' PASSAGE ' + p.id;
+        renderCard();
+        showView('passageView');
+    }
+    /* REVIEW 收藏词闪卡（GO 按钮） */
+    function openReviewFlash() {
+        var entries = loadReview().map(function (x) { return findEntry(x.p, x.w); }).filter(Boolean);
+        if (entries.length === 0) return;
+        stopAudio();
+        current.p = {
+            id: 'review',
+            title: 'REVIEW',
+            c1: REVIEW_C1, c2: REVIEW_C2, cardBg: REVIEW_CARD,
+            words: entries.map(function (e) { return e.data; })
+        };
+        current.reviewMeta = entries;
+        current.i = 0;
+        current.mode = 'review';
+        document.body.className = 'passage';
+        applyTheme();
+        setBg('linear-gradient(135deg, ' + REVIEW_C1 + ' 0%, ' + REVIEW_C2 + ' 100%)');
+        $('passageTitle').innerHTML = BOOK_SVG + ' REVIEW';
+        renderCard();
+        showView('passageView');
+    }
+    function openReview() {
+        stopAudio();
+        document.body.className = 'home';
+        // 每次进入 REVIEW，随机一套主题渐变色系背景
+        var p = PASSAGES[Math.floor(Math.random() * PASSAGES.length)];
+        current.reviewTheme = p;
+        setBg('linear-gradient(135deg, ' + p.c1 + ' 0%, ' + p.c2 + ' 100%)');
+        // 返回按钮等文字与背景同色系
+        document.documentElement.style.setProperty('--accent', computeTextAccent(p.c1));
+        renderReview();
+        showView('reviewView');
+    }
+    function stopAudio() {
+        if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+        if ('speechSynthesis' in window) { try { speechSynthesis.cancel(); } catch (e) {} }
+    }
+    function route() {
+        var m = location.hash.match(/^#\/p\/(\d+)/);
+        if (m) openPassage(parseInt(m[1], 10));
+        else if (location.hash === '#/review') openReview();
+        else if (location.hash === '#/go') openReviewFlash();
+        else showHome();
+    }
+
+    /* ---------- 事件绑定 ---------- */
+    window.addEventListener('hashchange', route);
+
+    $('backBtn').addEventListener('click', function () {
+        location.hash = current.mode === 'review' ? '#/review' : '#/';
+    });
+    $('reviewBackBtn').addEventListener('click', function () { location.hash = '#/'; });
+    $('goBtn').addEventListener('click', function () {
+        if (loadReview().length === 0) return;
+        location.hash = '#/go';
+    });
+    $('addBtn').addEventListener('click', function (e) {
+        e.stopPropagation();
+        toggleReview();
+    });
+    $('flashcard').addEventListener('click', function (e) {
+        if (e.target.closest && (e.target.closest('#speakBtn') || e.target.closest('#addBtn'))) return;
+        this.classList.toggle('flipped');
+    });
+    $('speakBtn').addEventListener('click', function (e) {
+        e.stopPropagation();
+        speakWord(current.p.words[current.i].word);
+    });
+    $('prevBtn').addEventListener('click', prev);
+    $('nextBtn').addEventListener('click', next);
+    $('randomBtn').addEventListener('click', random);
+
+    document.addEventListener('keydown', function (e) {
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+        if (document.body.className !== 'passage') return;
+        if (e.key === 'ArrowRight') { e.preventDefault(); next(); }
+        else if (e.key === 'ArrowLeft') { e.preventDefault(); prev(); }
+        else if (e.key === 'r' || e.key === 'R') { e.preventDefault(); random(); }
+        else if (e.key === ' ' || e.key === 'Space') { e.preventDefault(); speakWord(current.p.words[current.i].word); }
+        else if (e.key === 'Escape') { location.hash = current.mode === 'review' ? '#/review' : '#/'; }
+    });
+
+    /* ---------- 初始化 ---------- */
+    renderHome();
+    route();
+
+    /* ---------- PWA Service Worker ---------- */
+    if ('serviceWorker' in navigator && location.protocol.indexOf('http') === 0) {
+        window.addEventListener('load', function () {
+            navigator.serviceWorker.register('sw.js').catch(function (err) {
+                console.warn('SW 注册失败:', err);
+            });
+        });
+    }
+})();
+</script>
+</body>
+</html>
