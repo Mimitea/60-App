@@ -1,5 +1,5 @@
-/* 60篇外刊单词卡 — Service Worker v8.0 (禁缩放 + REVIEW 分享导出)
-var CACHE = 'waka-flashcards-v8.0';
+/* 60篇外刊单词卡 — Service Worker v8.1 (词组显示修复)
+var CACHE = 'waka-flashcards-v8.1';
 var ASSETS = [
   './',
   './index.html',
