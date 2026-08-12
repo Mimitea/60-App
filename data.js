@@ -9572,4 +9572,3092 @@ window.PASSAGES = [
             exampleZh: '如果天气允许，我们明天去野餐。',
             extension: 'permission /pəˈmɪʃn/ n. 允许；许可'
         }] },
+  { id: 45, title: "📘 PASSAGE 45", c1: '#4AB8B8', c2: '#F5B86A', cardBg: '#EAF5F0', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 46, title: "📘 PASSAGE 46", c1: '#3A8A7A', c2: '#7AC8B8', cardBg: '#EAF5F0', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 47, title: "📘 PASSAGE 47", c1: '#5A8A7A', c2: '#9AC8B8', cardBg: '#EAF5F0', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 48, title: "📘 PASSAGE 48", c1: '#8A2A5A', c2: '#C85A7A', cardBg: '#F8EDF0', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 49, title: "📘 PASSAGE 49", c1: '#5A4A8A', c2: '#9A7AC8', cardBg: '#F0EAF8', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 50, title: "📘 PASSAGE 50", c1: '#6A4A9A', c2: '#B88AD8', cardBg: '#F5EDF8', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 51, title: "📘 PASSAGE 51", c1: '#5A4A8A', c2: '#9A8AC8', cardBg: '#F0EAF8', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 52, title: "📘 PASSAGE 52", c1: '#B84030', c2: '#F5A84A', cardBg: '#F5ECE0', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 53, title: "📘 PASSAGE 53", c1: '#2A7A7A', c2: '#5AAA8A', cardBg: '#EAF5F0', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 54, title: "📘 PASSAGE 54", c1: '#4A6FA5', c2: '#E88A5A', cardBg: '#F0F5FA', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 55, title: "📘 PASSAGE 55", c1: '#D48A4A', c2: '#F5C86A', cardBg: '#F8F0E0', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 56, title: "📘 PASSAGE 56", c1: '#C85A3A', c2: '#E88A5A', cardBg: '#F8EDE0', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 57, title: "📘 PASSAGE 57", c1: '#B88AD8', c2: '#F5B8D0', cardBg: '#F8EDF5', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 58, title: "📘 PASSAGE 58", c1: '#2A6A4A', c2: '#7ABA7A', cardBg: '#EAF5EA', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 59, title: "📘 PASSAGE 59", c1: '#E8B0D8', c2: '#F5C8E0', cardBg: '#F8EDF5', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
+  { id: 60, title: "📘 PASSAGE 60", c1: '#C87A3A', c2: '#E8B86A', cardBg: '#F8F0E0', words: [{
+            word: 'spend',
+            phonetic: '/spend/',
+            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
+            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
+            example: 'He spent all his savings on books.',
+            exampleZh: '他把所有积蓄都花在了买书上。',
+            extension: ''
+        }, {
+            word: 'entire',
+            phonetic: '/ɪnˈtaɪər/',
+            meaning: 'adj. 全部的，整个的',
+            phrases: [],
+            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
+            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
+            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
+        }, {
+            word: 'teach',
+            phonetic: '/tiːtʃ/',
+            meaning: 'v. 教，讲授',
+            phrases: ['teach sb. to do sth. 教某人做某事'],
+            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
+            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
+            extension: 'teacher /ˈtiːtʃər/ n. 教师'
+        }, {
+            word: 'struggle',
+            phonetic: '/ˈstrʌɡl/',
+            meaning: 'v./n. 奋斗，努力；挣扎',
+            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
+            example: 'Many students struggle with complex math problems, but practice can build confidence.',
+            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
+            extension: ''
+        }, {
+            word: 'discuss',
+            phonetic: '/dɪˈskʌs/',
+            meaning: 'v. 讨论，商议',
+            phrases: ['discuss sth. with sb. 与某人讨论某事'],
+            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
+            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
+            extension: ''
+        }, {
+            word: 'importance',
+            phonetic: '/ɪmˈpɔːtns/',
+            meaning: 'n. 重要性',
+            phrases: ['be of great importance 非常重要'],
+            example: 'We must understand the importance of protecting the environment.',
+            exampleZh: '我们必须明白保护环境的重要性。',
+            extension: ''
+        }, {
+            word: 'significant',
+            phonetic: '/sɪɡˈnɪfɪkənt/',
+            meaning: 'adj. 重要的；有意义的；显著的',
+            phrases: [],
+            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
+            exampleZh: '青霉素的发现是医学史上的重大突破。',
+            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
+        }, {
+            word: 'learning',
+            phonetic: '/ˈlɜːnɪŋ/',
+            meaning: 'n. 学习；学识',
+            phrases: [],
+            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
+            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
+            extension: ''
+        }, {
+            word: 'without',
+            phonetic: '/wɪˈðaʊt/',
+            meaning: 'prep. 没有；无；不（做某事）',
+            phrases: [],
+            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
+            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
+            extension: ''
+        }, {
+            word: 'low',
+            phonetic: '/ləʊ/',
+            meaning: 'adj. 低的，矮的；不足的',
+            phrases: [],
+            example: 'The battery is running low, so the device switches to power-saving mode.',
+            exampleZh: '电池电量不足，因此设备切换至省电模式。',
+            extension: ''
+        }, {
+            word: 'group',
+            phonetic: '/ɡruːp/',
+            meaning: 'n. 组，团体，群',
+            phrases: [],
+            example: 'After the field trip, our study group created a detailed report with photos.',
+            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
+            extension: ''
+        }, {
+            word: 'difficult',
+            phonetic: '/ˈdɪfɪkəlt/',
+            meaning: 'adj. 困难的，艰难的',
+            phrases: [],
+            example: 'The listening test became increasingly difficult with faster dialogues.',
+            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
+            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
+        }, {
+            word: 'raise',
+            phonetic: '/reɪz/',
+            meaning: 'v. 提高；举起；筹集；养育',
+            phrases: ['raise money 筹款'],
+            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
+            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
+            extension: ''
+        }, {
+            word: 'ability',
+            phonetic: '/əˈbɪləti/',
+            meaning: 'n. 能力；才能',
+            phrases: [],
+            example: 'He has the ability to solve this difficult problem.',
+            exampleZh: '他有能力解决这个难题。',
+            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
+        }, {
+            word: 'bright',
+            phonetic: '/braɪt/',
+            meaning: 'adj. 明亮的；乐观的；聪明的',
+            phrases: [],
+            example: 'The bright sunlight filled the room with warmth.',
+            exampleZh: '明亮的阳光让房间充满了温暖。',
+            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
+        }, {
+            word: 'saying',
+            phonetic: '/ˈseɪɪŋ/',
+            meaning: 'n. 谚语，格言',
+            phrases: [],
+            example: 'There is an old saying, "Practice makes perfect."',
+            exampleZh: '有一句古老的谚语：“熟能生巧。”',
+            extension: ''
+        }, {
+            word: 'quiz',
+            phonetic: '/kwɪz/',
+            meaning: 'n. 小测验；问答比赛',
+            phrases: [],
+            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
+            exampleZh: '测验后，老师让我们交换试卷进行互评。',
+            extension: ''
+        }, {
+            word: 'paper',
+            phonetic: '/ˈpeɪpər/',
+            meaning: 'n. 纸；论文；试卷',
+            phrases: [],
+            example: 'Her research paper on climate change earned top marks.',
+            exampleZh: '她关于气候变化的研究论文获得了最高分。',
+            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
+        }, {
+            word: 'review',
+            phonetic: '/rɪˈvjuː/',
+            meaning: 'v./n. 复习；评论',
+            phrases: [],
+            example: 'Before the exam, we will review all key concepts from the textbook.',
+            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
+            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
+        }, {
+            word: 'bring',
+            phonetic: '/brɪŋ/',
+            meaning: 'v. 带来，拿来；引起；养育',
+            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
+            example: 'The controversial rule brought strong protests across the company.',
+            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            extension: ''
+        }, {
+            word: 'risk',
+            phonetic: '/rɪsk/',
+            meaning: 'n. 风险，危险；v. 冒……的风险',
+            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
+            example: 'There is a risk of getting sick if you don\'t keep warm.',
+            exampleZh: '如果你不保暖就有生病的风险。',
+            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
+        }, {
+            word: 'champion',
+            phonetic: '/ˈtʃæmpiən/',
+            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
+            phrases: ['a world champion 世界冠军'],
+            example: 'She is the champion of the singing competition.',
+            exampleZh: '她是歌唱比赛的冠军。',
+            extension: ''
+        }, {
+            word: 'insist',
+            phonetic: '/ɪnˈsɪst/',
+            meaning: 'v. 坚持；坚决要求',
+            phrases: ['insist on 坚持；坚决主张'],
+            example: 'The witness insisted that the suspect was at the crime scene that night.',
+            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
+            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
+        }, {
+            word: 'possibly',
+            phonetic: '/ˈpɒsəbli/',
+            meaning: 'adv. 可能，也许',
+            phrases: [],
+            example: 'He will possibly arrive here in an hour.',
+            exampleZh: '他也许一小时后到达这里。',
+            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
+        }] },
 ];
