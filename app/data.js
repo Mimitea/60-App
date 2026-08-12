@@ -5,8 +5,8 @@ window.PASSAGES = [
             phonetic: '/spend/',
             meaning: 'v. 花费（时间、金钱等）；度过；消耗',
             phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
+            example: 'He plans to spend all his savings on books.',
+            exampleZh: '他打算把所有积蓄花在买书上。',
             extension: ''
         }, {
             word: 'entire',
@@ -157,8 +157,8 @@ window.PASSAGES = [
             phonetic: '/brɪŋ/',
             meaning: 'v. 带来，拿来；引起；养育',
             phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
+            example: 'The new rule may bring strong protests across the company.',
+            exampleZh: '这项新规定可能会在公司引发强烈抗议。',
             extension: ''
         }, {
             word: 'risk',
@@ -382,8 +382,8 @@ window.PASSAGES = [
             phonetic: '/ɪˌlekˈtrɒnɪk/',
             meaning: 'adj. 电子的，电子设备的',
             phrases: [],
-            example: 'Students must pick three optional courses from the list provided by the school.',
-            exampleZh: '学生必须从学校提供的列表中选修三门选修课。',
+            example: 'Electronic dictionaries are now widely used in English classes.',
+            exampleZh: '电子词典如今在英语课上被广泛使用。',
             extension: 'electric /ɪˈlektrɪk/ adj. 用电的，电动的'
         }, {
             word: 'wave',
@@ -1082,8 +1082,8 @@ window.PASSAGES = [
             phonetic: '/ˌəʊvərˈkʌm/',
             meaning: 'v. 克服',
             phrases: ['overcome obstacles 克服困难'],
-            example: 'She overcame her fear of failure by attempting new challenges every week.',
-            exampleZh: '她通过每周尝试新挑战来克服对失败的恐惧。',
+            example: 'She tried hard to overcome her fear of failure.',
+            exampleZh: '她努力克服对失败的恐惧。',
             extension: ''
         }, {
             word: 'intention',
@@ -2070,8 +2070,8 @@ window.PASSAGES = [
             phonetic: '/rəʊˈmæntɪsaɪz/',
             meaning: 'v. 美化；浪漫化',
             phrases: [],
-            example: 'Historians warn against romanticizing past eras without acknowledging their hardships.',
-            exampleZh: '历史学家警告不要美化过去而忽视其艰辛。',
+            example: 'We should not romanticize the past; life was hard then.',
+            exampleZh: '我们不应把过去浪漫化，那时的生活很艰难。',
             extension: 'romantic /rəʊˈmæntɪk/ adj. 浪漫的；romance /rəʊˈmæns/ n. 浪漫'
         }, {
             word: 'pressure',
@@ -2392,8 +2392,8 @@ window.PASSAGES = [
             phonetic: '/ɪɡˈnɔːr/',
             meaning: 'v. 忽视；无视',
             phrases: [],
-            example: 'Ignoring the warning signs of climate change will lead to disaster.',
-            exampleZh: '忽视气候变化的预警信号将导致灾难。',
+            example: 'Don\'t ignore the warning signs of climate change.',
+            exampleZh: '不要忽视气候变化的警告信号。',
             extension: 'ignorance /ˈɪɡnərəns/ n. 无知'
         }, {
             word: 'underrate',
@@ -2979,8 +2979,8 @@ window.PASSAGES = [
             phonetic: '/weɪk/',
             meaning: 'v. 醒来；唤醒',
             phrases: ['wake up 醒来；唤醒'],
-            example: 'The loud noise woke him up in the middle of the night.',
-            exampleZh: '巨大的噪声把他半夜吵醒了。',
+            example: 'Please wake me up at six tomorrow morning.',
+            exampleZh: '请明天早上六点叫醒我。',
             extension: 'awake /əˈweɪk/ adj. 醒着的；awaken /əˈweɪkən/ v. 使醒来；唤醒'
         }, {
             word: 'routine',
@@ -3188,8 +3188,8 @@ window.PASSAGES = [
             phonetic: '/muːv/',
             meaning: 'v./n. 移动；前进；搬；行动',
             phrases: ['move to 搬到', 'move out 搬走'],
-            example: 'The bus was already moving when I jumped onto it.',
-            exampleZh: '我跳上车的时候，公共汽车已经开动了。',
+            example: 'He decided to move to a bigger city for work.',
+            exampleZh: '他决定搬到更大的城市工作。',
             extension: ''
         }, {
             word: 'pretty',
@@ -3557,8 +3557,8 @@ window.PASSAGES = [
             phonetic: '/nəˈsesəti/',
             meaning: 'n. 必要；必需品',
             phrases: ['the necessity of ……的必要性', 'daily necessity 日常必需品'],
-            example: 'Water and food are basic necessities for survival.',
-            exampleZh: '水和食物是生存的基本必需品。',
+            example: 'A computer is a necessity for most office workers today.',
+            exampleZh: '如今电脑是大多数上班族的必需品。',
             extension: ''
         }, {
             word: 'free',
@@ -3670,8 +3670,8 @@ window.PASSAGES = [
             phonetic: '/draɪ/',
             meaning: 'adj. 干的，干燥的；干旱的；干涸的；v.（使）变干',
             phrases: ['dry one\'s hair 吹干头发'],
-            example: 'This kind of mud can be brushed off easily when it dries.',
-            exampleZh: '这种泥土干后很容易刷净。',
+            example: 'Hang the clothes in the sun so they will dry quickly.',
+            exampleZh: '把衣服挂在太阳下，这样它们会干得快。',
             extension: ''
         }, {
             word: 'virtually',
@@ -4208,8 +4208,8 @@ window.PASSAGES = [
             phonetic: '/liːd/',
             meaning: 'v. 领导；领先；带领；导致；n. 领先',
             phrases: ['lead to 导致', 'take the lead 带头，领先'],
-            example: 'He led the team to victory in the competition.',
-            exampleZh: '他带领团队在比赛中取得了胜利。',
+            example: 'She has the ability to lead the team to victory.',
+            exampleZh: '她有能力带领团队走向胜利。',
             extension: 'leader /ˈliːdər/ n. 领导者；leadership /ˈliːdərʃɪp/ n. 领导力'
         }, {
             word: 'uniformly',
@@ -5856,8 +5856,8 @@ window.PASSAGES = [
             phonetic: '/ˈkæri/',
             meaning: 'v. 携带；搬运；带有；继续；传递',
             phrases: ['carry on 继续'],
-            example: 'Her speech carried a strong message about environmental protection.',
-            exampleZh: '她的演讲传递了有关环境保护的强烈信息。',
+            example: 'Please carry the box upstairs.',
+            exampleZh: '请把箱子搬上楼。',
             extension: 'carrier /ˈkæriər/ n. 携带者；运输工具'
         }, {
             word: 'produce',
@@ -6129,8 +6129,8 @@ window.PASSAGES = [
             phonetic: '/ˈtʃærəti/',
             meaning: 'n. 慈善，慈善组织；仁慈',
             phrases: [],
-            example: 'The concert will raise money for local charities.',
-            exampleZh: '这场音乐会将为当地慈善机构募捐。',
+            example: 'He gives a lot of money to charity every year.',
+            exampleZh: '他每年向慈善机构捐很多钱。',
             extension: 'charitable /ˈtʃærətəbl/ adj. 慈善的；仁慈的'
         }, {
             word: 'project',
@@ -6265,8 +6265,8 @@ window.PASSAGES = [
             phonetic: '/ɪnˈvaɪt/',
             meaning: 'v. 邀请，约请',
             phrases: ['invite sb. to do sth. 邀请某人做某事'],
-            example: 'Inviting experts to give lectures is an effective way to enrich our knowledge.',
-            exampleZh: '邀请专家来做讲座是丰富我们知识的有效途径。',
+            example: 'The school will invite a famous scientist to give a lecture.',
+            exampleZh: '学校将邀请一位著名科学家来做讲座。',
             extension: 'invitation /ˌɪnvɪˈteɪʃn/ n. 邀请'
         }, {
             word: 'spread',
@@ -6579,8 +6579,8 @@ window.PASSAGES = [
             phonetic: '/raɪd/',
             meaning: 'v. 骑（马、车等）；乘坐；n. 乘骑；旅程',
             phrases: ['go for a ride 去兜风'],
-            example: 'We rode on the roller coaster with excitement.',
-            exampleZh: '我们兴奋地坐过了过山车。',
+            example: 'He likes to ride a bike to school every day.',
+            exampleZh: '他喜欢每天骑自行车上学。',
             extension: 'riding /ˈraɪdɪŋ/ n. 骑马'
         }, {
             word: 'specific',
@@ -6683,8 +6683,8 @@ window.PASSAGES = [
             phonetic: '/ˈhezɪteɪt/',
             meaning: 'v. 犹豫，迟疑',
             phrases: ['hesitate to do sth. 犹豫做某事'],
-            example: 'He\'s still hesitating about joining the expedition.',
-            exampleZh: '他对于参加这次远征仍犹豫不决。',
+            example: 'Don\'t hesitate to ask for help when you need it.',
+            exampleZh: '需要帮助时不要犹豫，尽管开口。',
             extension: 'hesitation /ˌhezɪˈteɪʃn/ n. 犹豫；hesitant /ˈhezɪtənt/ adj. 犹豫的'
         }, {
             word: 'stick',
@@ -6804,8 +6804,8 @@ window.PASSAGES = [
             phonetic: '/ˈbɒdi/',
             meaning: 'n. 身体；主要部分；一批',
             phrases: [],
-            example: 'Evidence suggests that all of us have cancer cells in our bodies at times during our lives.',
-            exampleZh: '证据表明，我们每个人的体内在一生中的某些时期都会有癌细胞。',
+            example: 'The human body needs enough sleep to stay healthy.',
+            exampleZh: '人体需要充足的睡眠来保持健康。',
             extension: 'embody /ɪmˈbɒdi/ v. 体现'
         }, {
             word: 'research',
@@ -6860,8 +6860,8 @@ window.PASSAGES = [
             phonetic: '/ˈmeməri/',
             meaning: 'n. 记忆，回忆；记性',
             phrases: ['in memory of 为纪念……'],
-            example: 'Her kindness will live on in our memories.',
-            exampleZh: '她的善良将长存于我们的记忆中。',
+            example: 'She has a good memory for names and faces.',
+            exampleZh: '她对名字和面孔记性很好。',
             extension: 'memorize /ˈmeməraɪz/ v. 记忆，记住'
         }, {
             word: 'understand',
@@ -7021,8 +7021,8 @@ window.PASSAGES = [
             phonetic: '/iˈkɒlədʒi/',
             meaning: 'n. 生态；生态学',
             phrases: [],
-            example: 'The ecological balance of the region must be preserved.',
-            exampleZh: '该地区的生态平衡必须得到保护。',
+            example: 'Scientists are studying the ecology of this unique island.',
+            exampleZh: '科学家们正在研究这座独特岛屿的生态。',
             extension: 'ecological /ˌiːkəˈlɒdʒɪkl/ adj. 生态的'
         }, {
             word: 'management',
@@ -7141,8 +7141,8 @@ window.PASSAGES = [
             phonetic: '/rɪˈvaɪz/',
             meaning: 'v. 修订，修改；复习',
             phrases: [],
-            example: 'She spent the whole weekend revising for the exam.',
-            exampleZh: '她整个周末都在复习考试。',
+            example: 'You should revise your plan before the meeting.',
+            exampleZh: '开会前你应该修改一下你的计划。',
             extension: ''
         }, {
             word: 'accordingly',
@@ -7165,7 +7165,7 @@ window.PASSAGES = [
             word: 'industry',
             phonetic: '/ˈɪndəstri/',
             meaning: 'n. 行业；产业；工业',
-            phrases: ['manufacturing industries 制造业'],
+            phrases: ['manufacturing industry 制造业'],
             example: 'The tech industry in China has grown rapidly in recent years.',
             exampleZh: '中国的科技产业近年来发展迅速。',
             extension: 'industrialize /ɪnˈdʌstriəlaɪz/ v. 工业化'
@@ -7342,8 +7342,8 @@ window.PASSAGES = [
             phonetic: '/fəˈsɪləti/',
             meaning: 'n. 设施；设备',
             phrases: ['a cooling facility 冷藏设施'],
-            example: 'They plan to improve recreational facilities.',
-            exampleZh: '他们计划改善娱乐设施。',
+            example: 'The new sports facility will be open to all students.',
+            exampleZh: '新的体育设施将向所有学生开放。',
             extension: ''
         }, {
             word: 'transfer',
@@ -7905,8 +7905,8 @@ window.PASSAGES = [
             phonetic: '/tʃuːz/',
             meaning: 'v. 选择，挑选',
             phrases: ['choose from 从……中选择', 'choose to do sth. 选择做某事'],
-            example: 'Peter was disappointed not to be chosen for the team.',
-            exampleZh: '彼得因为没有被选进队里而失望。',
+            example: 'You should choose a topic that interests you.',
+            exampleZh: '你应该选择一个你感兴趣的话题。',
             extension: 'choice /tʃɔɪs/ n. 选择'
         }, {
             word: 'neighborhood',
@@ -8081,8 +8081,8 @@ window.PASSAGES = [
             phonetic: '/dɪɡ/',
             meaning: 'v. 挖掘；翻找；n. 挖掘；考古发掘',
             phrases: ['dig out 挖出'],
-            example: 'The dog dug a hole in the garden to hide its bone.',
-            exampleZh: '狗在花园里挖洞藏骨头。',
+            example: 'The children like to dig holes in the sand.',
+            exampleZh: '孩子们喜欢在沙子里挖洞。',
             extension: 'digger /ˈdɪɡər/ n. 挖掘机；挖掘者'
         }, {
             word: 'traditional',
@@ -8314,8 +8314,8 @@ window.PASSAGES = [
             phonetic: '/bɪˈkʌm/',
             meaning: 'v. 开始变得；变成',
             phrases: [],
-            example: 'After the long talk, he became more optimistic about his future.',
-            exampleZh: '经过长谈，他对自己的未来变得乐观起来。',
+            example: 'She wants to become a doctor in the future.',
+            exampleZh: '她将来想成为一名医生。',
             extension: ''
         }] },
   { id: 39, title: "📘 PASSAGE 39", c1: '#7AC8A8', c2: '#4AB8B8', cardBg: '#EAF5F0', words: [{
@@ -8580,8 +8580,8 @@ window.PASSAGES = [
             phonetic: '/ˈɡrəʊsəri/',
             meaning: 'n. 食品杂货',
             phrases: [],
-            example: 'Her job is to stock groceries on shelves in the store.',
-            exampleZh: '她的工作是在店里给食品杂货上架。',
+            example: 'He works in a grocery store near our school.',
+            exampleZh: '他在我们学校附近的一家食品杂货店工作。',
             extension: ''
         }, {
             word: 'impulse',
@@ -9254,9 +9254,9 @@ window.PASSAGES = [
             word: 'certify',
             phonetic: '/ˈsɜːtɪfaɪ/',
             meaning: 'v. 证明；认证',
-            phrases: ['be certified as 被认证为……'],
-            example: 'The product is certified to meet safety standards.',
-            exampleZh: '该产品被认证符合安全标准。',
+            phrases: ['certify the quality 认证质量'],
+            example: 'Experts will certify that the product meets safety standards.',
+            exampleZh: '专家将认证该产品符合安全标准。',
             extension: 'certificate /səˈtɪfɪkət/ n. 证书'
         }, {
             word: 'support',
@@ -9295,8 +9295,8 @@ window.PASSAGES = [
             phonetic: '/hæŋ/',
             meaning: 'v. 悬挂；垂下；悬浮；施以绞刑',
             phrases: ['hang on 坚持；稍等'],
-            example: 'The leaves hung low under the weight of the rain.',
-            exampleZh: '叶子因雨水的重量低垂下来。',
+            example: 'Please hang your coat on the hook by the door.',
+            exampleZh: '请把你的外套挂在门边的挂钩上。',
             extension: ''
         }, {
             word: 'architecture',
@@ -9343,8 +9343,8 @@ window.PASSAGES = [
             phonetic: '/bɪˈɡɪn/',
             meaning: 'v. 开始；着手',
             phrases: ['begin to do sth. 开始做某事'],
-            example: 'She began to cry when she heard the news.',
-            exampleZh: '听到这个消息时，她开始哭泣。',
+            example: 'The meeting will begin at nine o’clock sharp.',
+            exampleZh: '会议将于九点整开始。',
             extension: 'beginner /bɪˈɡɪnər/ n. 初学者；beginning /bɪˈɡɪnɪŋ/ n. 开端'
         }, {
             word: 'reveal',
@@ -9573,7 +9573,7 @@ window.PASSAGES = [
             extension: 'permission /pəˈmɪʃn/ n. 允许；许可'
         }] },
   { id: 45, title: "📘 PASSAGE 45", c1: '#4AB8B8', c2: '#F5B86A', cardBg: '#EAF5F0', words: [
-        {"word": "spell", "phonetic": "/spel/", "meaning": "v. 拼写，拼出；招致，意味着 n. 咒语", "example": "He holds the title of school chess champion.", "exampleZh": "他拥有校际象棋冠军头衔。", "extension": "spelling /ˈspelɪŋ/ n. 拼写；misspell /ˌmɪsˈspel/ v. 拼错"},
+        {"word": "spell", "phonetic": "/spel/", "meaning": "v. 拼写，拼出；招致，意味着 n. 咒语", "example": "The teacher asked us to spell the new words one by one.", "exampleZh": "老师让我们一个接一个地拼写新单词。", "extension": "spelling /ˈspelɪŋ/ n. 拼写；misspell /ˌmɪsˈspel/ v. 拼错"},
         {"word": "title", "phonetic": "/ˈtaɪtl/", "meaning": "n. 标题；头衔；冠军 v. 加标题", "phrases": ["a job title 职位头衔"], "example": "The title of the novel immediately caught my attention.", "exampleZh": "这部小说的书名立刻吸引了我的注意。", "extension": "subtitle /ˈsʌbtaɪtl/ n. 副标题；entitle /ɪnˈtaɪtl/ v. 授予权利"},
         {"word": "viewer", "phonetic": "/ˈvjuːər/", "meaning": "n. 观众；观看者", "phrases": ["target viewers 目标观众"], "example": "The art exhibition drew viewers from around the world.", "exampleZh": "这次艺术展览吸引了世界各地的观众。", "extension": "view /vjuː/ v./n. 观看；观点"},
         {"word": "synonymous", "phonetic": "/sɪˈnɒnɪməs/", "meaning": "adj. 同义的；等同的", "phrases": ["be synonymous with 与……同义"], "example": "For tourists, Paris is synonymous with romance and art.", "exampleZh": "对游客而言，巴黎是浪漫与艺术的代名词。", "extension": "synonym /ˈsɪnənɪm/ n. 同义词；antonym /ˈæntənɪm/ n. 反义词"},
@@ -9588,7 +9588,7 @@ window.PASSAGES = [
         {"word": "tone", "phonetic": "/təʊn/", "meaning": "n. 语气；音调；色调；基调", "phrases": ["in a tone of... 以……的语气", "set the tone 定调子"], "example": "The artist used warm tones to create a peaceful landscape.", "exampleZh": "艺术家用暖色调创作出宁静的风景画。", "extension": ""},
         {"word": "appealing", "phonetic": "/əˈpiːlɪŋ/", "meaning": "adj. 吸引人的", "example": "The website's visually appealing design increased user engagement.", "exampleZh": "网站视觉上吸引人的设计提高了用户参与度。", "extension": "appeal /əˈpiːl/ v./n. 吸引；呼吁；unappealing /ˌʌnəˈpiːlɪŋ/ adj. 无吸引力的"},
         {"word": "competitive", "phonetic": "/kəmˈpetətɪv/", "meaning": "adj. 竞争的；有竞争力的", "example": "Prices are more competitive in online stores.", "exampleZh": "网店的价格更有竞争力。", "extension": "compete /kəmˈpiːt/ v. 竞争；competition /ˌkɒmpəˈtɪʃn/ n. 竞争"},
-        {"word": "category", "phonetic": "/ˈkætəɡəri/", "meaning": "n. 类别；目录", "example": "The app sorts expenses into different categories.", "exampleZh": "这款应用将支出归入不同类别。", "extension": "categorize /ˈkætəɡəraɪz/ v. 分类"},
+        {"word": "category", "phonetic": "/ˈkætəɡəri/", "meaning": "n. 类别；目录", "example": "Please put each book into the right category.", "exampleZh": "请把每本书放入正确的类别。", "extension": "categorize /ˈkætəɡəraɪz/ v. 分类"},
         {"word": "stand", "phonetic": "/stænd/", "meaning": "v. 站立；忍受；处于（某状态） n. 立场；摊位", "phrases": ["stand for 代表", "stand out 突出；出众"], "example": "The red logo stands out against the white background.", "exampleZh": "红色标志在白色背景下很显眼。", "extension": "withstand /wɪθˈstænd/ v. 承受；outstanding /aʊtˈstændɪŋ/ adj. 杰出的"},
         {"word": "eye-catching", "phonetic": "/ˌaɪ ˈkætʃɪŋ/", "meaning": "adj. 引人注目的，醒目的", "example": "Tropical birds have eye-catching colors to attract mates.", "exampleZh": "热带鸟类用吸睛颜色吸引配偶。", "extension": ""},
         {"word": "connect", "phonetic": "/kəˈnekt/", "meaning": "v. 联系，连接", "phrases": ["connect A with B 将 A 与 B 联系起来"], "example": "The new bridge connects the two cities across the river.", "exampleZh": "这座新桥连接了河两岸的两座城市。", "extension": "disconnect /ˌdɪskəˈnekt/ v. 断开；connection /kəˈnekʃn/ n. 联系"},
@@ -9624,7 +9624,7 @@ window.PASSAGES = [
         {"word": "unbreakable", "phonetic": "/ʌnˈbreɪkəbl/", "meaning": "adj. 牢不可破的，坚不可摧的", "example": "The team developed an unbreakable spirit after overcoming so many challenges.", "exampleZh": "在克服了如此多的挑战后，团队形成了坚不可摧的精神。", "extension": "breakable /ˈbreɪkəbl/ adj. 易碎的"},
         {"word": "panic", "phonetic": "/ˈpænɪk/", "meaning": "n./v. 恐慌，惊慌", "example": "The loud noise caused panic among the crowd.", "exampleZh": "巨大的噪音在人群中引起了恐慌。", "extension": "panicky /ˈpænɪki/ adj. 恐慌的"},
         {"word": "attack", "phonetic": "/əˈtæk/", "meaning": "v./n. 攻击；进攻；发作", "example": "The immune system attacks harmful bacteria to protect the body.", "exampleZh": "免疫系统攻击有害细菌以保护身体。", "extension": ""},
-        {"word": "throw", "phonetic": "/θrəʊ/", "meaning": "v. 扔，抛；使突然陷入", "example": "The unexpected question threw him into confusion.", "exampleZh": "这意外的问题使他陷入困惑。", "extension": "throw away 扔掉"},
+        {"word": "throw", "phonetic": "/θrəʊ/", "meaning": "v. 扔，抛；使突然陷入", "example": "He can throw the ball very far.", "exampleZh": "他能把球扔得很远。", "extension": "throw away 扔掉"},
         {"word": "nerve", "phonetic": "/nɜːv/", "meaning": "n. 神经；勇气", "example": "He finally had the nerve to speak in front of the large audience.", "exampleZh": "他终于鼓起勇气在大批观众面前发言。", "extension": "nervous /ˈnɜːvəs/ adj. 紧张的; nerveless /ˈnɜːvləs/ adj. 冷静的"},
         {"word": "stage", "phonetic": "/steɪdʒ/", "meaning": "n. 舞台；阶段", "example": "The project is still in its early stages of development.", "exampleZh": "该项目仍处于开发的早期阶段。", "extension": "on stage 在舞台上"},
         {"word": "boost", "phonetic": "/buːst/", "meaning": "v./n. 促进；提高；增强", "example": "Regular exercise can boost your mood and energy levels.", "exampleZh": "定期锻炼可以提升情绪和精力。", "extension": "booster /ˈbuːstə(r)/ n. 助推器"},
@@ -9678,7 +9678,7 @@ window.PASSAGES = [
         {"word": "simple", "phonetic": "/ˈsɪmpl/", "meaning": "adj. 简单的；朴素的", "example": "Sometimes the simplest solution is the best one.", "exampleZh": "有时候最简单的解决方案就是最好的。", "extension": "simply /ˈsɪmpli/ adv. 简单地；仅仅"},
         {"word": "formal", "phonetic": "/ˈfɔːml/", "meaning": "adj. 正式的；形式上的", "example": "Job interviews usually require formal clothing.", "exampleZh": "求职面试通常要求正装。", "extension": "informal /ɪnˈfɔːml/ adj. 非正式的"},
         {"word": "element", "phonetic": "/ˈelɪmənt/", "meaning": "n. 要素；元素；成分", "example": "Trust is a key element of any healthy relationship.", "exampleZh": "信任是任何健康关系的关键要素。", "extension": "elementary /ˌelɪˈmentri/ adj. 基本的"},
-        {"word": "shade", "phonetic": "/ʃeɪd/", "meaning": "n. 萌芽；遮阳；色调；细微差别", "example": "Trees provide welcome shade during hot summer days.", "exampleZh": "炎热的夏天，树木提供了令人喜的遮阳。", "extension": "shady /ˈʃeɪdi/ adj. 阴凉的"},
+        {"word": "shade", "phonetic": "/ʃeɪd/", "meaning": "n. 阴凉处；遮光物；色调；细微差别", "example": "Trees provide welcome shade during hot summer days.", "exampleZh": "炎热的夏天，树木提供了令人喜的遮阳。", "extension": "shady /ˈʃeɪdi/ adj. 阴凉的"},
         {"word": "evoke", "phonetic": "/ɪˈvəʊk/", "meaning": "v. 唤起；引起（记忆或情感）", "example": "The old photograph evoked memories of her childhood.", "exampleZh": "这张老照片唤起了她童年的记忆。", "extension": "evocative /ɪˈvɒkətɪv/ adj. 唤起记忆的"},
         {"word": "emotion", "phonetic": "/ɪˈməʊʃn/", "meaning": "n. 情感，情绪", "example": "Music has the power to stir deep emotions within us.", "exampleZh": "音乐有能力激起我们内心深处的情绪。", "extension": "emotional /ɪˈməʊʃənl/ adj. 情感的"},
         {"word": "current", "phonetic": "/ˈkʌrənt/", "meaning": "adj. 当前的；现行的 n. 电流；水流", "example": "The current situation requires immediate attention.", "exampleZh": "当前情况需要立即关注。", "extension": "currently /ˈkʌrəntli/ adv. 目前"},
@@ -9701,7 +9701,7 @@ window.PASSAGES = [
         {"word": "quiet", "phonetic": "/ˈkwaɪət/", "meaning": "adj. 安静的；宁静的", "example": "The library is a quiet place where students can focus on studying.", "exampleZh": "图书馆是一个安静的地方，学生可以专心学习。", "extension": "quietly /ˈkwaɪətli/ adv. 安静地"},
         {"word": "jealousy", "phonetic": "/ˈdʒeləsi/", "meaning": "n. 嫉妒，妒忌", "example": "Jealousy can destroy friendships if it is not controlled.", "exampleZh": "嫉妒如果得不到控制，会毁掉友谊。", "extension": "jealous /ˈdʒeləs/ adj. 嫉妒的"},
         {"word": "envious", "phonetic": "/ˈenviəs/", "meaning": "adj. 羡慕的；嫉妒的", "example": "She felt envious of her colleague's promotion.", "exampleZh": "她对同事的升职感到羡慕。", "extension": "envy /ˈenvi/ v./n. 羡慕；嫉妒"},
-        {"word": "shoot", "phonetic": "/ʃuːt/", "meaning": "v. 射击；拍摄；投篮", "example": "The photographer shot hundreds of pictures at the wedding.", "exampleZh": "摄影师在婚礼上拍摄了数百张照片。", "extension": "shoot a film 拍摄电影"},
+        {"word": "shoot", "phonetic": "/ʃuːt/", "meaning": "v. 射击；拍摄；投篮", "example": "The director decided to shoot the film in an old town.", "exampleZh": "导演决定在老城拍摄这部电影。", "extension": "shoot a film 拍摄电影"},
         {"word": "belief", "phonetic": "/bɪˈliːf/", "meaning": "n. 信念；相信；信仰", "example": "Her strong belief in herself helped her overcome many challenges.", "exampleZh": "她对自己坚定的信念帮助她克服了许多挑战。", "extension": "believe /bɪˈliːv/ v. 相信；disbelief /ˌdɪsbɪˈliːf/ n. 怀疑"},
         {"word": "surround", "phonetic": "/səˈraʊnd/", "meaning": "v. 围绕；包围", "example": "Tall mountains surround the small village on all sides.", "exampleZh": "高山环绕着这个小村庄。", "extension": "surroundings /səˈraʊndɪŋz/ n. 周围环境"},
         {"word": "spark", "phonetic": "/spɑːk/", "meaning": "n. 火花 v. 引发，触发", "example": "A small spark can ignite a great forest fire.", "exampleZh": "一颗小火花可以引发巨大的森林火灾。", "extension": "sparkle /ˈspɑːkl/ v. 闪耀"},
@@ -9816,11 +9816,11 @@ window.PASSAGES = [
         {"word": "version", "phonetic": "/ˈvɜːʃn/", "meaning": "n. 版本；变体", "example": "The translated version of the novel sold millions of copies.", "exampleZh": "这部小说的翻译版销量数百万册。", "extension": "original version 原版"},
         {"word": "float", "phonetic": "/fləʊt/", "meaning": "v. 漂浮；飘动 n. 彩车", "example": "The oil floated on the surface of the water.", "exampleZh": "油浮在水面上。", "extension": "floating /ˈfləʊtɪŋ/ adj. 漂浮的"},
         {"word": "unforgettable", "phonetic": "/ˌʌnfəˈɡetəbl/", "meaning": "adj. 难忘的，永志不忘的", "example": "The trip to the Great Wall was an unforgettable experience.", "exampleZh": "长城之旅是一次难忘的经历。", "extension": "forgettable /fəˈɡetəbl/ adj. 易忘记的"},
-        {"word": "honor", "phonetic": "/ˈɒnə(r)/", "meaning": "(BrE honour) n. 荣誉；光荣 v. 尊敬", "example": "It is a great honour to be invited to speak at this conference.", "exampleZh": "受邀在这次会议上发言是莫大的荣誉。", "extension": "honorable /ˈɒnərəbl/ adj. 光荣的"},
+        {"word": "honor", "phonetic": "/ˈɒnə(r)/", "meaning": "(BrE honour) n. 荣誉；光荣 v. 尊敬", "example": "It is a great honor to receive this award.", "exampleZh": "获得这个奖项是我莫大的荣幸。", "extension": "honorable /ˈɒnərəbl/ adj. 光荣的"},
         {"word": "special", "phonetic": "/ˈspeʃl/", "meaning": "adj. 特别的；特殊的", "example": "She prepared a special meal for her mother's birthday.", "exampleZh": "她为妈妈的生日准备了一顿特别的饭菜。", "extension": "specialist /ˈspeʃəlɪst/ n. 专家"},
         {"word": "celebrate", "phonetic": "/ˈselɪbreɪt/", "meaning": "v. 庆祝；赞颂", "example": "People around the world celebrate the new year in different ways.", "exampleZh": "世界各地的人们以不同的方式庆祝新年。", "extension": "celebration /ˌselɪˈbreɪʃn/ n. 庆祝"},
         {"word": "anniversary", "phonetic": "/ˌænɪˈvɜːsəri/", "meaning": "n. 周年纪念日", "example": "The couple celebrated their 25th wedding anniversary in Paris.", "exampleZh": "这对夫妇在巴黎庆祝了他们第25个结婚纪念日。", "extension": "annual /ˈænjuəl/ adj. 年度的"},
-        {"word": "leave", "phonetic": "/liːv/", "meaning": "v. 离开；留下；遗忘 n. 休假", "example": "He left his hometown to pursue a career in the big city.", "exampleZh": "他离开家乡去大城市追求事业。", "extension": "leave behind 留下；leave out 遗漏"},
+        {"word": "leave", "phonetic": "/liːv/", "meaning": "v. 离开；留下；遗忘 n. 休假", "example": "Please leave your shoes outside the door.", "exampleZh": "请把鞋放在门外。", "extension": "leave behind 留下；leave out 遗漏"},
         {"word": "excess", "phonetic": "/ɪkˈses/", "meaning": "n. 过量；过度 adj. 多余的", "example": "An excess of sugar in the diet can lead to health problems.", "exampleZh": "饮食中过量的糖分会导致健康问题。", "extension": "excessive /ɪkˈsesɪv/ adj. 过多的"},
         {"word": "geography", "phonetic": "/dʒiˈɒɡrəfi/", "meaning": "n. 地理；地理学", "example": "Understanding geography helps us appreciate the diversity of our planet.", "exampleZh": "了解地理有助于我们欣赏地球的多样性。", "extension": "geographic /ˌdʒiːəˈɡræfɪk/ adj. 地理的"},
         {"word": "professor", "phonetic": "/prəˈfesə(r)/", "meaning": "n. 教授", "example": "The professor published a groundbreaking paper on climate change.", "exampleZh": "这位教授发表了一篇关于气候变化的开创性论文。", "extension": ""},
@@ -9847,7 +9847,7 @@ window.PASSAGES = [
         {"word": "finish", "phonetic": "/ˈfɪnɪʃ/", "meaning": "v. 完成；结束 n. 结束；终点", "example": "He managed to finish the marathon despite the extreme heat.", "exampleZh": "尽管酷热，他仍成功跑完了马拉松。", "extension": "unfinished /ʌnˈfɪnɪʃt/ adj. 未完成的"},
         {"word": "laugh", "phonetic": "/lɑːf/", "meaning": "v./n. 笑；大笑", "example": "The comedy show made the entire audience laugh together.", "exampleZh": "这档喜剧节目让全场观众一起大笑。", "extension": "laughter /ˈlɑːftə(r)/ n. 笑声"},
         {"word": "company", "phonetic": "/ˈkʌmpəni/", "meaning": "n. 公司；陪伴；同伴", "example": "She enjoys the company of her good friends more than anything else.", "exampleZh": "她最喜欢好朋友的陪伴。", "extension": "companion /kəmˈpæniən/ n. 同伴"},
-        {"word": "freshman", "phonetic": "/ˈfreʃmən/", "meaning": "n. 大学一年级学生；新生", "example": "The university organizes special orientation programs for freshmen.", "exampleZh": "大学为新生组织特别的迎新活动。", "extension": "fresh /freʃ/ adj. 新的；新鲜的"},
+        {"word": "freshman", "phonetic": "/ˈfreʃmən/", "meaning": "n. 大学一年级学生；新生", "example": "As a freshman, he felt nervous on his first day.", "exampleZh": "作为大一新生，开学第一天他感到很紧张。", "extension": "fresh /freʃ/ adj. 新的；新鲜的"},
         {"word": "well-known", "phonetic": "/ˌwel ˈnəʊn/", "meaning": "adj. 著名的；众所周知的", "example": "The scientist is well-known for his contributions to medical research.", "exampleZh": "这位科学家因对医学研究的贡献而闻名。", "extension": "famous /ˈfeɪməs/ adj. 著名的"},
         {"word": "artist", "phonetic": "/ˈɑːtɪst/", "meaning": "n. 艺术家；画家", "example": "The artist spent months creating the massive wall painting.", "exampleZh": "这位艺术家花了数月创作巨幅壁画。", "extension": "artistic /ɑːˈtɪstɪk/ adj. 艺术的"},
         {"word": "famous", "phonetic": "/ˈfeɪməs/", "meaning": "adj. 著名的，出名的", "example": "The city is famous for its ancient temples and vibrant street markets.", "exampleZh": "这座城市以其古庙和充满活力的街市而闻名。", "extension": "fame /feɪm/ n. 名声"},
@@ -9944,7 +9944,7 @@ window.PASSAGES = [
         {"word": "natural", "phonetic": "/ˈnætʃrəl/", "meaning": "adj. 自然的；天然的", "example": "Natural disasters such as earthquakes can strike without warning.", "exampleZh": "地震等自然灾害可能毫无预警地发生。", "extension": "nature /ˈneɪtʃə(r)/ n. 自然"},
         {"word": "kingdom", "phonetic": "/ˈkɪŋdəm/", "meaning": "n. 王国；领域；（生物分类）界", "example": "The United Kingdom is made up of four countries.", "exampleZh": "联合王国由四个国家组成。", "extension": "king /kɪŋ/ n. 国王"},
         {"word": "species", "phonetic": "/ˈspiːʃiːz/", "meaning": "n. 物种；种类（单复数同形）", "example": "Many species of birds migrate south during the winter months.", "exampleZh": "许多鸟类在冬季向南迁徙。", "extension": "endangered species 濒危物种"},
-        {"word": "starve", "phonetic": "/stɑːv/", "meaning": "v. （使）挨饿；（使）饿死", "example": "Millions of people around the world are starving due to food shortage.", "exampleZh": "由于食物短缺，世界各地有数百万人正在挨饿。", "extension": "starvation /stɑːˈveɪʃn/ n. 饥饿"},
+        {"word": "starve", "phonetic": "/stɑːv/", "meaning": "v. （使）挨饿；（使）饿死", "example": "Many animals may starve during the long dry season.", "exampleZh": "漫长的旱季里，许多动物可能会饿死。", "extension": "starvation /stɑːˈveɪʃn/ n. 饥饿"},
         {"word": "whale", "phonetic": "/weɪl/", "meaning": "n. 鲸", "example": "The blue whale is the largest animal to have ever existed on Earth.", "exampleZh": "蓝鲸是地球上有史以来最大的动物。", "extension": "whale watching 观鲸"},
         {"word": "shark", "phonetic": "/ʃɑːk/", "meaning": "n. 鲨鱼", "example": "Sharks have existed in the oceans for over 400 million years.", "exampleZh": "鲨鱼已经在海洋中存在了超过四亿年。", "extension": ""},
         {"word": "evolve", "phonetic": "/ɪˈvɒlv/", "meaning": "v. 进化；逐渐发展", "example": "Scientists believe that birds evolved from small dinosaurs.", "exampleZh": "科学家认为鸟类是从小型恐龙进化而来的。", "extension": "evolution /ˌiːvəˈluːʃn/ n. 进化"},
@@ -9995,7 +9995,7 @@ window.PASSAGES = [
         {"word": "symptom", "phonetic": "/ˈsɪmptəm/", "meaning": "n. 症状", "example": "Fever and coughing are common symptoms of the flu.", "exampleZh": "发烧和咳嗽是流感的常见症状。", "extension": "symptomatic /ˌsɪmptəˈmætɪk/ adj. 症状的"},
         {"word": "intense", "phonetic": "/ɪnˈtens/", "meaning": "adj. 强烈的；紧张的；剧烈的", "example": "The intense heat of the desert made it difficult to travel during the day.", "exampleZh": "沙漠的酷热使得白天旅行非常困难。", "extension": "intensity /ɪnˈtensəti/ n. 强度"},
         {"word": "beneficial", "phonetic": "/ˌbenɪˈfɪʃl/", "meaning": "adj. 有益的；有利的", "example": "Regular physical activity is beneficial for both body and mind.", "exampleZh": "规律的体育活动对身心都有益。", "extension": "benefit /ˈbenɪfɪt/ n./v. 益处"},
-        {"word": "sweep", "phonetic": "/swiːp/", "meaning": "v. 打扫；席卷；扫过 n. 打扫", "example": "A wave of excitement swept through the classroom when the results were announced.", "exampleZh": "当结果宣布时，一阵兴奋席卷了整个教室。", "extension": "sweeping /ˈswiːpɪŋ/ adj. 全面的"}
+        {"word": "sweep", "phonetic": "/swiːp/", "meaning": "v. 打扫；席卷；扫过 n. 打扫", "example": "Please sweep the floor after dinner.", "exampleZh": "晚饭后请打扫地板。", "extension": "sweeping /ˈswiːpɪŋ/ adj. 全面的"}
         ] },
   { id: 59, title: "📘 PASSAGE 59", c1: '#E8B0D8', c2: '#F5C8E0', cardBg: '#F8EDF5', words: [
         {"word": "password", "phonetic": "/ˈpɑːswɜːd/", "meaning": "n. 密码；口令", "example": "You should create a strong password to protect your online accounts.", "exampleZh": "你应该设置一个强密码来保护在线账户。", "extension": "passcode /ˈpɑːskəʊd/ n. 密码"},
@@ -10021,7 +10021,7 @@ window.PASSAGES = [
         {"word": "method", "phonetic": "/ˈmeθəd/", "meaning": "n. 方法；办法", "example": "The teacher introduced a new method for solving math problems.", "exampleZh": "老师介绍了一种解数学题的新方法。", "extension": "methodology /ˌmeθəˈdɒlədʒi/ n. 方法论"},
         {"word": "forget", "phonetic": "/fəˈɡet/", "meaning": "v. 忘记；遗忘", "example": "Never forget the people who helped you along the way.", "exampleZh": "永远不要忘记一路帮助你的人。", "extension": "forgetful /fəˈɡetfl/ adj. 健忘的"},
         {"word": "pursue", "phonetic": "/pəˈsjuː/", "meaning": "v. 追求；追赶；继续", "example": "She decided to pursue a career in environmental science.", "exampleZh": "她决定从事环境科学方面的职业。", "extension": "pursuit /pəˈsjuːt/ n. 追求"},
-        {"word": "inaccuracy", "phonetic": "/ɪnˈækjərəsi/", "meaning": "n. 不精确；不准确；错误", "example": "The report contained several inaccuracies that needed to be corrected.", "exampleZh": "该报告包含几处需要纠正的错误。", "extension": "inaccurate /ɪnˈækjərət/ adj. 不准确的"},
+        {"word": "inaccuracy", "phonetic": "/ɪnˈækjərəsi/", "meaning": "n. 不精确；不准确；错误", "example": "The report contains an inaccuracy that must be corrected.", "exampleZh": "报告中有一处不准确之处需要修正。", "extension": "inaccurate /ɪnˈækjərət/ adj. 不准确的"},
         {"word": "analysis", "phonetic": "/əˈnæləsɪs/", "meaning": "n. 分析（复数 analyses）", "example": "A thorough analysis of the data revealed several key trends.", "exampleZh": "对数据的彻底分析揭示了几个关键趋势。", "extension": "analyze /ˈænəlaɪz/ v. 分析"}
         ] },
   { id: 60, title: "📘 PASSAGE 60", c1: '#C87A3A', c2: '#E8B86A', cardBg: '#F8F0E0', words: [
