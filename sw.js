@@ -1,5 +1,5 @@
-/* 60篇外刊单词卡 — Service Worker v8.1 (词组显示修复)
-var CACHE = 'waka-flashcards-v8.1';
+/* 60篇外刊单词卡 — Service Worker v8.2 (新增 PASSAGE 22-44，共 44 篇 1191 词)
+var CACHE = 'waka-flashcards-v8.2';
 var ASSETS = [
   './',
   './index.html',
