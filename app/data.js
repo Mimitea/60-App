@@ -9572,3092 +9572,493 @@ window.PASSAGES = [
             exampleZh: '如果天气允许，我们明天去野餐。',
             extension: 'permission /pəˈmɪʃn/ n. 允许；许可'
         }] },
-  { id: 45, title: "📘 PASSAGE 45", c1: '#4AB8B8', c2: '#F5B86A', cardBg: '#EAF5F0', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 46, title: "📘 PASSAGE 46", c1: '#3A8A7A', c2: '#7AC8B8', cardBg: '#EAF5F0', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 47, title: "📘 PASSAGE 47", c1: '#5A8A7A', c2: '#9AC8B8', cardBg: '#EAF5F0', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 48, title: "📘 PASSAGE 48", c1: '#8A2A5A', c2: '#C85A7A', cardBg: '#F8EDF0', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 49, title: "📘 PASSAGE 49", c1: '#5A4A8A', c2: '#9A7AC8', cardBg: '#F0EAF8', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 50, title: "📘 PASSAGE 50", c1: '#6A4A9A', c2: '#B88AD8', cardBg: '#F5EDF8', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 51, title: "📘 PASSAGE 51", c1: '#5A4A8A', c2: '#9A8AC8', cardBg: '#F0EAF8', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 52, title: "📘 PASSAGE 52", c1: '#B84030', c2: '#F5A84A', cardBg: '#F5ECE0', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 53, title: "📘 PASSAGE 53", c1: '#2A7A7A', c2: '#5AAA8A', cardBg: '#EAF5F0', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 54, title: "📘 PASSAGE 54", c1: '#4A6FA5', c2: '#E88A5A', cardBg: '#F0F5FA', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 55, title: "📘 PASSAGE 55", c1: '#D48A4A', c2: '#F5C86A', cardBg: '#F8F0E0', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 56, title: "📘 PASSAGE 56", c1: '#C85A3A', c2: '#E88A5A', cardBg: '#F8EDE0', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 57, title: "📘 PASSAGE 57", c1: '#B88AD8', c2: '#F5B8D0', cardBg: '#F8EDF5', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 58, title: "📘 PASSAGE 58", c1: '#2A6A4A', c2: '#7ABA7A', cardBg: '#EAF5EA', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 59, title: "📘 PASSAGE 59", c1: '#E8B0D8', c2: '#F5C8E0', cardBg: '#F8EDF5', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
-  { id: 60, title: "📘 PASSAGE 60", c1: '#C87A3A', c2: '#E8B86A', cardBg: '#F8F0E0', words: [{
-            word: 'spend',
-            phonetic: '/spend/',
-            meaning: 'v. 花费（时间、金钱等）；度过；消耗',
-            phrases: ['spend time/money (in) doing sth. 花费时间/金钱做某事'],
-            example: 'He spent all his savings on books.',
-            exampleZh: '他把所有积蓄都花在了买书上。',
-            extension: ''
-        }, {
-            word: 'entire',
-            phonetic: '/ɪnˈtaɪər/',
-            meaning: 'adj. 全部的，整个的',
-            phrases: [],
-            example: 'After the storm, the entire village worked together to rebuild the damaged houses.',
-            exampleZh: '暴风雨过后，整个村庄齐心协力重建受损的房屋。',
-            extension: 'entirely /ɪnˈtaɪəli/ adv. 完全地，彻底地'
-        }, {
-            word: 'teach',
-            phonetic: '/tiːtʃ/',
-            meaning: 'v. 教，讲授',
-            phrases: ['teach sb. to do sth. 教某人做某事'],
-            example: 'He decided to teach basic computer skills to elderly residents at the community center.',
-            exampleZh: '他决定在社区中心教老年居民基本的电脑技能。',
-            extension: 'teacher /ˈtiːtʃər/ n. 教师'
-        }, {
-            word: 'struggle',
-            phonetic: '/ˈstrʌɡl/',
-            meaning: 'v./n. 奋斗，努力；挣扎',
-            phrases: ['struggle to do sth. 努力做某事', 'struggle for 为……而奋斗'],
-            example: 'Many students struggle with complex math problems, but practice can build confidence.',
-            exampleZh: '许多学生苦于解决复杂的数学问题，但练习能建立信心。',
-            extension: ''
-        }, {
-            word: 'discuss',
-            phonetic: '/dɪˈskʌs/',
-            meaning: 'v. 讨论，商议',
-            phrases: ['discuss sth. with sb. 与某人讨论某事'],
-            example: 'During the meeting, the team will discuss possible solutions to reduce plastic waste.',
-            exampleZh: '会议期间，团队将讨论减少塑料垃圾的可行方案。',
-            extension: ''
-        }, {
-            word: 'importance',
-            phonetic: '/ɪmˈpɔːtns/',
-            meaning: 'n. 重要性',
-            phrases: ['be of great importance 非常重要'],
-            example: 'We must understand the importance of protecting the environment.',
-            exampleZh: '我们必须明白保护环境的重要性。',
-            extension: ''
-        }, {
-            word: 'significant',
-            phonetic: '/sɪɡˈnɪfɪkənt/',
-            meaning: 'adj. 重要的；有意义的；显著的',
-            phrases: [],
-            example: 'The discovery of penicillin was a significant breakthrough in medical history.',
-            exampleZh: '青霉素的发现是医学史上的重大突破。',
-            extension: 'significance /sɪɡˈnɪfɪkəns/ n. 重要性；意义；significantly /sɪɡˈnɪfɪkəntli/ adv. 显著地；重要地'
-        }, {
-            word: 'learning',
-            phonetic: '/ˈlɜːnɪŋ/',
-            meaning: 'n. 学习；学识',
-            phrases: [],
-            example: '"Active learning" helps students understand concepts deeply by engaging them in discussions and experiments.',
-            exampleZh: '"主动学习" 通过让学生参与讨论和实验来帮助他们深入理解概念。',
-            extension: ''
-        }, {
-            word: 'without',
-            phonetic: '/wɪˈðaʊt/',
-            meaning: 'prep. 没有；无；不（做某事）',
-            phrases: [],
-            example: 'Without proper preparation, even the brightest students may fail to achieve their goals.',
-            exampleZh: '没有充分的准备，即使最聪明的学生也可能无法实现目标。',
-            extension: ''
-        }, {
-            word: 'low',
-            phonetic: '/ləʊ/',
-            meaning: 'adj. 低的，矮的；不足的',
-            phrases: [],
-            example: 'The battery is running low, so the device switches to power-saving mode.',
-            exampleZh: '电池电量不足，因此设备切换至省电模式。',
-            extension: ''
-        }, {
-            word: 'group',
-            phonetic: '/ɡruːp/',
-            meaning: 'n. 组，团体，群',
-            phrases: [],
-            example: 'After the field trip, our study group created a detailed report with photos.',
-            exampleZh: '实地考察后，我们学习小组制作了一份包含照片的详细报告。',
-            extension: ''
-        }, {
-            word: 'difficult',
-            phonetic: '/ˈdɪfɪkəlt/',
-            meaning: 'adj. 困难的，艰难的',
-            phrases: [],
-            example: 'The listening test became increasingly difficult with faster dialogues.',
-            exampleZh: '听力测试随着对话语速加快而变得越来越难。',
-            extension: 'difficulty /ˈdɪfɪkəlti/ n. 困难；难题'
-        }, {
-            word: 'raise',
-            phonetic: '/reɪz/',
-            meaning: 'v. 提高；举起；筹集；养育',
-            phrases: ['raise money 筹款'],
-            example: 'Farmers raise chickens and ducks in the countryside to supply fresh eggs.',
-            exampleZh: '农民在乡下饲养鸡鸭，以供应新鲜鸡蛋。',
-            extension: ''
-        }, {
-            word: 'ability',
-            phonetic: '/əˈbɪləti/',
-            meaning: 'n. 能力；才能',
-            phrases: [],
-            example: 'He has the ability to solve this difficult problem.',
-            exampleZh: '他有能力解决这个难题。',
-            extension: 'able /ˈeɪbl/ adj. 能，能够；有能力的；unable /ʌnˈeɪbl/ adj. 未能，无法'
-        }, {
-            word: 'bright',
-            phonetic: '/braɪt/',
-            meaning: 'adj. 明亮的；乐观的；聪明的',
-            phrases: [],
-            example: 'The bright sunlight filled the room with warmth.',
-            exampleZh: '明亮的阳光让房间充满了温暖。',
-            extension: 'brightly /ˈbraɪtli/ adv. 明亮地'
-        }, {
-            word: 'saying',
-            phonetic: '/ˈseɪɪŋ/',
-            meaning: 'n. 谚语，格言',
-            phrases: [],
-            example: 'There is an old saying, "Practice makes perfect."',
-            exampleZh: '有一句古老的谚语：“熟能生巧。”',
-            extension: ''
-        }, {
-            word: 'quiz',
-            phonetic: '/kwɪz/',
-            meaning: 'n. 小测验；问答比赛',
-            phrases: [],
-            example: 'After the quiz, the teacher asked us to swap papers for peer grading.',
-            exampleZh: '测验后，老师让我们交换试卷进行互评。',
-            extension: ''
-        }, {
-            word: 'paper',
-            phonetic: '/ˈpeɪpər/',
-            meaning: 'n. 纸；论文；试卷',
-            phrases: [],
-            example: 'Her research paper on climate change earned top marks.',
-            exampleZh: '她关于气候变化的研究论文获得了最高分。',
-            extension: 'paperwork /ˈpeɪpəwɜːk/ n. 文书工作；资料'
-        }, {
-            word: 'review',
-            phonetic: '/rɪˈvjuː/',
-            meaning: 'v./n. 复习；评论',
-            phrases: [],
-            example: 'Before the exam, we will review all key concepts from the textbook.',
-            exampleZh: '考试前，我们将复习课本中的所有关键概念。',
-            extension: 'reviewer /rɪˈvjuːər/ n. 评论家'
-        }, {
-            word: 'bring',
-            phonetic: '/brɪŋ/',
-            meaning: 'v. 带来，拿来；引起；养育',
-            phrases: ['bring sth. to sb. 给某人带来某物', 'bring up 养育'],
-            example: 'The controversial rule brought strong protests across the company.',
-            exampleZh: '这项有争议的规定引发了全公司的强烈抗议。',
-            extension: ''
-        }, {
-            word: 'risk',
-            phonetic: '/rɪsk/',
-            meaning: 'n. 风险，危险；v. 冒……的风险',
-            phrases: ['take a risk 冒险', 'at risk 处于危险中'],
-            example: 'There is a risk of getting sick if you don\'t keep warm.',
-            exampleZh: '如果你不保暖就有生病的风险。',
-            extension: 'risky /ˈrɪski/ adj. 有风险的，危险的'
-        }, {
-            word: 'champion',
-            phonetic: '/ˈtʃæmpiən/',
-            meaning: 'n. 冠军，获胜者；拥护者，捍卫者',
-            phrases: ['a world champion 世界冠军'],
-            example: 'She is the champion of the singing competition.',
-            exampleZh: '她是歌唱比赛的冠军。',
-            extension: ''
-        }, {
-            word: 'insist',
-            phonetic: '/ɪnˈsɪst/',
-            meaning: 'v. 坚持；坚决要求',
-            phrases: ['insist on 坚持；坚决主张'],
-            example: 'The witness insisted that the suspect was at the crime scene that night.',
-            exampleZh: '目击者坚称嫌疑人当晚在犯罪现场。',
-            extension: 'insistence /ɪnˈsɪstəns/ n. 坚持；坚决主张'
-        }, {
-            word: 'possibly',
-            phonetic: '/ˈpɒsəbli/',
-            meaning: 'adv. 可能，也许',
-            phrases: [],
-            example: 'He will possibly arrive here in an hour.',
-            exampleZh: '他也许一小时后到达这里。',
-            extension: 'possible /ˈpɒsəbl/ adj. 可能的；possibility /ˌpɒsəˈbɪləti/ n. 可能性'
-        }] },
+  { id: 45, title: "📘 PASSAGE 45", c1: '#4AB8B8', c2: '#F5B86A', cardBg: '#EAF5F0', words: [
+        {"word": "spell", "phonetic": "/spel/", "meaning": "v. 拼写，拼出；招致，意味着 n. 咒语", "example": "He holds the title of school chess champion.", "exampleZh": "他拥有校际象棋冠军头衔。", "extension": "spelling /ˈspelɪŋ/ n. 拼写；misspell /ˌmɪsˈspel/ v. 拼错"},
+        {"word": "title", "phonetic": "/ˈtaɪtl/", "meaning": "n. 标题；头衔；冠军 v. 加标题", "phrases": ["a job title 职位头衔"], "example": "The title of the novel immediately caught my attention.", "exampleZh": "这部小说的书名立刻吸引了我的注意。", "extension": "subtitle /ˈsʌbtaɪtl/ n. 副标题；entitle /ɪnˈtaɪtl/ v. 授予权利"},
+        {"word": "viewer", "phonetic": "/ˈvjuːər/", "meaning": "n. 观众；观看者", "phrases": ["target viewers 目标观众"], "example": "The art exhibition drew viewers from around the world.", "exampleZh": "这次艺术展览吸引了世界各地的观众。", "extension": "view /vjuː/ v./n. 观看；观点"},
+        {"word": "synonymous", "phonetic": "/sɪˈnɒnɪməs/", "meaning": "adj. 同义的；等同的", "phrases": ["be synonymous with 与……同义"], "example": "For tourists, Paris is synonymous with romance and art.", "exampleZh": "对游客而言，巴黎是浪漫与艺术的代名词。", "extension": "synonym /ˈsɪnənɪm/ n. 同义词；antonym /ˈæntənɪm/ n. 反义词"},
+        {"word": "series", "phonetic": "/ˈsɪəriːz/", "meaning": "n. 连续；系列；系列节目（单复数同形）", "phrases": ["a series of 一系列"], "example": "A series of experiments confirmed the scientific theory.", "exampleZh": "一系列实验证实了该科学理论。", "extension": "serial /ˈsɪəriəl/ adj. 连续的"},
+        {"word": "logo", "phonetic": "/ˈləʊɡəʊ/", "meaning": "n. 商标；标志，标识", "phrases": ["design a logo 设计商标"], "example": "Redesigning the logo boosted brand recognition.", "exampleZh": "重新设计商标提升了品牌辨识度。", "extension": ""},
+        {"word": "airline", "phonetic": "/ˈeəlaɪn/", "meaning": "n. 航空公司；航线", "phrases": ["domestic airlines 国内航空公司"], "example": "Budget airlines have made travel accessible to more people.", "exampleZh": "廉价航空公司让更多人能够负担得起旅行。", "extension": ""},
+        {"word": "care", "phonetic": "/keə(r)/", "meaning": "v. 关心；在意 n. 照料，护理", "phrases": ["take care of 照顾", "care about 关心"], "example": "Scientists care deeply about preserving endangered species.", "exampleZh": "科学家深切关注保护濒危物种。", "extension": "careful /ˈkeəfl/ adj. 仔细的；careless /ˈkeələs/ adj. 粗心的"},
+        {"word": "loyalty", "phonetic": "/ˈlɔɪəlti/", "meaning": "n. 忠诚，忠心", "phrases": ["customer loyalty 客户忠诚度", "brand loyalty 品牌忠诚"], "example": "Building brand loyalty requires consistent quality.", "exampleZh": "建立品牌忠诚度需要始终如一的品质。", "extension": "loyal /ˈlɔɪəl/ adj. 忠诚的"},
+        {"word": "thick", "phonetic": "/θɪk/", "meaning": "adj. 厚的；密的；浓的", "phrases": ["thick hair 浓密的头发"], "example": "She spread a thick layer of jam on the bread.", "exampleZh": "她在面包上涂了厚厚一层果酱。", "extension": "thickly /ˈθɪkli/ adv. 厚厚地；thickness /ˈθɪknəs/ n. 厚度"},
+        {"word": "custom-made", "phonetic": "/ˌkʌstəm ˈmeɪd/", "meaning": "adj. 定制的", "example": "The software engineer developed a custom-made app.", "exampleZh": "软件工程师开发了一款定制应用。", "extension": "custom /ˈkʌstəm/ n. 风俗；customize /ˈkʌstəmaɪz/ v. 定制；customer /ˈkʌstəmə(r)/ n. 顾客"},
+        {"word": "convey", "phonetic": "/kənˈveɪ/", "meaning": "v. 传达，传递；运送", "phrases": ["convey information 传递信息"], "example": "Music has the power to convey emotions beyond words.", "exampleZh": "音乐能传递语言无法表达的情感。", "extension": ""},
+        {"word": "tone", "phonetic": "/təʊn/", "meaning": "n. 语气；音调；色调；基调", "phrases": ["in a tone of... 以……的语气", "set the tone 定调子"], "example": "The artist used warm tones to create a peaceful landscape.", "exampleZh": "艺术家用暖色调创作出宁静的风景画。", "extension": ""},
+        {"word": "appealing", "phonetic": "/əˈpiːlɪŋ/", "meaning": "adj. 吸引人的", "example": "The website's visually appealing design increased user engagement.", "exampleZh": "网站视觉上吸引人的设计提高了用户参与度。", "extension": "appeal /əˈpiːl/ v./n. 吸引；呼吁；unappealing /ˌʌnəˈpiːlɪŋ/ adj. 无吸引力的"},
+        {"word": "competitive", "phonetic": "/kəmˈpetətɪv/", "meaning": "adj. 竞争的；有竞争力的", "example": "Prices are more competitive in online stores.", "exampleZh": "网店的价格更有竞争力。", "extension": "compete /kəmˈpiːt/ v. 竞争；competition /ˌkɒmpəˈtɪʃn/ n. 竞争"},
+        {"word": "category", "phonetic": "/ˈkætəɡəri/", "meaning": "n. 类别；目录", "example": "The app sorts expenses into different categories.", "exampleZh": "这款应用将支出归入不同类别。", "extension": "categorize /ˈkætəɡəraɪz/ v. 分类"},
+        {"word": "stand", "phonetic": "/stænd/", "meaning": "v. 站立；忍受；处于（某状态） n. 立场；摊位", "phrases": ["stand for 代表", "stand out 突出；出众"], "example": "The red logo stands out against the white background.", "exampleZh": "红色标志在白色背景下很显眼。", "extension": "withstand /wɪθˈstænd/ v. 承受；outstanding /aʊtˈstændɪŋ/ adj. 杰出的"},
+        {"word": "eye-catching", "phonetic": "/ˌaɪ ˈkætʃɪŋ/", "meaning": "adj. 引人注目的，醒目的", "example": "Tropical birds have eye-catching colors to attract mates.", "exampleZh": "热带鸟类用吸睛颜色吸引配偶。", "extension": ""},
+        {"word": "connect", "phonetic": "/kəˈnekt/", "meaning": "v. 联系，连接", "phrases": ["connect A with B 将 A 与 B 联系起来"], "example": "The new bridge connects the two cities across the river.", "exampleZh": "这座新桥连接了河两岸的两座城市。", "extension": "disconnect /ˌdɪskəˈnekt/ v. 断开；connection /kəˈnekʃn/ n. 联系"},
+        {"word": "fan", "phonetic": "/fæn/", "meaning": "n. 迷，粉丝；风扇", "phrases": ["a ceiling fan 吊扇"], "example": "The ceiling fan kept the room breezy in summer.", "exampleZh": "吊扇在夏天让房间保持通风。", "extension": "fanatic /fəˈnætɪk/ n. 狂热者"},
+        {"word": "recognizable", "phonetic": "/ˈrekəɡnaɪzəbl/", "meaning": "adj. 可识别的", "example": "The company's logo is recognizable even without text.", "exampleZh": "即便没有文字，公司的标志也能被识别。", "extension": "recognize /ˈrekəɡnaɪz/ v. 认出；unrecognizable /ʌnˈrekəɡnaɪzəbl/ adj. 无法识别的"},
+        {"word": "nervous", "phonetic": "/ˈnɜːvəs/", "meaning": "adj. 紧张的，不安的", "phrases": ["be nervous about... 对……感到紧张"], "example": "She felt nervous before giving a speech.", "exampleZh": "发表演讲前，她感到很紧张。", "extension": "nerve /nɜːv/ n. 神经；nervously /ˈnɜːvəsli/ adv. 紧张地"},
+        {"word": "original", "phonetic": "/əˈrɪdʒənl/", "meaning": "adj. 原始的；原创的 n. 原作", "phrases": ["the original version 原版"], "example": "Keep the original receipt for returns.", "exampleZh": "保留原始收据以便退货。", "extension": "originally /əˈrɪdʒənəli/ adv. 最初；origin /ˈɒrɪdʒɪn/ n. 起源"},
+        {"word": "mark", "phonetic": "/mɑːk/", "meaning": "n. 标志；记号；分数 v. 做记号", "phrases": ["leave a mark 留下印记"], "example": "The invention left a mark on modern scientific history.", "exampleZh": "这项发明在科技史上留下了印记。", "extension": "landmark /ˈlændmɑːk/ n. 地标；marker /ˈmɑːkə(r)/ n. 记号笔"},
+        {"word": "acquire", "phonetic": "/əˈkwaɪə(r)/", "meaning": "v. 获得；养成（习惯、喜好）；收购", "phrases": ["acquire knowledge 获取知识"], "example": "She acquired a taste for classical music after attending concerts.", "exampleZh": "参加音乐会后，她培养了对古典音乐的喜好。", "extension": "acquisition /ˌækwɪˈzɪʃn/ n. 获得"},
+        {"word": "ultimately", "phonetic": "/ˈʌltɪmətli/", "meaning": "adv. 最终，最后", "example": "The research ultimately led to a groundbreaking discovery.", "exampleZh": "这项研究最终带来了一项突破性发现。", "extension": "ultimate /ˈʌltɪmət/ adj. 最终的"}
+        ] },
+  { id: 46, title: "📘 PASSAGE 46", c1: '#3A8A7A', c2: '#7AC8B8', cardBg: '#EAF5F0', words: [
+        {"word": "show", "phonetic": "/ʃəʊ/", "meaning": "v. 显示；展示；表明 n. 演出；节目", "example": "The new exhibition will show rare artifacts from the Ming dynasty.", "exampleZh": "新展览将展示明朝的珍贵文物。", "extension": "shower /ˈʃəʊə(r)/ n. 阵雨；淋浴"},
+        {"word": "poster", "phonetic": "/ˈpəʊstə(r)/", "meaning": "n. 海报；招贴", "example": "The movie poster attracted many people to the cinema.", "exampleZh": "这张电影海报吸引了许多人前往电影院。", "extension": "post /pəʊst/ v. 张贴；公布 n. 邮件"},
+        {"word": "experienced", "phonetic": "/ɪkˈspɪəriənst/", "meaning": "adj. 有经验的，老练的", "example": "An experienced pilot handled the emergency landing calmly.", "exampleZh": "一位经验丰富的飞行员冷静处理了紧急着陆。", "extension": "experience /ɪkˈspɪəriəns/ n./v. 经验；体验"},
+        {"word": "actor", "phonetic": "/ˈæktə(r)/", "meaning": "n. 演员（男）", "example": "The young actor impressed the audience with his emotional performance.", "exampleZh": "这位年轻演员用充满感染力的表演打动了观众。", "extension": "actress /ˈæktrəs/ n. 女演员；act /ækt/ v. 表演；行动"},
+        {"word": "experience", "phonetic": "/ɪkˈspɪəriəns/", "meaning": "n. 经验；经历 v. 经历，体验", "example": "Volunteering abroad was a life-changing experience for her.", "exampleZh": "海外志愿服务对她来说是一次改变人生的经历。", "extension": "inexperienced /ˌɪnɪkˈspɪəriənst/ adj. 缺乏经验的"},
+        {"word": "list", "phonetic": "/lɪst/", "meaning": "n. 名单；清单 v. 列出", "example": "The teacher asked students to list their goals for the semester.", "exampleZh": "老师要求学生们列出本学期的目标。", "extension": "checklist /ˈtʃeklɪst/ n. 核对清单"},
+        {"word": "disadvantage", "phonetic": "/ˌdɪsədˈvɑːntɪdʒ/", "meaning": "n. 不利条件；缺点，劣势", "example": "One disadvantage of online learning is the lack of face-to-face interaction.", "exampleZh": "在线学习的一个劣势是缺少面对面交流。", "extension": "advantage /ədˈvɑːntɪdʒ/ n. 优势"},
+        {"word": "mind", "phonetic": "/maɪnd/", "meaning": "v. 介意；当心 n. 头脑；思维", "example": "Would you mind opening the window?", "exampleZh": "你介意打开窗户吗？", "extension": "mindful /ˈmaɪndfl/ adj. 留心的；remind /rɪˈmaɪnd/ v. 提醒"},
+        {"word": "discourage", "phonetic": "/dɪsˈkʌrɪdʒ/", "meaning": "v. 使气馁；劝阻", "example": "He refused to let failure discourage him from trying again.", "exampleZh": "他拒绝让失败阻止他再次尝试。", "extension": "encourage /ɪnˈkʌrɪdʒ/ v. 鼓励"},
+        {"word": "wild", "phonetic": "/waɪld/", "meaning": "adj. 野生的；狂野的；疯狂的", "example": "The wildlife reserve protects wild animals from extinction.", "exampleZh": "野生动物保护区保护野生动物免遭灭绝。", "extension": "wildlife /ˈwaɪldlaɪf/ n. 野生动物"},
+        {"word": "clear", "phonetic": "/klɪə(r)/", "meaning": "adj. 清楚的；清澈的 v. 清除，清理", "example": "It is clear that regular exercise benefits both body and mind.", "exampleZh": "很明显，定期锻炼对身心都有益。", "extension": "clearly /ˈklɪəli/ adv. 清楚地"},
+        {"word": "trust", "phonetic": "/trʌst/", "meaning": "v./n. 信任，信赖", "example": "Building trust with customers is the foundation of any successful business.", "exampleZh": "建立客户信任是任何成功企业的基础。", "extension": "trustworthy /ˈtrʌstwɜːði/ adj. 值得信赖的"},
+        {"word": "force", "phonetic": "/fɔːs/", "meaning": "v. 强迫；迫使 n. 力量；武力", "example": "The storm forced the cancellation of all outdoor events.", "exampleZh": "暴风雨迫使所有户外活动取消。", "extension": "forceful /ˈfɔːsfl/ adj. 有力的"},
+        {"word": "fool", "phonetic": "/fuːl/", "meaning": "n. 傻瓜，蠢人 v. 欺骗；愚弄", "example": "Don't let yourself be fooled by false advertising.", "exampleZh": "不要被虚假广告欺骗。", "extension": "foolish /ˈfuːlɪʃ/ adj. 愚蠢的"},
+        {"word": "mess", "phonetic": "/mes/", "meaning": "n. 混乱；脏乱 v. 弄糟", "example": "The children made a mess in the living room.", "exampleZh": "孩子们把客厅弄得一团糟。", "extension": "messy /ˈmesi/ adj. 凌乱的"},
+        {"word": "reliable", "phonetic": "/rɪˈlaɪəbl/", "meaning": "adj. 可靠的，可信赖的", "example": "A reliable internet connection is essential for remote work.", "exampleZh": "可靠的网络连接对远程工作至关重要。", "extension": "rely /rɪˈlaɪ/ v. 依赖；unreliable /ˌʌnrɪˈlaɪəbl/ adj. 不可靠的"},
+        {"word": "fellow", "phonetic": "/ˈfeləʊ/", "meaning": "n. 伙伴；同伴；家伙", "example": "He was awarded a research fellowship at the university.", "exampleZh": "他被授予大学的研究基金。", "extension": "fellowship /ˈfeləʊʃɪp/ n. 友谊；奖学金"},
+        {"word": "cast", "phonetic": "/kɑːst/", "meaning": "v. 投，抛；选派角色 n. 演员阵容", "example": "The director cast a newcomer in the lead role.", "exampleZh": "导演选了一个新人担任主角。", "extension": "broadcast /ˈbrɔːdkɑːst/ v./n. 广播"},
+        {"word": "upset", "phonetic": "/ʌpˈset/", "meaning": "adj. 心烦的；失望的 v. 使烦恼；打翻", "example": "She was deeply upset by the unfair criticism.", "exampleZh": "她被不公正的批评深深伤害了。", "extension": ""},
+        {"word": "bond", "phonetic": "/bɒnd/", "meaning": "n. 纽带，联系；债券 v. 建立联系", "example": "Sharing difficult experiences created a strong bond between them.", "exampleZh": "共享艰难的经历在他们之间建立了牢固的联系。", "extension": ""},
+        {"word": "unbreakable", "phonetic": "/ʌnˈbreɪkəbl/", "meaning": "adj. 牢不可破的，坚不可摧的", "example": "The team developed an unbreakable spirit after overcoming so many challenges.", "exampleZh": "在克服了如此多的挑战后，团队形成了坚不可摧的精神。", "extension": "breakable /ˈbreɪkəbl/ adj. 易碎的"},
+        {"word": "panic", "phonetic": "/ˈpænɪk/", "meaning": "n./v. 恐慌，惊慌", "example": "The loud noise caused panic among the crowd.", "exampleZh": "巨大的噪音在人群中引起了恐慌。", "extension": "panicky /ˈpænɪki/ adj. 恐慌的"},
+        {"word": "attack", "phonetic": "/əˈtæk/", "meaning": "v./n. 攻击；进攻；发作", "example": "The immune system attacks harmful bacteria to protect the body.", "exampleZh": "免疫系统攻击有害细菌以保护身体。", "extension": ""},
+        {"word": "throw", "phonetic": "/θrəʊ/", "meaning": "v. 扔，抛；使突然陷入", "example": "The unexpected question threw him into confusion.", "exampleZh": "这意外的问题使他陷入困惑。", "extension": "throw away 扔掉"},
+        {"word": "nerve", "phonetic": "/nɜːv/", "meaning": "n. 神经；勇气", "example": "He finally had the nerve to speak in front of the large audience.", "exampleZh": "他终于鼓起勇气在大批观众面前发言。", "extension": "nervous /ˈnɜːvəs/ adj. 紧张的; nerveless /ˈnɜːvləs/ adj. 冷静的"},
+        {"word": "stage", "phonetic": "/steɪdʒ/", "meaning": "n. 舞台；阶段", "example": "The project is still in its early stages of development.", "exampleZh": "该项目仍处于开发的早期阶段。", "extension": "on stage 在舞台上"},
+        {"word": "boost", "phonetic": "/buːst/", "meaning": "v./n. 促进；提高；增强", "example": "Regular exercise can boost your mood and energy levels.", "exampleZh": "定期锻炼可以提升情绪和精力。", "extension": "booster /ˈbuːstə(r)/ n. 助推器"},
+        {"word": "confidence", "phonetic": "/ˈkɒnfɪdəns/", "meaning": "n. 信心，自信", "example": "Preparation is the key to building confidence before an exam.", "exampleZh": "准备是在考试前建立信心的关键。", "extension": "confident /ˈkɒnfɪdənt/ adj. 自信的"},
+        {"word": "criticize", "phonetic": "/ˈkrɪtɪsaɪz/", "meaning": "(BrE also criticise) v. 批评；批判；评论", "example": "It is easy to criticize but harder to offer solutions.", "exampleZh": "批评容易，但提出解决方案更难。", "extension": "criticism /ˈkrɪtɪsɪzəm/ n. 批评；critical /ˈkrɪtɪkl/ adj. 批评的"},
+        {"word": "outcome", "phonetic": "/ˈaʊtkʌm/", "meaning": "n. 结果，结局", "example": "Regardless of the outcome, the process of learning itself is valuable.", "exampleZh": "不管结果如何，学习的过程本身就是有价值的。", "extension": ""},
+        {"word": "gain", "phonetic": "/ɡeɪn/", "meaning": "v. 获得；增加 n. 收益；增长", "example": "Through hard work, he gained the respect of his colleagues.", "exampleZh": "通过努力工作，他赢得了同事的尊重。", "extension": "gain experience 积累经验"}
+        ] },
+  { id: 47, title: "📘 PASSAGE 47", c1: '#5A8A7A', c2: '#9AC8B8', cardBg: '#EAF5F0', words: [
+        {"word": "exercise", "phonetic": "/ˈeksəsaɪz/", "meaning": "v./n. 锻炼，运动；练习；运用", "example": "Regular physical exercise is good for both body and mind.", "exampleZh": "规律的体育锻炼对身心都有益。", "extension": "exerciser /ˈeksəsaɪzə(r)/ n. 锻炼者"},
+        {"word": "end", "phonetic": "/end/", "meaning": "v. 结束 n. 末端；尽头", "example": "After months of hard work, the project finally came to an end.", "exampleZh": "经过数月的努力，项目终于结束。", "extension": "endless /ˈendləs/ adj. 无尽的"},
+        {"word": "bottom", "phonetic": "/ˈbɒtəm/", "meaning": "n. 底部；末端 adj. 底部的", "example": "The ship was discovered at the bottom of the ocean.", "exampleZh": "那艘船在海底被发现。", "extension": "top /tɒp/ n. 顶部（反义词）"},
+        {"word": "journalist", "phonetic": "/ˈdʒɜːnəlɪst/", "meaning": "n. 记者，新闻工作者", "example": "The journalist spent months investigating the environmental scandal.", "exampleZh": "这位记者花了数月调查这起环境丑闻。", "extension": "journal /ˈdʒɜːnl/ n. 杂志；日志; journalism /ˈdʒɜːnəlɪzəm/ n. 新闻业"},
+        {"word": "uncover", "phonetic": "/ʌnˈkʌvə(r)/", "meaning": "v. 揭开；揭露；发现", "example": "The investigation uncovered evidence of illegal trade.", "exampleZh": "调查揭露了非法交易的证据。", "extension": "cover /ˈkʌvə(r)/ v. 覆盖"},
+        {"word": "physical", "phonetic": "/ˈfɪzɪkl/", "meaning": "adj. 身体的；物理的；物质的", "example": "Physical education classes are required in most schools.", "exampleZh": "大多数学校要求上体育课。", "extension": "mentally /ˈmentəli/ adv. 精神上"},
+        {"word": "edit", "phonetic": "/ˈedɪt/", "meaning": "v. 编辑；剪辑", "example": "The film editor spent weeks editing the documentary.", "exampleZh": "电影剪辑师花了数周剪辑这部纪录片。", "extension": "editor /ˈedɪtə(r)/ n. 编辑；edition /ɪˈdɪʃn/ n. 版本"},
+        {"word": "cooperation", "phonetic": "/kəʊˌɒpəˈreɪʃn/", "meaning": "n. 合作，协作", "example": "International cooperation is needed to address climate change.", "exampleZh": "应对气候变化需要国际合作。", "extension": "cooperate /kəʊˈɒpəreɪt/ v. 合作"},
+        {"word": "set", "phonetic": "/set/", "meaning": "v. 放置；设定；设置 n. 一套；组", "example": "The school has set up a new program to help students with mental health.", "exampleZh": "学校设立了一个新项目来帮助学生处理心理健康。", "extension": "set up 建立；set off 出发"},
+        {"word": "literally", "phonetic": "/ˈlɪtərəli/", "meaning": "adv. 字面上；确实地；（口语）简直", "example": "The city was literally destroyed by the earthquake.", "exampleZh": "这座城市确实被地震摧毁了。", "extension": "literal /ˈlɪtərəl/ adj. 字面的"},
+        {"word": "hunt", "phonetic": "/hʌnt/", "meaning": "v./n. 打猎；搜寻，寻找", "example": "Scientists are hunting for solutions to plastic pollution.", "exampleZh": "科学家正在寻找塑料污染的解决方案。", "extension": "hunter /ˈhʌntə(r)/ n. 猎人；hunting /ˈhʌntɪŋ/ n. 打猎"},
+        {"word": "enormous", "phonetic": "/ɪˈnɔːməs/", "meaning": "adj. 巨大的，庞大的", "example": "The enormous success of the film surprised even the director.", "exampleZh": "这部电影的巨大成功连导演都感到惊讶。", "extension": "enormously /ɪˈnɔːməsli/ adv. 极大地"},
+        {"word": "emotional", "phonetic": "/ɪˈməʊʃənl/", "meaning": "adj. 情感的，情绪的；激动人心的", "example": "The farewell speech was so emotional that many people cried.", "exampleZh": "告别演讲感人至深，许多人哭了。", "extension": "emotion /ɪˈməʊʃn/ n. 情感；emotionally /ɪˈməʊʃənəli/ adv. 情感上"},
+        {"word": "quality", "phonetic": "/ˈkwɒləti/", "meaning": "n. 质量，品质；特性 adj. 优质的", "example": "Quality is more important than quantity in scientific research.", "exampleZh": "在科学研究中，质量比数量更重要。", "extension": ""},
+        {"word": "quantity", "phonetic": "/ˈkwɒntəti/", "meaning": "n. 数量；大量", "example": "A large quantity of data was collected for analysis.", "exampleZh": "收集了大量数据以供分析。", "extension": "quantify /ˈkwɒntɪfaɪ/ v. 量化"},
+        {"word": "chemistry", "phonetic": "/ˈkemɪstri/", "meaning": "n. 化学；（人与人之间的）化学反应，默契", "example": "The team members had great chemistry and worked perfectly together.", "exampleZh": "队员之间很有默契，合作得天衣无缝。", "extension": "chemical /ˈkemɪkl/ adj. 化学的 n. 化学制品"},
+        {"word": "relative", "phonetic": "/ˈrelətɪv/", "meaning": "adj. 相对的；相关的 n. 亲戚", "example": "The cost of living is relative to the average income of a region.", "exampleZh": "生活成本与一个地区的平均收入有关。", "extension": "relatively /ˈrelətɪvli/ adv. 相对地；relate /rɪˈleɪt/ v. 相关"},
+        {"word": "respond", "phonetic": "/rɪˈspɒnd/", "meaning": "v. 回应；回答；响应", "example": "The company responded quickly to customer complaints.", "exampleZh": "公司迅速回应了客户投诉。", "extension": "response /rɪˈspɒns/ n. 回应"},
+        {"word": "predict", "phonetic": "/prɪˈdɪkt/", "meaning": "v. 预测，预言", "example": "Experts predict that artificial intelligence will transform education.", "exampleZh": "专家预测人工智能将改变教育。", "extension": "prediction /prɪˈdɪkʃn/ n. 预测；predictable /prɪˈdɪktəbl/ adj. 可预测的"},
+        {"word": "digital", "phonetic": "/ˈdɪdʒɪtl/", "meaning": "adj. 数字的；数码的", "example": "Many schools have adopted digital textbooks to reduce costs.", "exampleZh": "许多学校采用数字教材以降低成本。", "extension": "digit /ˈdɪdʒɪt/ n. 数字；digitize /ˈdɪdʒɪtaɪz/ v. 数字化"},
+        {"word": "diverse", "phonetic": "/daɪˈvɜːs/", "meaning": "adj. 多样的；不同的", "example": "A diverse team brings different perspectives to problem-solving.", "exampleZh": "多元化的团队为解决问题带来不同的视角。", "extension": "diversity /daɪˈvɜːsəti/ n. 多样性"},
+        {"word": "extra", "phonetic": "/ˈekstrə/", "meaning": "adj. 额外的；外加的 adv. 额外地", "example": "She took on an extra project to improve her skills.", "exampleZh": "她额外接了一个项目来提升技能。", "extension": "extraordinary /ɪkˈstrɔːdnri/ adj. 非凡的"},
+        {"word": "adult", "phonetic": "/ˈædʌlt/", "meaning": "n. 成人 adj. 成年的", "example": "Adult education programs offer lifelong learning opportunities.", "exampleZh": "成人教育项目提供终身学习机会。", "extension": "adulthood /ˈædʌlthʊd/ n. 成年期"},
+        {"word": "channel", "phonetic": "/ˈtʃænl/", "meaning": "n. 频道；渠道；海峡 v. 引导", "example": "The organization uses social media as a channel for raising awareness.", "exampleZh": "该组织利用社交媒体作为提升认知的渠道。", "extension": "the English Channel 英吉利海峡"},
+        {"word": "operate", "phonetic": "/ˈɒpəreɪt/", "meaning": "v. 操作；经营；运转；做手术", "example": "Learning to operate advanced machinery requires careful training.", "exampleZh": "学习操作先进机械需要仔细培训。", "extension": "operation /ˌɒpəˈreɪʃn/ n. 操作；手术；operator /ˈɒpəreɪtə(r)/ n. 操作员"}
+        ] },
+  { id: 48, title: "📘 PASSAGE 48", c1: '#8A2A5A', c2: '#C85A7A', cardBg: '#F8EDF0', words: [
+        {"word": "inaccessible", "phonetic": "/ˌɪnækˈsesəbl/", "meaning": "adj. 不能达到的；不可接近的", "example": "The mountain village remains inaccessible by car during winter.", "exampleZh": "这个山村冬天开车无法到达。", "extension": "accessible /əkˈsesəbl/ adj. 可到达的"},
+        {"word": "heart", "phonetic": "/hɑːt/", "meaning": "n. 心脏；核心；内心", "example": "The doctor advised him to take medicine for his heart condition.", "exampleZh": "医生建议他服用治疗心脏疾病的药。", "extension": "heartfelt /ˈhɑːtfelt/ adj. 衷心；hearty /ˈhɑːti/ adj. 真诚的"},
+        {"word": "engagement", "phonetic": "/ɪnˈɡeɪdʒmənt/", "meaning": "n. 约会；订婚；参与与投入", "example": "Student engagement is the key factor in successful learning.", "exampleZh": "学生参与是成功学习的关键因素。", "extension": "engage /ɪnˈɡeɪdʒ/ v. 参与；吸引；engaged /ɪnˈɡeɪdʒd/ adj. 已订婚的；忙碌的"},
+        {"word": "gallery", "phonetic": "/ˈɡæləri/", "meaning": "n. 画廊，美术馆；长廊", "example": "The art gallery features works by both local and international artists.", "exampleZh": "这家美术馆展出本地和国际艺术家的作品。", "extension": ""},
+        {"word": "fear", "phonetic": "/fɪə(r)/", "meaning": "n./v. 害怕，恐惧", "example": "She overcame her fear of public speaking through practice.", "exampleZh": "她通过练习克服了对公开演讲的恐惧。", "extension": "fearful /ˈfɪəfl/ adj. 害怕的；fearless /ˈfɪələs/ adj. 无畏的"},
+        {"word": "display", "phonetic": "/dɪˈspleɪ/", "meaning": "v./n. 展示，陈列；显示", "example": "The museum displayed ancient pottery from the Tang dynasty.", "exampleZh": "博物馆展出了唐代的古陶器。", "extension": "on display 展出"},
+        {"word": "equal", "phonetic": "/ˈiːkwəl/", "meaning": "adj. 平等的；相等的 v. 等于", "example": "All people deserve equal opportunities in education.", "exampleZh": "所有人都应该在教育中享有平等的机会。", "extension": "equality /iˈkwɒləti/ n. 平等；unequal /ʌnˈiːkwəl/ adj. 不平等的"},
+        {"word": "innocently", "phonetic": "/ˈɪnəsntli/", "meaning": "adv. 天真地；无辜地", "example": "The child innocently asked why the sky was blue.", "exampleZh": "孩子天真地问天空为什么是蓝色的。", "extension": "innocent /ˈɪnəsnt/ adj. 无辜的；天真的"},
+        {"word": "contemporary", "phonetic": "/kənˈtemprəri/", "meaning": "adj. 当代的；同时代的", "example": "Contemporary art often challenges traditional ideas of beauty.", "exampleZh": "当代艺术常常挑战传统的美的概念。", "extension": "contemporaneous /kənˌtempəˈreɪniəs/ adj. 同时期的"},
+        {"word": "particularly", "phonetic": "/pəˈtɪkjələli/", "meaning": "adv. 特别地，尤其", "example": "She is particularly interested in environmental conservation.", "exampleZh": "她对环境保护特别感兴趣。", "extension": "particular /pəˈtɪkjələ(r)/ adj. 特定的"},
+        {"word": "appreciate", "phonetic": "/əˈpriːʃieɪt/", "meaning": "v. 欣赏；感激；理解", "example": "We should learn to appreciate the effort others put in.", "exampleZh": "我们应该学会欣赏他人付出的努力。", "extension": "appreciation /əˌpriːʃiˈeɪʃn/ n. 欣赏；感激"},
+        {"word": "enjoy", "phonetic": "/ɪnˈdʒɔɪ/", "meaning": "v. 享受；喜欢", "example": "Visitors can enjoy a peaceful walk in the botanical garden.", "exampleZh": "游客可以在植物园享受宁静的散步。", "extension": "enjoyable /ɪnˈdʒɔɪəbl/ adj. 令人愉快的"},
+        {"word": "instinct", "phonetic": "/ˈɪnstɪŋkt/", "meaning": "n. 本能，直觉", "example": "Migrating birds follow their natural instinct to travel south in winter.", "exampleZh": "候鸟遵循自然本能在冬天南飞。", "extension": "instinctively /ɪnˈstɪŋktɪvli/ adv. 本能地"},
+        {"word": "striking", "phonetic": "/ˈstraɪkɪŋ/", "meaning": "adj. 显著的；引人注目的", "example": "There are striking similarities between the two ancient cultures.", "exampleZh": "这两种古代文化之间有着惊人的相似之处。", "extension": "strike /straɪk/ v. 打；罢工；打动"},
+        {"word": "simple", "phonetic": "/ˈsɪmpl/", "meaning": "adj. 简单的；朴素的", "example": "Sometimes the simplest solution is the best one.", "exampleZh": "有时候最简单的解决方案就是最好的。", "extension": "simply /ˈsɪmpli/ adv. 简单地；仅仅"},
+        {"word": "formal", "phonetic": "/ˈfɔːml/", "meaning": "adj. 正式的；形式上的", "example": "Job interviews usually require formal clothing.", "exampleZh": "求职面试通常要求正装。", "extension": "informal /ɪnˈfɔːml/ adj. 非正式的"},
+        {"word": "element", "phonetic": "/ˈelɪmənt/", "meaning": "n. 要素；元素；成分", "example": "Trust is a key element of any healthy relationship.", "exampleZh": "信任是任何健康关系的关键要素。", "extension": "elementary /ˌelɪˈmentri/ adj. 基本的"},
+        {"word": "shade", "phonetic": "/ʃeɪd/", "meaning": "n. 萌芽；遮阳；色调；细微差别", "example": "Trees provide welcome shade during hot summer days.", "exampleZh": "炎热的夏天，树木提供了令人喜的遮阳。", "extension": "shady /ˈʃeɪdi/ adj. 阴凉的"},
+        {"word": "evoke", "phonetic": "/ɪˈvəʊk/", "meaning": "v. 唤起；引起（记忆或情感）", "example": "The old photograph evoked memories of her childhood.", "exampleZh": "这张老照片唤起了她童年的记忆。", "extension": "evocative /ɪˈvɒkətɪv/ adj. 唤起记忆的"},
+        {"word": "emotion", "phonetic": "/ɪˈməʊʃn/", "meaning": "n. 情感，情绪", "example": "Music has the power to stir deep emotions within us.", "exampleZh": "音乐有能力激起我们内心深处的情绪。", "extension": "emotional /ɪˈməʊʃənl/ adj. 情感的"},
+        {"word": "current", "phonetic": "/ˈkʌrənt/", "meaning": "adj. 当前的；现行的 n. 电流；水流", "example": "The current situation requires immediate attention.", "exampleZh": "当前情况需要立即关注。", "extension": "currently /ˈkʌrəntli/ adv. 目前"},
+        {"word": "affair", "phonetic": "/əˈfeə(r)/", "meaning": "n. 事件；事务；私事", "example": "The government is dealing with the current international affairs.", "exampleZh": "政府正在处理当前的国际事务。", "extension": "social affairs 社会事务"},
+        {"word": "staff", "phonetic": "/stɑːf/", "meaning": "n. 员工，全体工作人员", "example": "The school staff works hard to create a safe environment for students.", "exampleZh": "全校员工努力为学生创造安全的环境。", "extension": ""},
+        {"word": "intended", "phonetic": "/ɪnˈtendɪd/", "meaning": "adj. 预期的，打算中的", "example": "The intended purpose of the app is to promote healthy habits.", "exampleZh": "该应用的预期目的是促进健康习惯。", "extension": "intend /ɪnˈtend/ v. 打算；intention /ɪnˈtenʃn/ n. 意图"},
+        {"word": "matter", "phonetic": "/ˈmætə(r)/", "meaning": "n. 事情；问题；物质 v. 要紧，重要", "example": "What matters most is not the result but the effort you put in.", "exampleZh": "最重要的不是结果而是你付出的努力。", "extension": "no matter what 无论如何"},
+        {"word": "count", "phonetic": "/kaʊnt/", "meaning": "v. 计算；数；重要 n. 计数", "example": "Every vote counts in a democracy.", "exampleZh": "在民主制度中，每一张选票都很重要。", "extension": "uncountable /ʌnˈkaʊntəbl/ adj. 不可数的"}
+        ] },
+  { id: 49, title: "📘 PASSAGE 49", c1: '#5A4A8A', c2: '#9A7AC8', cardBg: '#F0EAF8', words: [
+        {"word": "wrong", "phonetic": "/rɒŋ/", "meaning": "adj. 错误的；有问题的 v. 冤枉，不公正对待", "example": "The teacher pointed out what was wrong with my essay.", "exampleZh": "老师指出了我文章中的错误。", "extension": "wrongly /ˈrɒŋli/ adv. 错误地"},
+        {"word": "tear", "phonetic": "/teə(r)/", "meaning": "v. 撕裂，扯破 n. /tɪə(r)/ 眼泪", "example": "Be careful not to tear the pages of this old book.", "exampleZh": "小心别撕破这本旧书的书页。", "extension": "tear apart 撕裂；tear up 撕毁"},
+        {"word": "well", "phonetic": "/wel/", "meaning": "adv. 好地 adj. 健康的 n. 井", "example": "She performed so well in the competition that everyone applauded.", "exampleZh": "她在比赛中表现得如此出色，所有人都鼓掌了。", "extension": "well-being n. 安康"},
+        {"word": "participate", "phonetic": "/pɑːˈtɪsɪpeɪt/", "meaning": "v. 参加，参与", "example": "Students are encouraged to participate actively in class discussions.", "exampleZh": "鼓励学生们积极参与课堂讨论。", "extension": "participation /pɑːˌtɪsɪˈpeɪʃn/ n. 参与"},
+        {"word": "afraid", "phonetic": "/əˈfreɪd/", "meaning": "adj. 害怕的；担心的", "example": "Many children are afraid of the dark when they sleep alone.", "exampleZh": "许多孩子独自睡觉时害怕黑暗。", "extension": "be afraid of 害怕"},
+        {"word": "muscle", "phonetic": "/ˈmʌsl/", "meaning": "n. 肌肉", "example": "Strength training helps build muscle and improve fitness.", "exampleZh": "力量训练有助于增长肌肉和提高体能。", "extension": "muscular /ˈmʌskjələ(r)/ adj. 肌肉的"},
+        {"word": "tense", "phonetic": "/tens/", "meaning": "adj. 紧张的；绷紧的 v. （使）绷紧", "example": "The atmosphere in the room became tense before the announcement.", "exampleZh": "宣布之前，房间里的气氛变得紧张。", "extension": "tension /ˈtenʃn/ n. 紧张；tensely /ˈtensli/ adv. 紧张地"},
+        {"word": "choke", "phonetic": "/tʃəʊk/", "meaning": "v. （使）窒息；哽咽；阻塞", "example": "He choked on a piece of food and had to drink water quickly.", "exampleZh": "他被一口食物噎住了，不得不赶紧喝水。", "extension": "choke up (因情绪激动而)哽咽"},
+        {"word": "jump", "phonetic": "/dʒʌmp/", "meaning": "v./n. 跳；跳跃；猛增", "example": "The frog jumped from one lily pad to another.", "exampleZh": "青蛙从一片睡莲跳到另一片。", "extension": "jump to conclusions 匆忙下结论"},
+        {"word": "quiet", "phonetic": "/ˈkwaɪət/", "meaning": "adj. 安静的；宁静的", "example": "The library is a quiet place where students can focus on studying.", "exampleZh": "图书馆是一个安静的地方，学生可以专心学习。", "extension": "quietly /ˈkwaɪətli/ adv. 安静地"},
+        {"word": "jealousy", "phonetic": "/ˈdʒeləsi/", "meaning": "n. 嫉妒，妒忌", "example": "Jealousy can destroy friendships if it is not controlled.", "exampleZh": "嫉妒如果得不到控制，会毁掉友谊。", "extension": "jealous /ˈdʒeləs/ adj. 嫉妒的"},
+        {"word": "envious", "phonetic": "/ˈenviəs/", "meaning": "adj. 羡慕的；嫉妒的", "example": "She felt envious of her colleague's promotion.", "exampleZh": "她对同事的升职感到羡慕。", "extension": "envy /ˈenvi/ v./n. 羡慕；嫉妒"},
+        {"word": "shoot", "phonetic": "/ʃuːt/", "meaning": "v. 射击；拍摄；投篮", "example": "The photographer shot hundreds of pictures at the wedding.", "exampleZh": "摄影师在婚礼上拍摄了数百张照片。", "extension": "shoot a film 拍摄电影"},
+        {"word": "belief", "phonetic": "/bɪˈliːf/", "meaning": "n. 信念；相信；信仰", "example": "Her strong belief in herself helped her overcome many challenges.", "exampleZh": "她对自己坚定的信念帮助她克服了许多挑战。", "extension": "believe /bɪˈliːv/ v. 相信；disbelief /ˌdɪsbɪˈliːf/ n. 怀疑"},
+        {"word": "surround", "phonetic": "/səˈraʊnd/", "meaning": "v. 围绕；包围", "example": "Tall mountains surround the small village on all sides.", "exampleZh": "高山环绕着这个小村庄。", "extension": "surroundings /səˈraʊndɪŋz/ n. 周围环境"},
+        {"word": "spark", "phonetic": "/spɑːk/", "meaning": "n. 火花 v. 引发，触发", "example": "A small spark can ignite a great forest fire.", "exampleZh": "一颗小火花可以引发巨大的森林火灾。", "extension": "sparkle /ˈspɑːkl/ v. 闪耀"},
+        {"word": "visibly", "phonetic": "/ˈvɪzəbli/", "meaning": "adv. 明显地；可见地", "example": "He was visibly relieved when he heard the good news.", "exampleZh": "听到好消息时，他明显地松了一口气。", "extension": "visible /ˈvɪzəbl/ adj. 可见的；invisible /ɪnˈvɪzəbl/ adj. 看不见的"},
+        {"word": "insecure", "phonetic": "/ˌɪnsɪˈkjʊə(r)/", "meaning": "adj. 不安全的；缺乏安全感的", "example": "Constant criticism can make children feel insecure about their abilities.", "exampleZh": "不断的批评会让孩子们对自己的能力感到不安。", "extension": "secure /sɪˈkjʊə(r)/ adj. 安全的；security /sɪˈkjʊərəti/ n. 安全"},
+        {"word": "tighten", "phonetic": "/ˈtaɪtn/", "meaning": "v. （使）变紧；加强", "example": "The government decided to tighten regulations on pollution.", "exampleZh": "政府决定加强对污染的规定。", "extension": "tight /taɪt/ adj. 紧的；loosen /ˈluːsn/ v. 放松（反义词）"},
+        {"word": "silence", "phonetic": "/ˈsaɪləns/", "meaning": "n. 沉默；寂静 v. 使沉默", "example": "There was a moment of silence before the announcement was made.", "exampleZh": "宣布之前，有片刻的沉默。", "extension": "silent /ˈsaɪlənt/ adj. 沉默的"},
+        {"word": "guide", "phonetic": "/ɡaɪd/", "meaning": "n. 指南；向导 v. 指导，引导", "example": "A good teacher can guide students toward their full potential.", "exampleZh": "一位好老师可以引导学生充分发挥潜力。", "extension": "guidance /ˈɡaɪdns/ n. 指导"},
+        {"word": "activity", "phonetic": "/ækˈtɪvəti/", "meaning": "n. 活动；活跃", "example": "Physical activity has been shown to improve mental well-being.", "exampleZh": "体育活动已被证明可以改善精神健康。", "extension": "active /ˈæktɪv/ adj. 活跃的"},
+        {"word": "sound", "phonetic": "/saʊnd/", "meaning": "n. 声音 v. 听起来 adj. 健康的；合理的", "example": "The idea sounds interesting, but we need more details.", "exampleZh": "这个想法听起来很有趣，但我们需要更多细节。", "extension": "soundproof /ˈsaʊndpruːf/ adj. 隔音的"},
+        {"word": "unite", "phonetic": "/juˈnaɪt/", "meaning": "v. （使）联合；（使）团结", "example": "The crisis united people from all walks of life.", "exampleZh": "这场危机团结了各行各业的人们。", "extension": "united /juˈnaɪtɪd/ adj. 联合的；unity /ˈjuːnəti/ n. 团结"},
+        {"word": "competent", "phonetic": "/ˈkɒmpɪtənt/", "meaning": "adj. 有能力的，胜任的", "example": "A competent employee is an asset to any organization.", "exampleZh": "一个有能力的员工是任何组织的财富。", "extension": "competence /ˈkɒmpɪtəns/ n. 能力"},
+        {"word": "bound", "phonetic": "/baʊnd/", "meaning": "adj. 一定的；有义务的；前往……的", "example": "With hard work, you are bound to succeed eventually.", "exampleZh": "只要努力工作，你最终一定会成功。", "extension": "be bound to do sth. 一定会做某事"},
+        {"word": "cultivate", "phonetic": "/ˈkʌltɪveɪt/", "meaning": "v. 培养；耕作；种植", "example": "Teachers should cultivate students' critical thinking skills.", "exampleZh": "教师应该培养学生的批判性思维能力。", "extension": "cultivation /ˌkʌltɪˈveɪʃn/ n. 培养；耕作"}
+        ] },
+  { id: 50, title: "📘 PASSAGE 50", c1: '#6A4A9A', c2: '#B88AD8', cardBg: '#F5EDF8', words: [
+        {"word": "editor", "phonetic": "/ˈedɪtə(r)/", "meaning": "n. 编辑；编者", "example": "The editor went through the article several times before publishing it.", "exampleZh": "编辑在发表前审阅了这篇文章好几次。", "extension": "edit /ˈedɪt/ v. 编辑；edition /ɪˈdɪʃn/ n. 版本"},
+        {"word": "casual", "phonetic": "/ˈkæʒuəl/", "meaning": "adj. 休闲的；随便的；偶然的", "example": "The office allows casual dress on Fridays.", "exampleZh": "办公室允许周五穿便装。", "extension": "casually /ˈkæʒuəli/ adv. 随意地"},
+        {"word": "length", "phonetic": "/leŋθ/", "meaning": "n. 长度；篇幅", "example": "The length of the report should be about 2,000 words.", "exampleZh": "报告的长度应该约为两千词。", "extension": "lengthen /ˈleŋθən/ v. 加长；lengthy /ˈleŋθi/ adj. 冗长的"},
+        {"word": "incomprehensible", "phonetic": "/ɪnˌkɒmprɪˈhensəbl/", "meaning": "adj. 不可理解的，费解的", "example": "The technical manual was nearly incomprehensible to beginners.", "exampleZh": "技术手册对初学者来说几乎无法理解。", "extension": "comprehensible /ˌkɒmprɪˈhensəbl/ adj. 可理解的；comprehend /ˌkɒmprɪˈhend/ v. 理解"},
+        {"word": "meaningless", "phonetic": "/ˈmiːnɪŋləs/", "meaning": "adj. 无意义的；无目的的", "example": "Without context, the data is meaningless.", "exampleZh": "没有上下文，这些数据毫无意义。", "extension": "meaningful /ˈmiːnɪŋfl/ adj. 有意义的"},
+        {"word": "string", "phonetic": "/strɪŋ/", "meaning": "n. 细绳；一串 v. 悬挂", "example": "She tied the gift box with a golden string.", "exampleZh": "她用一根金色细绳系好了礼品盒。", "extension": "a string of 一串"},
+        {"word": "letter", "phonetic": "/ˈletə(r)/", "meaning": "n. 信；字母", "example": "He received a letter of acceptance from his dream university.", "exampleZh": "他收到了梦想大学的录取通知书。", "extension": "letter of invitation 邀请函"},
+        {"word": "steadily", "phonetic": "/ˈstedəli/", "meaning": "adv. 稳定地；持续地", "example": "The demand for electric vehicles has been growing steadily.", "exampleZh": "电动车的需求一直在稳定增长。", "extension": "steady /ˈstedi/ adj. 稳定的"},
+        {"word": "situation", "phonetic": "/ˌsɪtʃuˈeɪʃn/", "meaning": "n. 情况；处境；形势", "example": "The company faced a difficult financial situation but managed to recover.", "exampleZh": "公司面临困难的财务处境，但成功恢复了。", "extension": "situational /ˌsɪtʃuˈeɪʃənl/ adj. 情景的"},
+        {"word": "weird", "phonetic": "/wɪəd/", "meaning": "adj. 奇怪的；古怪的", "example": "I heard a weird noise coming from the old house.", "exampleZh": "我听到老房子里传出奇怪的声音。", "extension": "weirdly /ˈwɪədli/ adv. 奇怪地"},
+        {"word": "mental", "phonetic": "/ˈmentl/", "meaning": "adj. 精神的；智力的；心理的", "example": "Taking breaks is essential for maintaining good mental health.", "exampleZh": "休息对于保持良好的心理健康至关重要。", "extension": "mentally /ˈmentəli/ adv. 精神上"},
+        {"word": "literary", "phonetic": "/ˈlɪtərəri/", "meaning": "adj. 文学的；书面的", "example": "The novel won several prestigious literary awards.", "exampleZh": "这部小说获得了多个著名的文学奖项。", "extension": "literature /ˈlɪtrətʃə(r)/ n. 文学"},
+        {"word": "term", "phonetic": "/tɜːm/", "meaning": "n. 术语；学期；期限", "example": "'Artificial Intelligence' is a term we hear frequently these days.", "exampleZh": "人工智能是我们现在经常听到的一个术语。", "extension": "in the long term 从长远来看"},
+        {"word": "coin", "phonetic": "/kɔɪn/", "meaning": "v. 创造（新词） n. 硬币", "example": "The scientist coined a new term to describe the phenomenon.", "exampleZh": "科学家创造了一个新术语来描述这一现象。", "extension": "coinage /ˈkɔɪnɪdʒ/ n. 新造词"},
+        {"word": "fatigue", "phonetic": "/fəˈtiːɡ/", "meaning": "n. 疲劳；疲乏", "example": "Mental fatigue can reduce productivity just as much as physical fatigue.", "exampleZh": "精神疲劳和身体疲劳一样会降低生产力。", "extension": "fatigued /fəˈtiːɡd/ adj. 疲乏的"},
+        {"word": "fire", "phonetic": "/ˈfaɪə(r)/", "meaning": "v. 解雇；开火 n. 火；火灾", "example": "The company fired several employees due to budget cuts.", "exampleZh": "公司因预算削减解雇了几名员工。", "extension": "firefighter /ˈfaɪəfaɪtə(r)/ n. 消防员"},
+        {"word": "react", "phonetic": "/riˈækt/", "meaning": "v. 反应；回应", "example": "How did the audience react to the unexpected twist in the story?", "exampleZh": "观众对故事中意外的转折是如何反应的？", "extension": "reaction /riˈækʃn/ n. 反应"},
+        {"word": "unless", "phonetic": "/ənˈles/", "meaning": "conj. 除非；如果不", "example": "You will not improve unless you practice regularly.", "exampleZh": "除非你定期练习，否则你不会进步。", "extension": ""},
+        {"word": "increasingly", "phonetic": "/ɪnˈkriːsɪŋli/", "meaning": "adv. 日益；越来越多地", "example": "People are increasingly aware of the importance of mental health.", "exampleZh": "人们日益意识到心理健康的重要性。", "extension": "increase /ɪnˈkriːs/ v./n. 增加"},
+        {"word": "association", "phonetic": "/əˌsəʊʃiˈeɪʃn/", "meaning": "n. 协会；联系；联想", "example": "The study found a strong association between diet and health.", "exampleZh": "该研究发现饮食与健康之间有很强的关联。", "extension": "associate /əˈsəʊʃieɪt/ v. 联系 n. 伙伴"},
+        {"word": "lessen", "phonetic": "/ˈlesn/", "meaning": "v. 减少；减轻", "example": "New technology can lessen the environmental impact of factories.", "exampleZh": "新技术可以减少工厂对环境的影响。", "extension": "less /les/ adj. 更少的"},
+        {"word": "confusion", "phonetic": "/kənˈfjuːʒn/", "meaning": "n. 困惑；混乱", "example": "There was confusion about the date of the exam among students.", "exampleZh": "学生们对考试日期存在困惑。", "extension": "confuse /kənˈfjuːz/ v. 使困惑；confusing /kənˈfjuːzɪŋ/ adj. 令人困惑的"},
+        {"word": "overuse", "phonetic": "/ˌəʊvəˈjuːz/", "meaning": "v./n. 过度使用", "example": "Overuse of antibiotics can lead to drug-resistant bacteria.", "exampleZh": "过度使用抗生素可导致耐药细菌。", "extension": "overused /ˌəʊvəˈjuːzd/ adj. 被滥用的"},
+        {"word": "hook", "phonetic": "/hʊk/", "meaning": "n. 钩子 v. 钩住；吸引", "example": "The film's opening scene is designed to hook viewers immediately.", "exampleZh": "电影的开场场景是为了立即吸引观众。", "extension": "hooked /hʊkt/ adj. 入迷的"},
+        {"word": "package", "phonetic": "/ˈpækɪdʒ/", "meaning": "n. 包裹；包 v. 包装", "example": "The gift was beautifully packaged in bright paper and ribbons.", "exampleZh": "礼物被用鲜艳的纸张和丝带精美地包装起来。", "extension": "packaging /ˈpækɪdʒɪŋ/ n. 包装"},
+        {"word": "cheese", "phonetic": "/tʃiːz/", "meaning": "n. 奶酪", "example": "Switzerland is famous for its high-quality cheese production.", "exampleZh": "瑞士以其高品质的奶酪生产而闻名。", "extension": "cheesy /ˈtʃiːzi/ adj. 奶酪味的；（非正式）俗气的"}
+        ] },
+  { id: 51, title: "📘 PASSAGE 51", c1: '#5A4A8A', c2: '#9A8AC8', cardBg: '#F0EAF8', words: [
+        {"word": "teenager", "phonetic": "/ˈtiːneɪdʒə(r)/", "meaning": "n. 青少年", "example": "The program is designed to help teenagers develop leadership skills.", "exampleZh": "这个项目旨在帮助青少年发展领导能力。", "extension": "teenage /ˈtiːneɪdʒ/ adj. 青少年的"},
+        {"word": "pour", "phonetic": "/pɔː(r)/", "meaning": "v. 倒；倾盆而下；源源而来", "example": "She poured a cup of hot tea for her guest.", "exampleZh": "她给客人倒了一杯热茶。", "extension": "pour down (雨)倾盆而下"},
+        {"word": "baking", "phonetic": "/ˈbeɪkɪŋ/", "meaning": "n. 烘烤 adj. 炎热的", "example": "On baking hot days, people flock to the beach to cool off.", "exampleZh": "在炎热的天气里，人们涌向海滩纳凉。", "extension": "bake /beɪk/ v. 烘烤"},
+        {"word": "skip", "phonetic": "/skɪp/", "meaning": "v. 跳过；跳绳；不参加", "example": "Many students skip breakfast due to a lack of time in the morning.", "exampleZh": "许多学生因早晨时间不足而不吃早餐。", "extension": "skipping rope 跳绳"},
+        {"word": "assemble", "phonetic": "/əˈsembl/", "meaning": "v. 组装；集合", "example": "The students assembled in the hall for the morning ceremony.", "exampleZh": "学生们在大厅集合参加早晨的仪式。", "extension": "assembly /əˈsembli/ n. 集会；装配"},
+        {"word": "terminal", "phonetic": "/ˈtɜːmɪnl/", "meaning": "n. 航站楼；终端 adj. 晚期的", "example": "The new airport terminal can handle millions of passengers each year.", "exampleZh": "新的航站楼每年可以接待数百万旅客。", "extension": "terminally /ˈtɜːmɪnəli/ adv. 晚期地"},
+        {"word": "deadly", "phonetic": "/ˈdedli/", "meaning": "adj. 致死的；致命的", "example": "The virus proved to be more deadly than scientists had expected.", "exampleZh": "这种病毒被证明比科学家预期的更为致命。", "extension": "dead /ded/ adj. 死的"},
+        {"word": "topic", "phonetic": "/ˈtɒpɪk/", "meaning": "n. 话题；主题；题目", "example": "Climate change is a hot topic of discussion around the world.", "exampleZh": "气候变化是全球热议的话题。", "extension": "topical /ˈtɒpɪkl/ adj. 热门话题的"},
+        {"word": "discussion", "phonetic": "/dɪˈskʌʃn/", "meaning": "n. 讨论；商讨", "example": "The panel discussion brought together experts from various fields.", "exampleZh": "座谈会汇集了来自各领域的专家。", "extension": "discuss /dɪˈskʌs/ v. 讨论"},
+        {"word": "interest", "phonetic": "/ˈɪntrəst/", "meaning": "n. 兴趣；利益 v. 使感兴趣", "example": "The museum has exhibits that interest visitors of all ages.", "exampleZh": "博物馆有能吸引各年龄段参观者的展品。", "extension": "interesting /ˈɪntrəstɪŋ/ adj. 有趣的"},
+        {"word": "proud", "phonetic": "/praʊd/", "meaning": "adj. 自豪的，骄傲的", "example": "The teacher felt proud of her students' achievements.", "exampleZh": "老师为学生们的成就感到自豪。", "extension": "pride /praɪd/ n. 自豪；proudly /ˈpraʊdli/ adv. 自豪地"},
+        {"word": "inform", "phonetic": "/ɪnˈfɔːm/", "meaning": "v. 通知；告知", "example": "The school will inform parents about the changes to the schedule.", "exampleZh": "学校将通知家长有关日程安排的变化。", "extension": "information /ˌɪnfəˈmeɪʃn/ n. 信息"},
+        {"word": "concerned", "phonetic": "/kənˈsɜːnd/", "meaning": "adj. 担忧的；关心的", "example": "Many citizens are concerned about the rising levels of pollution.", "exampleZh": "许多市民对日益严重的污染感到担忧。", "extension": "concern /kənˈsɜːn/ n./v. 担忧；关心"},
+        {"word": "overwhelm", "phonetic": "/ˌəʊvəˈwelm/", "meaning": "v. 使不知所措；压倒；淹没", "example": "She was overwhelmed by the kindness of strangers after the accident.", "exampleZh": "事故后，她被陌生人的善意所感动。", "extension": "overwhelming /ˌəʊvəˈwelmɪŋ/ adj. 压倒性的"},
+        {"word": "coverage", "phonetic": "/ˈkʌvərɪdʒ/", "meaning": "n. 报道；覆盖范围", "example": "The event received extensive media coverage worldwide.", "exampleZh": "该事件获得了全球范围内的广泛媒体报道。", "extension": "cover /ˈkʌvə(r)/ v. 覆盖；报道"},
+        {"word": "gravity", "phonetic": "/ˈɡrævəti/", "meaning": "n. 重力；严重性", "example": "The astronauts experienced zero gravity during the space mission.", "exampleZh": "宇航员在太空任务中经历了零重力。", "extension": "gravitational /ˌɡrævɪˈteɪʃənl/ adj. 重力的"},
+        {"word": "underlie", "phonetic": "/ˌʌndəˈlaɪ/", "meaning": "v. 构成……的基础；是……的深层原因", "example": "Economic factors often underlie social unrest.", "exampleZh": "经济因素往往是社会动荡的深层原因。", "extension": "underlying /ˌʌndəˈlaɪɪŋ/ adj. 潜在的；根本的"},
+        {"word": "anger", "phonetic": "/ˈæŋɡə(r)/", "meaning": "n. 愤怒；怒火 v. 激怒", "example": "The decision angered many members of the local community.", "exampleZh": "这一决定激怒了当地社区的许多成员。", "extension": "angry /ˈæŋɡri/ adj. 愤怒的"},
+        {"word": "weep", "phonetic": "/wiːp/", "meaning": "v. 哭泣；流泪", "example": "The sad movie made many audience members weep.", "exampleZh": "这部悲伤的电影让许多观众流泪。", "extension": ""},
+        {"word": "depression", "phonetic": "/dɪˈpreʃn/", "meaning": "n. 抑郁；消沉；萧条", "example": "Depression is a serious mental health condition that requires treatment.", "exampleZh": "抑郁症是一种需要治疗的严重心理健康状况。", "extension": "depress /dɪˈpres/ v. 使沮丧；depressed /dɪˈprest/ adj. 沮丧的"},
+        {"word": "extreme", "phonetic": "/ɪkˈstriːm/", "meaning": "adj. 极端的；极度的 n. 极端", "example": "Extreme weather events are becoming more frequent due to climate change.", "exampleZh": "由于气候变化，极端天气事件正变得越来越频繁。", "extension": "extremely /ɪkˈstriːmli/ adv. 极其"},
+        {"word": "drought", "phonetic": "/draʊt/", "meaning": "n. 干旱", "example": "The severe drought caused widespread crop failure in the region.", "exampleZh": "严重的干旱导致该地区大面积农作物歉收。", "extension": "flood /flʌd/ n. 洪水（反义词）"},
+        {"word": "noticeable", "phonetic": "/ˈnəʊtɪsəbl/", "meaning": "adj. 明显的；显著的", "example": "There has been a noticeable improvement in his grades this semester.", "exampleZh": "他这学期的成绩有了显著的提高。", "extension": "notice /ˈnəʊtɪs/ v./n. 注意"},
+        {"word": "polar", "phonetic": "/ˈpəʊlə(r)/", "meaning": "adj. 极地的；截然对立的", "example": "Polar bears depend on sea ice for hunting.", "exampleZh": "北极熊依赖海冰进行狩猎。", "extension": "polarize /ˈpəʊləraɪz/ v. 使两极分化"},
+        {"word": "melt", "phonetic": "/melt/", "meaning": "v. （使）融化；（使）软化", "example": "The snow on the mountaintop began to melt in early spring.", "exampleZh": "山顶的雪在初春开始融化。", "extension": "melting /ˈmeltɪŋ/ adj. 融化的"},
+        {"word": "hypothetical", "phonetic": "/ˌhaɪpəˈθetɪkl/", "meaning": "adj. 假设的；假想的", "example": "The students discussed a hypothetical situation in their ethics class.", "exampleZh": "学生在伦理课上讨论了一个假设情境。", "extension": "hypothesis /haɪˈpɒθəsɪs/ n. 假说"}
+        ] },
+  { id: 52, title: "📘 PASSAGE 52", c1: '#B84030', c2: '#F5A84A', cardBg: '#F5ECE0', words: [
+        {"word": "festival", "phonetic": "/ˈfestɪvl/", "meaning": "n. 节日；庆祝活动", "example": "The Spring Festival is the most important traditional holiday in China.", "exampleZh": "春节是中国最重要的传统节日。", "extension": "festive /ˈfestɪv/ adj. 节日的"},
+        {"word": "annual", "phonetic": "/ˈænjuəl/", "meaning": "adj. 一年一度的；每年的", "example": "The company holds an annual meeting to review the year's performance.", "exampleZh": "公司举办年度会议回顾一年的表现。", "extension": "annually /ˈænjuəli/ adv. 每年"},
+        {"word": "celebration", "phonetic": "/ˌselɪˈbreɪʃn/", "meaning": "n. 庆祝；庆典", "example": "The victory was met with wild celebration across the city.", "exampleZh": "胜利在全市引发了热烈的庆祝。", "extension": "celebrate /ˈselɪbreɪt/ v. 庆祝"},
+        {"word": "recent", "phonetic": "/ˈriːsnt/", "meaning": "adj. 近来的；最近的", "example": "In recent years, online shopping has transformed consumer habits.", "exampleZh": "近年来，网购改变了消费习惯。", "extension": "recently /ˈriːsntli/ adv. 最近"},
+        {"word": "emphasis", "phonetic": "/ˈemfəsɪs/", "meaning": "n. 强调；重点（复数 emphases）", "example": "The school places great emphasis on character development.", "exampleZh": "学校非常重视品格培养。", "extension": "emphasize /ˈemfəsaɪz/ v. 强调"},
+        {"word": "lunar", "phonetic": "/ˈluːnə(r)/", "meaning": "adj. 月球的；阴历的", "example": "The Lunar New Year is celebrated in many Asian countries.", "exampleZh": "许多亚洲国家庆祝农历新年。", "extension": "lunar calendar 农历"},
+        {"word": "rarely", "phonetic": "/ˈreəli/", "meaning": "adv. 很少；罕见地", "example": "He rarely misses a day of exercise, even during holidays.", "exampleZh": "他很少错过一天的锻炼，即使在假期也是如此。", "extension": "rare /reə(r)/ adj. 稀有的"},
+        {"word": "use", "phonetic": "/juːz/", "meaning": "v. 使用；利用 n. /juːs/ 用途", "example": "People use smartphones for everything from shopping to learning.", "exampleZh": "人们用智能手机做从购物到学习的一切事情。", "extension": "useful /ˈjuːsfl/ adj. 有用的；useless /ˈjuːsləs/ adj. 无用的"},
+        {"word": "vague", "phonetic": "/veɪɡ/", "meaning": "adj. 模糊的；不明确的", "example": "His explanation was too vague to be of any help.", "exampleZh": "他的解释太模糊了，没有任何帮助。", "extension": "vaguely /ˈveɪɡli/ adv. 模糊地"},
+        {"word": "fall", "phonetic": "/fɔːl/", "meaning": "v. 落下；跌倒；变成 n. 秋天", "example": "The leaves begin to fall from the trees every autumn.", "exampleZh": "每年秋天树叶开始从树上飘落。", "extension": "waterfall /ˈwɔːtəfɔːl/ n. 瀑布"},
+        {"word": "announce", "phonetic": "/əˈnaʊns/", "meaning": "v. 宣布；宣告", "example": "The principal announced the winners of the contest over the loudspeaker.", "exampleZh": "校长通过广播宣布了比赛获奖者。", "extension": "announcement /əˈnaʊnsmənt/ n. 公告"},
+        {"word": "approach", "phonetic": "/əˈprəʊtʃ/", "meaning": "v. 接近；临近 n. 方法；途径", "example": "As the deadline approaches, the team has been working overtime.", "exampleZh": "随着截止日期临近，团队一直在加班工作。", "extension": "approachable /əˈprəʊtʃəbl/ adj. 平易近人的"},
+        {"word": "miss", "phonetic": "/mɪs/", "meaning": "v. 错过；想念；未击中", "example": "I missed the bus this morning and had to walk to school.", "exampleZh": "今天早上我错过了公交，只好走路去学校。", "extension": "missing /ˈmɪsɪŋ/ adj. 失踪的"},
+        {"word": "pop", "phonetic": "/pɒp/", "meaning": "v. 突然出现；蹦出；发出砰声 n. 流行音乐", "example": "The idea suddenly popped into my mind while I was reading.", "exampleZh": "我在阅读时，这个想法突然冒出来。", "extension": "pop culture 流行文化"},
+        {"word": "center", "phonetic": "/ˈsentə(r)/", "meaning": "n. 中心；中央 v. 集中", "example": "The shopping center attracts thousands of visitors every weekend.", "exampleZh": "这个购物中心每个周末吸引成千上万的游客。", "extension": "central /ˈsentrəl/ adj. 中心的"},
+        {"word": "fill", "phonetic": "/fɪl/", "meaning": "v. 填满；充满", "example": "The smell of fresh bread filled the entire kitchen.", "exampleZh": "新鲜面包的香味充满了整个厨房。", "extension": "fulfill /fʊlˈfɪl/ v. 履行；实现"},
+        {"word": "salty", "phonetic": "/ˈsɔːlti/", "meaning": "adj. 咸的", "example": "This soup is a bit too salty; you should add some water.", "exampleZh": "这汤有点太咸了，你应该加点水。", "extension": "salt /sɔːlt/ n. 盐"},
+        {"word": "especially", "phonetic": "/ɪˈspeʃəli/", "meaning": "adv. 尤其；特别", "example": "I love fruit, especially strawberries and mangoes.", "exampleZh": "我喜欢水果，尤其是草莓和芒果。", "extension": "special /ˈspeʃl/ adj. 特别的"},
+        {"word": "variety", "phonetic": "/vəˈraɪəti/", "meaning": "n. 种类；多样性；品种", "example": "A balanced diet should include a variety of fruits and vegetables.", "exampleZh": "均衡饮食应该包括多种蔬果。", "extension": "various /ˈveəriəs/ adj. 各种各样的"},
+        {"word": "appear", "phonetic": "/əˈpɪə(r)/", "meaning": "v. 出现；显得；似乎", "example": "He appears to have recovered fully from his illness.", "exampleZh": "他似乎已经完全康复了。", "extension": "disappear /ˌdɪsəˈpɪə(r)/ v. 消失"},
+        {"word": "actual", "phonetic": "/ˈæktʃuəl/", "meaning": "adj. 实际的；真实的", "example": "The actual cost of the project was much higher than expected.", "exampleZh": "项目的实际成本比预期高得多。", "extension": "actually /ˈæktʃuəli/ adv. 事实上"},
+        {"word": "admire", "phonetic": "/ədˈmaɪə(r)/", "meaning": "v. 钦佩；赞赏；欣赏", "example": "I admire her dedication to helping others.", "exampleZh": "我钦佩她致力于帮助他人的精神。", "extension": "admiration /ˌædməˈreɪʃn/ n. 钦佩"},
+        {"word": "welcome", "phonetic": "/ˈwelkəm/", "meaning": "v./n. 欢迎 adj. 受欢迎的", "example": "The new students were warmly welcomed at the opening ceremony.", "exampleZh": "开学典礼上，新生受到了热烈的欢迎。", "extension": ""},
+        {"word": "chase", "phonetic": "/tʃeɪs/", "meaning": "v./n. 追逐；追赶", "example": "The dog chased the cat around the garden.", "exampleZh": "狗在花园里追着猫跑。", "extension": "chase after 追逐"},
+        {"word": "reason", "phonetic": "/ˈriːzn/", "meaning": "n. 原因；理由 v. 推理", "example": "There is no reason to doubt his ability.", "exampleZh": "没有理由怀疑他的能力。", "extension": "reasonable /ˈriːznəbl/ adj. 合理的"},
+        {"word": "reminder", "phonetic": "/rɪˈmaɪndə(r)/", "meaning": "n. 提醒；提示", "example": "The alarm clock serves as a reminder to take medicine on time.", "exampleZh": "闹钟是按时吃药的提醒。", "extension": "remind /rɪˈmaɪnd/ v. 提醒"},
+        {"word": "gaze", "phonetic": "/ɡeɪz/", "meaning": "v./n. 凝视；注视", "example": "She gazed at the stars, lost in deep thought.", "exampleZh": "她凝视着星空，陷入沉思。", "extension": ""},
+        {"word": "brighten", "phonetic": "/ˈbraɪtn/", "meaning": "v. 变亮；使更明亮；使愉快", "example": "Her smile can brighten anyone's day.", "exampleZh": "她的微笑能让任何人的一天变得明亮。", "extension": "bright /braɪt/ adj. 明亮的"}
+        ] },
+  { id: 53, title: "📘 PASSAGE 53", c1: '#2A7A7A', c2: '#5AAA8A', cardBg: '#EAF5F0', words: [
+        {"word": "photograph", "phonetic": "/ˈfəʊtəɡrɑːf/", "meaning": "n. 照片；摄影 v. 拍照", "example": "He took a beautiful photograph of the sunset from the top of the mountain.", "exampleZh": "他从山顶拍下了一张美丽的日落照片。", "extension": "photo /ˈfəʊtəʊ/ n. 照片；photographer /fəˈtɒɡrəfə(r)/ n. 摄影师"},
+        {"word": "surface", "phonetic": "/ˈsɜːfɪs/", "meaning": "n. 表面；表层 v. 浮出水面", "example": "About 71% of the Earth's surface is covered by water.", "exampleZh": "约71%的地球表面被水覆盖。", "extension": "on the surface 表面上"},
+        {"word": "transform", "phonetic": "/trænsˈfɔːm/", "meaning": "v. 改变；转变；改造", "example": "Technology has transformed the way we communicate with one another.", "exampleZh": "技术改变了我们彼此交流的方式。", "extension": "transformation /ˌtrænsfəˈmeɪʃn/ n. 转变"},
+        {"word": "online", "phonetic": "/ˌɒnˈlaɪn/", "meaning": "adj./adv. 在线的，联网的", "example": "Online education has become increasingly popular in recent years.", "exampleZh": "近年来在线教育越来越流行。", "extension": "offline /ˌɒfˈlaɪn/ adj. 离线的"},
+        {"word": "popularity", "phonetic": "/ˌpɒpjuˈlærəti/", "meaning": "n. 受欢迎；流行", "example": "The popularity of electric bikes has been growing rapidly in cities.", "exampleZh": "电动自行车在城市中的受欢迎程度正在迅速增长。", "extension": "popular /ˈpɒpjələ(r)/ adj. 受欢迎的"},
+        {"word": "tourism", "phonetic": "/ˈtʊərɪzəm/", "meaning": "n. 旅游业", "example": "Tourism plays a vital role in the economy of many coastal cities.", "exampleZh": "旅游业在许多沿海城市的经济中发挥着重要作用。", "extension": "tourist /ˈtʊərɪst/ n. 游客"},
+        {"word": "advertise", "phonetic": "/ˈædvətaɪz/", "meaning": "v. 做广告；宣传", "example": "Many companies advertise their products through social media.", "exampleZh": "许多公司通过社交媒体推广产品。", "extension": "advertisement /ədˈvɜːtɪsmənt/ n. 广告"},
+        {"word": "domestic", "phonetic": "/dəˈmestɪk/", "meaning": "adj. 国内的；家庭的；驯养的", "example": "Domestic flights are usually cheaper than international flights.", "exampleZh": "国内航班通常比国际航班便宜。", "extension": "domestically /dəˈmestɪkli/ adv. 国内地"},
+        {"word": "property", "phonetic": "/ˈprɒpəti/", "meaning": "n. 财产；房产；特性", "example": "Intellectual property laws protect the rights of creators.", "exampleZh": "知识产权法保护创作者的权益。", "extension": ""},
+        {"word": "version", "phonetic": "/ˈvɜːʃn/", "meaning": "n. 版本；变体", "example": "The translated version of the novel sold millions of copies.", "exampleZh": "这部小说的翻译版销量数百万册。", "extension": "original version 原版"},
+        {"word": "float", "phonetic": "/fləʊt/", "meaning": "v. 漂浮；飘动 n. 彩车", "example": "The oil floated on the surface of the water.", "exampleZh": "油浮在水面上。", "extension": "floating /ˈfləʊtɪŋ/ adj. 漂浮的"},
+        {"word": "unforgettable", "phonetic": "/ˌʌnfəˈɡetəbl/", "meaning": "adj. 难忘的，永志不忘的", "example": "The trip to the Great Wall was an unforgettable experience.", "exampleZh": "长城之旅是一次难忘的经历。", "extension": "forgettable /fəˈɡetəbl/ adj. 易忘记的"},
+        {"word": "honor", "phonetic": "/ˈɒnə(r)/", "meaning": "(BrE honour) n. 荣誉；光荣 v. 尊敬", "example": "It is a great honour to be invited to speak at this conference.", "exampleZh": "受邀在这次会议上发言是莫大的荣誉。", "extension": "honorable /ˈɒnərəbl/ adj. 光荣的"},
+        {"word": "special", "phonetic": "/ˈspeʃl/", "meaning": "adj. 特别的；特殊的", "example": "She prepared a special meal for her mother's birthday.", "exampleZh": "她为妈妈的生日准备了一顿特别的饭菜。", "extension": "specialist /ˈspeʃəlɪst/ n. 专家"},
+        {"word": "celebrate", "phonetic": "/ˈselɪbreɪt/", "meaning": "v. 庆祝；赞颂", "example": "People around the world celebrate the new year in different ways.", "exampleZh": "世界各地的人们以不同的方式庆祝新年。", "extension": "celebration /ˌselɪˈbreɪʃn/ n. 庆祝"},
+        {"word": "anniversary", "phonetic": "/ˌænɪˈvɜːsəri/", "meaning": "n. 周年纪念日", "example": "The couple celebrated their 25th wedding anniversary in Paris.", "exampleZh": "这对夫妇在巴黎庆祝了他们第25个结婚纪念日。", "extension": "annual /ˈænjuəl/ adj. 年度的"},
+        {"word": "leave", "phonetic": "/liːv/", "meaning": "v. 离开；留下；遗忘 n. 休假", "example": "He left his hometown to pursue a career in the big city.", "exampleZh": "他离开家乡去大城市追求事业。", "extension": "leave behind 留下；leave out 遗漏"},
+        {"word": "excess", "phonetic": "/ɪkˈses/", "meaning": "n. 过量；过度 adj. 多余的", "example": "An excess of sugar in the diet can lead to health problems.", "exampleZh": "饮食中过量的糖分会导致健康问题。", "extension": "excessive /ɪkˈsesɪv/ adj. 过多的"},
+        {"word": "geography", "phonetic": "/dʒiˈɒɡrəfi/", "meaning": "n. 地理；地理学", "example": "Understanding geography helps us appreciate the diversity of our planet.", "exampleZh": "了解地理有助于我们欣赏地球的多样性。", "extension": "geographic /ˌdʒiːəˈɡræfɪk/ adj. 地理的"},
+        {"word": "professor", "phonetic": "/prəˈfesə(r)/", "meaning": "n. 教授", "example": "The professor published a groundbreaking paper on climate change.", "exampleZh": "这位教授发表了一篇关于气候变化的开创性论文。", "extension": ""},
+        {"word": "basin", "phonetic": "/ˈbeɪsn/", "meaning": "n. 盆地；盆；流域", "example": "The Amazon basin is home to the world's largest tropical rainforest.", "exampleZh": "亚马逊盆地是世界上最大的热带雨林所在地。", "extension": "washbasin /ˈwɒʃbeɪsn/ n. 洗脸盆"},
+        {"word": "flow", "phonetic": "/fləʊ/", "meaning": "v./n. 流动；流畅", "example": "Rivers flow from higher elevations towards the sea.", "exampleZh": "河流从高处流向大海。", "extension": "blood flow 血液循环"},
+        {"word": "ocean", "phonetic": "/ˈəʊʃn/", "meaning": "n. 海洋；大海", "example": "The Pacific Ocean is the largest and deepest ocean on Earth.", "exampleZh": "太平洋是地球上最大、最深的海洋。", "extension": "oceanic /ˌəʊʃiˈænɪk/ adj. 海洋的"},
+        {"word": "tend", "phonetic": "/tend/", "meaning": "v. 倾向于；往往；照料", "example": "People tend to eat more when they are stressed.", "exampleZh": "人们在压力大时往往会吃得更多。", "extension": "tendency /ˈtendənsi/ n. 倾向；趋势"},
+        {"word": "bath", "phonetic": "/bɑːθ/", "meaning": "n. 洗澡；浴缸；浴室", "example": "Taking a warm bath before bed can improve sleep quality.", "exampleZh": "睡前洗个温水澡可以改善睡眠质量。", "extension": "bathe /beɪð/ v. 洗澡"},
+        {"word": "statement", "phonetic": "/ˈsteɪtmənt/", "meaning": "n. 声明；陈述；说法", "example": "The company issued a statement regarding the recent safety concerns.", "exampleZh": "公司就最近的安全问题发表了一份声明。", "extension": "state /steɪt/ v. 陈述"},
+        {"word": "crowded", "phonetic": "/ˈkraʊdɪd/", "meaning": "adj. 拥挤的", "example": "The subway is especially crowded during rush hour.", "exampleZh": "地铁在高峰时段特别拥挤。", "extension": "crowd /kraʊd/ n. 人群"},
+        {"word": "spot", "phonetic": "/spɒt/", "meaning": "n. 地点；斑点 v. 发现；认出", "example": "This beach is a popular spot for surfing enthusiasts.", "exampleZh": "这个海滩是冲浪爱好者的热门地点。", "extension": "spotless /ˈspɒtləs/ adj. 一尘不染的"}
+        ] },
+  { id: 54, title: "📘 PASSAGE 54", c1: '#4A6FA5', c2: '#E88A5A', cardBg: '#F0F5FA', words: [
+        {"word": "reporter", "phonetic": "/rɪˈpɔːtə(r)/", "meaning": "n. 记者；通讯员", "example": "The reporter interviewed local residents about their views on the new policy.", "exampleZh": "记者采访了当地居民对这项新政策的看法。", "extension": "report /rɪˈpɔːt/ v./n. 报告"},
+        {"word": "senior", "phonetic": "/ˈsiːniə(r)/", "meaning": "adj. 高级的；年长的 n. 高年级学生", "example": "Senior citizens enjoy free entry to the museum.", "exampleZh": "老年人可以免费进入博物馆。", "extension": "junior /ˈdʒuːniə(r)/ adj. 初级的（反义词）"},
+        {"word": "favorite", "phonetic": "/ˈfeɪvərɪt/", "meaning": "(BrE favourite) adj. 最喜欢的 n. 最爱", "example": "This book is one of my all-time favorites.", "exampleZh": "这本书是我一直以来的最爱之一。", "extension": "favor /ˈfeɪvə(r)/ n. 恩惠 v. 偏爱"},
+        {"word": "response", "phonetic": "/rɪˈspɒns/", "meaning": "n. 反应；回答；响应", "example": "In response to customer complaints, the company improved its service.", "exampleZh": "作为对客户投诉的回应，公司改进了服务。", "extension": "respond /rɪˈspɒnd/ v. 回应"},
+        {"word": "aspect", "phonetic": "/ˈæspekt/", "meaning": "n. 方面；层面", "example": "The social aspect of online gaming is what attracts many teenagers.", "exampleZh": "网络游戏的社交方面是吸引许多青少年的原因。", "extension": ""},
+        {"word": "exciting", "phonetic": "/ɪkˈsaɪtɪŋ/", "meaning": "adj. 令人兴奋的；激动人心的", "example": "The exciting news spread quickly throughout the school.", "exampleZh": "这令人兴奋的消息迅速传遍了全校。", "extension": "excite /ɪkˈsaɪt/ v. 使兴奋；excitement /ɪkˈsaɪtmənt/ n. 兴奋"},
+        {"word": "forward", "phonetic": "/ˈfɔːwəd/", "meaning": "adv. 向前；前进 adj. 向前的", "example": "The team is looking forward to the next challenge.", "exampleZh": "团队期待着下一个挑战。", "extension": "backward /ˈbækwəd/ adv. 向后（反义词）"},
+        {"word": "cheer", "phonetic": "/tʃɪə(r)/", "meaning": "v./n. 欢呼；喝彩；振奋", "example": "The crowd cheered loudly when the team scored the winning goal.", "exampleZh": "当球队踢进制胜一球时，人群大声欢呼。", "extension": "cheerful /ˈtʃɪəfl/ adj. 欢乐的"},
+        {"word": "theme", "phonetic": "/θiːm/", "meaning": "n. 主题；题目", "example": "The theme of the conference is 'Innovation for a Sustainable Future'.", "exampleZh": "会议的主题是'为可持续未来创新'。", "extension": "thematic /θɪˈmætɪk/ adj. 主题的"},
+        {"word": "win", "phonetic": "/wɪn/", "meaning": "v. 赢；获胜 n. 胜利", "example": "Her determination and hard work helped her win the competition.", "exampleZh": "她的决心和努力帮助她赢得了比赛。", "extension": "winner /ˈwɪnə(r)/ n. 获胜者"},
+        {"word": "finish", "phonetic": "/ˈfɪnɪʃ/", "meaning": "v. 完成；结束 n. 结束；终点", "example": "He managed to finish the marathon despite the extreme heat.", "exampleZh": "尽管酷热，他仍成功跑完了马拉松。", "extension": "unfinished /ʌnˈfɪnɪʃt/ adj. 未完成的"},
+        {"word": "laugh", "phonetic": "/lɑːf/", "meaning": "v./n. 笑；大笑", "example": "The comedy show made the entire audience laugh together.", "exampleZh": "这档喜剧节目让全场观众一起大笑。", "extension": "laughter /ˈlɑːftə(r)/ n. 笑声"},
+        {"word": "company", "phonetic": "/ˈkʌmpəni/", "meaning": "n. 公司；陪伴；同伴", "example": "She enjoys the company of her good friends more than anything else.", "exampleZh": "她最喜欢好朋友的陪伴。", "extension": "companion /kəmˈpæniən/ n. 同伴"},
+        {"word": "freshman", "phonetic": "/ˈfreʃmən/", "meaning": "n. 大学一年级学生；新生", "example": "The university organizes special orientation programs for freshmen.", "exampleZh": "大学为新生组织特别的迎新活动。", "extension": "fresh /freʃ/ adj. 新的；新鲜的"},
+        {"word": "well-known", "phonetic": "/ˌwel ˈnəʊn/", "meaning": "adj. 著名的；众所周知的", "example": "The scientist is well-known for his contributions to medical research.", "exampleZh": "这位科学家因对医学研究的贡献而闻名。", "extension": "famous /ˈfeɪməs/ adj. 著名的"},
+        {"word": "artist", "phonetic": "/ˈɑːtɪst/", "meaning": "n. 艺术家；画家", "example": "The artist spent months creating the massive wall painting.", "exampleZh": "这位艺术家花了数月创作巨幅壁画。", "extension": "artistic /ɑːˈtɪstɪk/ adj. 艺术的"},
+        {"word": "famous", "phonetic": "/ˈfeɪməs/", "meaning": "adj. 著名的，出名的", "example": "The city is famous for its ancient temples and vibrant street markets.", "exampleZh": "这座城市以其古庙和充满活力的街市而闻名。", "extension": "fame /feɪm/ n. 名声"},
+        {"word": "restaurant", "phonetic": "/ˈrestrɒnt/", "meaning": "n. 餐馆，餐厅", "example": "The small family-run restaurant serves the most authentic local dishes.", "exampleZh": "这家家庭经营的小餐馆供应最地道的本地菜。", "extension": ""},
+        {"word": "definitely", "phonetic": "/ˈdefɪnətli/", "meaning": "adv. 肯定地；确切地", "example": "This is definitely one of the best movies I have seen this year.", "exampleZh": "这绝对是我今年看过的最好的电影之一。", "extension": "definite /ˈdefɪnət/ adj. 明确的"},
+        {"word": "field", "phonetic": "/fiːld/", "meaning": "n. 田地；领域；运动场", "example": "She decided to pursue a career in the medical field.", "exampleZh": "她决定从事医学领域的工作。", "extension": ""},
+        {"word": "beat", "phonetic": "/biːt/", "meaning": "v. 击败；打败；跳动 n. 节拍", "example": "No one expected the underdog team to beat the reigning champions.", "exampleZh": "没有人预料到弱队能击败卫冕冠军。", "extension": "heartbeat /ˈhɑːtbiːt/ n. 心跳"},
+        {"word": "season", "phonetic": "/ˈsiːzn/", "meaning": "n. 季节；赛季", "example": "The rainy season in this region usually begins in June.", "exampleZh": "这个地区的雨季通常从六月开始。", "extension": "seasonal /ˈsiːzənl/ adj. 季节性的"},
+        {"word": "feeling", "phonetic": "/ˈfiːlɪŋ/", "meaning": "n. 感觉；情感；看法", "example": "He had a strong feeling that something was not right.", "exampleZh": "他有一种强烈的感觉，觉得有些不对劲。", "extension": "feel /fiːl/ v. 感觉"},
+        {"word": "fight", "phonetic": "/faɪt/", "meaning": "v./n. 战斗；斗争；打架", "example": "The organization fights for the rights of endangered species.", "exampleZh": "该组织为濒危物种的权利而斗争。", "extension": "fighter /ˈfaɪtə(r)/ n. 战士"},
+        {"word": "consist", "phonetic": "/kənˈsɪst/", "meaning": "v. 由……组成（consist of）", "example": "The team consists of experts from various scientific fields.", "exampleZh": "该团队由来自各个科学领域的专家组成。", "extension": "consist of 由……组成"},
+        {"word": "stress", "phonetic": "/stres/", "meaning": "n. 压力；强调 v. 强调；给压力", "example": "The doctor stressed the importance of getting enough sleep.", "exampleZh": "医生强调了充足睡眠的重要性。", "extension": "stressful /ˈstresfl/ adj. 充满压力的"},
+        {"word": "determination", "phonetic": "/dɪˌtɜːmɪˈneɪʃn/", "meaning": "n. 决心；坚定", "example": "With determination and hard work, any goal can be achieved.", "exampleZh": "有了决心和努力，任何目标都可以实现。", "extension": "determine /dɪˈtɜːmɪn/ v. 决定；确定"},
+        {"word": "faith", "phonetic": "/feɪθ/", "meaning": "n. 信任；信仰；信心", "example": "He never lost faith in his ability to overcome challenges.", "exampleZh": "他从未对自己克服挑战的能力失去信心。", "extension": "faithful /ˈfeɪθfl/ adj. 忠诚的"},
+        {"word": "corner", "phonetic": "/ˈkɔːnə(r)/", "meaning": "n. 角落；街角", "example": "There is a small coffee shop around the corner.", "exampleZh": "街角处有一家小咖啡馆。", "extension": "cornerstone /ˈkɔːnəstəʊn/ n. 基石"},
+        {"word": "motivation", "phonetic": "/ˌməʊtɪˈveɪʃn/", "meaning": "n. 动力；积极性；动机", "example": "The desire to help others is a strong motivation for many doctors.", "exampleZh": "帮助他人的愿望是许多医生的强大动力。", "extension": "motivate /ˈməʊtɪveɪt/ v. 激励"},
+        {"word": "succeed", "phonetic": "/səkˈsiːd/", "meaning": "v. 成功；达到目的；继承", "example": "She succeeded in persuading the committee to adopt her proposal.", "exampleZh": "她成功说服委员会采纳了她的提议。", "extension": "success /səkˈses/ n. 成功；successful /səkˈsesfl/ adj. 成功的"}
+        ] },
+  { id: 55, title: "📘 PASSAGE 55", c1: '#D48A4A', c2: '#F5C86A', cardBg: '#F8F0E0', words: [
+        {"word": "idea", "phonetic": "/aɪˈdɪə/", "meaning": "n. 想法；主意；观念", "example": "Her idea for a new mobile app won the innovation competition.", "exampleZh": "她关于新手机应用的想法赢得了创新比赛。", "extension": "ideal /aɪˈdiːəl/ adj. 理想的"},
+        {"word": "scene", "phonetic": "/siːn/", "meaning": "n. 场景；现场；景色", "example": "The opening scene of the film was shot in a remote desert.", "exampleZh": "电影的开场场景是在一个遥远的沙漠中拍摄的。", "extension": "scenery /ˈsiːnəri/ n. 风景"},
+        {"word": "receive", "phonetic": "/rɪˈsiːv/", "meaning": "v. 收到；接受；接待", "example": "He received an award for his outstanding contribution to science.", "exampleZh": "他因对科学的杰出贡献获得了奖项。", "extension": "receiver /rɪˈsiːvə(r)/ n. 接收者"},
+        {"word": "widespread", "phonetic": "/ˈwaɪdspred/", "meaning": "adj. 广泛的；普遍的", "example": "There was widespread support for the new environmental policy.", "exampleZh": "新环保政策得到了广泛的支持。", "extension": "widely /ˈwaɪdli/ adv. 广泛地"},
+        {"word": "mild", "phonetic": "/maɪld/", "meaning": "adj. 温和的；轻微的；不严重的", "example": "The region enjoys a mild climate all year round.", "exampleZh": "该地区全年气候温和。", "extension": "mildly /ˈmaɪldli/ adv. 轻微地"},
+        {"word": "popular", "phonetic": "/ˈpɒpjələ(r)/", "meaning": "adj. 流行的；受欢迎的", "example": "TikTok has become incredibly popular among teenagers worldwide.", "exampleZh": "TikTok在全球青少年中变得极其受欢迎。", "extension": "popularity /ˌpɒpjuˈlærəti/ n. 流行"},
+        {"word": "admirer", "phonetic": "/ədˈmaɪərə(r)/", "meaning": "n. 仰慕者；追求者", "example": "The artist has many admirers around the world.", "exampleZh": "这位艺术家在全世界有很多仰慕者。", "extension": "admire /ədˈmaɪə(r)/ v. 钦佩"},
+        {"word": "active", "phonetic": "/ˈæktɪv/", "meaning": "adj. 活跃的；积极的；主动的", "example": "Regular exercise helps keep your mind active and sharp.", "exampleZh": "规律运动有助于保持思维活跃和敏锐。", "extension": "actively /ˈæktɪvli/ adv. 积极地"},
+        {"word": "identity", "phonetic": "/aɪˈdentəti/", "meaning": "n. 身份；认同；一致性", "example": "Cultural identity is an important part of who we are.", "exampleZh": "文化身份是我们是谁的重要组成部分。", "extension": "identify /aɪˈdentɪfaɪ/ v. 识别"},
+        {"word": "secret", "phonetic": "/ˈsiːkrət/", "meaning": "n. 秘密 adj. 秘密的", "example": "The recipe for the famous sauce has been kept a secret for generations.", "exampleZh": "这种著名酱汁的配方已经传承数代，一直被保密。", "extension": "secretly /ˈsiːkrətli/ adv. 秘密地"},
+        {"word": "theory", "phonetic": "/ˈθɪəri/", "meaning": "n. 理论；学说", "example": "Einstein's theory of relativity changed our understanding of the universe.", "exampleZh": "爱因斯坦的相对论改变了我们对宇宙的理解。", "extension": "theoretical /ˌθɪəˈretɪkl/ adj. 理论的"},
+        {"word": "persistent", "phonetic": "/pəˈsɪstənt/", "meaning": "adj. 坚持的；持续的", "example": "Persistent effort eventually led to his breakthrough in research.", "exampleZh": "不懈的努力最终带来了他研究上的突破。", "extension": "persist /pəˈsɪst/ v. 坚持"},
+        {"word": "massive", "phonetic": "/ˈmæsɪv/", "meaning": "adj. 巨大的；大规模的", "example": "The construction of the dam was a massive engineering project.", "exampleZh": "大坝建设是一项巨大的工程项目。", "extension": ""},
+        {"word": "private", "phonetic": "/ˈpraɪvət/", "meaning": "adj. 私人的；私下的；私营的", "example": "The interview was conducted in a private room to ensure confidentiality.", "exampleZh": "面试在私人房间进行以确保保密。", "extension": "privacy /ˈprɪvəsi/ n. 隐私"},
+        {"word": "considerable", "phonetic": "/kənˈsɪdərəbl/", "meaning": "adj. 相当多的；相当大的", "example": "The company invested a considerable amount of money in research.", "exampleZh": "公司在研究方面投入了相当多的资金。", "extension": "consider /kənˈsɪdə(r)/ v. 考虑"},
+        {"word": "willing", "phonetic": "/ˈwɪlɪŋ/", "meaning": "adj. 愿意的；乐意的", "example": "She is always willing to help her classmates with difficult problems.", "exampleZh": "她总是愿意帮助同学解决难题。", "extension": "willingly /ˈwɪlɪŋli/ adv. 愿意地"},
+        {"word": "reluctant", "phonetic": "/rɪˈlʌktənt/", "meaning": "adj. 不情愿的，勉强的", "example": "He was reluctant to share his personal feelings with strangers.", "exampleZh": "他不愿与陌生人分享个人感受。", "extension": "reluctantly /rɪˈlʌktəntli/ adv. 不情愿地"},
+        {"word": "continue", "phonetic": "/kənˈtɪnjuː/", "meaning": "v. 继续；持续", "example": "Despite the difficulties, she decided to continue her education.", "exampleZh": "尽管困难重重，她还是决定继续学业。", "extension": "continuous /kənˈtɪnjuəs/ adj. 连续的"},
+        {"word": "sense", "phonetic": "/sens/", "meaning": "n. 感觉；意义；判断力 v. 感觉到", "example": "She has a strong sense of responsibility towards her work.", "exampleZh": "她对工作有强烈的责任感。", "extension": "sensitive /ˈsensətɪv/ adj. 敏感的"},
+        {"word": "mystery", "phonetic": "/ˈmɪstri/", "meaning": "n. 神秘的事物；谜；推理作品", "example": "The disappearance of the plane remains an unsolved mystery.", "exampleZh": "飞机的失踪仍然是一个未解之谜。", "extension": "mysterious /mɪˈstɪəriəs/ adj. 神秘的"},
+        {"word": "audience", "phonetic": "/ˈɔːdiəns/", "meaning": "n. 观众；听众", "example": "The speaker kept the audience engaged with interesting stories.", "exampleZh": "演讲者用有趣的故事让听众保持投入。", "extension": "auditorium /ˌɔːdɪˈtɔːriəm/ n. 礼堂"},
+        {"word": "fetch", "phonetic": "/fetʃ/", "meaning": "v. 取来；找来；售得", "example": "Could you fetch me a glass of water?", "exampleZh": "你能给我拿杯水吗？", "extension": ""},
+        {"word": "destroy", "phonetic": "/dɪˈstrɔɪ/", "meaning": "v. 破坏；摧毁", "example": "The earthquake destroyed hundreds of buildings in the city.", "exampleZh": "地震摧毁了城市中数百栋建筑。", "extension": "destruction /dɪˈstrʌkʃn/ n. 破坏"},
+        {"word": "arrange", "phonetic": "/əˈreɪndʒ/", "meaning": "v. 安排；布置；整理", "example": "She arranged the flowers beautifully in the vase.", "exampleZh": "她把花精美地插在花瓶里。", "extension": "arrangement /əˈreɪndʒmənt/ n. 安排"},
+        {"word": "fair", "phonetic": "/feə(r)/", "meaning": "adj. 公平的；合理的 n. 博览会", "example": "Everyone deserves a fair chance to succeed.", "exampleZh": "每个人都应该有一个公平的成功机会。", "extension": "unfair /ˌʌnˈfeə(r)/ adj. 不公平的"},
+        {"word": "commerce", "phonetic": "/ˈkɒmɜːs/", "meaning": "n. 商业；贸易", "example": "E-commerce has revolutionized the way people shop.", "exampleZh": "电子商务彻底改变了人们的购物方式。", "extension": "commercial /kəˈmɜːʃl/ adj. 商业的"},
+        {"word": "platform", "phonetic": "/ˈplætfɔːm/", "meaning": "n. 平台；站台", "example": "The social media platform has over one billion monthly users.", "exampleZh": "这个社交媒体平台拥有超过十亿月活用户。", "extension": ""},
+        {"word": "suitable", "phonetic": "/ˈsuːtəbl/", "meaning": "adj. 合适的；适宜的", "example": "This soil is not suitable for growing vegetables.", "exampleZh": "这种土壤不适合种植蔬菜。", "extension": "suit /suːt/ v. 适合；unsuitable /ʌnˈsuːtəbl/ adj. 不合适的"},
+        {"word": "judge", "phonetic": "/dʒʌdʒ/", "meaning": "n. 法官；裁判 v. 判断；评判", "example": "It is unfair to judge a person solely by their appearance.", "exampleZh": "仅凭外表判断一个人是不公平的。", "extension": "judgment /ˈdʒʌdʒmənt/ n. 判断"},
+        {"word": "resolution", "phonetic": "/ˌrezəˈluːʃn/", "meaning": "n. 决心；决议；分辨率", "example": "She made a New Year's resolution to read one book every month.", "exampleZh": "她立下新年决心，每月读一本书。", "extension": "resolve /rɪˈzɒlv/ v. 解决；下决心"},
+        {"word": "download", "phonetic": "/ˌdaʊnˈləʊd/", "meaning": "v./n. 下载", "example": "Students can download the lecture notes from the school website.", "exampleZh": "学生可以从学校网站下载讲义。", "extension": "upload /ˌʌpˈləʊd/ v. 上传（反义词）"}
+        ] },
+  { id: 56, title: "📘 PASSAGE 56", c1: '#C85A3A', c2: '#E88A5A', cardBg: '#F8EDE0', words: [
+        {"word": "challenge", "phonetic": "/ˈtʃælɪndʒ/", "meaning": "n. 挑战 v. 向……挑战", "example": "Learning a new language is both a challenge and an adventure.", "exampleZh": "学习一门新语言既是挑战也是冒险。", "extension": "challenging /ˈtʃælɪndʒɪŋ/ adj. 有挑战性的"},
+        {"word": "nap", "phonetic": "/næp/", "meaning": "n./v. 小睡，打盹", "example": "Taking a short nap can improve your focus for the rest of the day.", "exampleZh": "短暂小睡可以提高你一天的专注力。", "extension": ""},
+        {"word": "familiar", "phonetic": "/fəˈmɪliə(r)/", "meaning": "adj. 熟悉的；常见的", "example": "The song sounded familiar, but I could not remember the title.", "exampleZh": "这首歌听起来很熟悉，但我想不起歌名了。", "extension": "unfamiliar /ˌʌnfəˈmɪliə(r)/ adj. 不熟悉的"},
+        {"word": "refer", "phonetic": "/rɪˈfɜː(r)/", "meaning": "v. 参考；指的是；提及", "example": "When I said 'summer', I was referring to July and August.", "exampleZh": "当我说夏天时，我指的是七月和八月。", "extension": "reference /ˈrefrəns/ n. 参考"},
+        {"word": "cause", "phonetic": "/kɔːz/", "meaning": "n. 原因；事业 v. 引起，导致", "example": "The heavy rain caused serious flooding in the low-lying areas.", "exampleZh": "大雨在低洼地区造成了严重的洪水。", "extension": "causeless /ˈkɔːzləs/ adj. 无原因的"},
+        {"word": "reasonable", "phonetic": "/ˈriːznəbl/", "meaning": "adj. 合理的；通情达理的", "example": "We need to find a reasonable solution that satisfies everyone.", "exampleZh": "我们需要找到一个让所有人都满意的合理解决方案。", "extension": "reason /ˈriːzn/ n. 原因"},
+        {"word": "nutrition", "phonetic": "/njuˈtrɪʃn/", "meaning": "n. 营养；营养学", "example": "Good nutrition is essential for children's growth and development.", "exampleZh": "良好的营养对儿童的成长和发育至关重要。", "extension": "nutritious /njuˈtrɪʃəs/ adj. 有营养的"},
+        {"word": "activate", "phonetic": "/ˈæktɪveɪt/", "meaning": "v. 激活；使活动", "example": "You need to activate your account before you can start using the service.", "exampleZh": "你需要先激活账户才能开始使用服务。", "extension": "activation /ˌæktɪˈveɪʃn/ n. 激活"},
+        {"word": "system", "phonetic": "/ˈsɪstəm/", "meaning": "n. 系统；体系；制度", "example": "The immune system protects the body against harmful bacteria and viruses.", "exampleZh": "免疫系统保护身体免受有害细菌和病毒的侵害。", "extension": "systematic /ˌsɪstəˈmætɪk/ adj. 系统的"},
+        {"word": "trigger", "phonetic": "/ˈtrɪɡə(r)/", "meaning": "v. 引发；触发 n. 扳机；诱因", "example": "Certain foods can trigger allergic reactions in some people.", "exampleZh": "某些食物可能在一些人中引发过敏反应。", "extension": ""},
+        {"word": "digest", "phonetic": "/daɪˈdʒest/", "meaning": "v. 消化；理解 n. /ˈdaɪdʒest/ 文摘", "example": "It takes time for the body to digest a heavy meal.", "exampleZh": "身体消化一顿大餐需要时间。", "extension": "digestion /daɪˈdʒestʃən/ n. 消化"},
+        {"word": "conserve", "phonetic": "/kənˈsɜːv/", "meaning": "v. 节约；保护；保存", "example": "We should all do our part to conserve water and energy.", "exampleZh": "我们都应该尽自己的一份力来节约水和能源。", "extension": "conservation /ˌkɒnsəˈveɪʃn/ n. 保护"},
+        {"word": "rate", "phonetic": "/reɪt/", "meaning": "n. 速度；比率；价格 v. 评价", "example": "The success rate of the new treatment is over 90%.", "exampleZh": "新治疗方案的成功率超过90%。", "extension": "rating /ˈreɪtɪŋ/ n. 评级"},
+        {"word": "absorb", "phonetic": "/əbˈzɔːb/", "meaning": "v. 吸收；理解；吸引注意", "example": "Plants absorb carbon dioxide and release oxygen.", "exampleZh": "植物吸收二氧化碳并释放氧气。", "extension": "absorption /əbˈzɔːpʃn/ n. 吸收"},
+        {"word": "nutrient", "phonetic": "/ˈnjuːtriənt/", "meaning": "n. 营养素；养分", "example": "This vegetable is rich in essential nutrients like vitamins and minerals.", "exampleZh": "这种蔬菜富含维生素和矿物质等基本营养素。", "extension": "nutritious /njuˈtrɪʃəs/ adj. 有营养的"},
+        {"word": "bite", "phonetic": "/baɪt/", "meaning": "v. 咬；叮 n. 一口", "example": "Take a bite of this apple; it is incredibly sweet and fresh.", "exampleZh": "咬一口这个苹果，它非常甜美新鲜。", "extension": "bite-sized adj. 一口大小的"},
+        {"word": "snack", "phonetic": "/snæk/", "meaning": "n. 零食；小吃", "example": "Instead of unhealthy snacks, try eating fruits between meals.", "exampleZh": "在两餐之间，试试吃水果来代替不健康的零食。", "extension": ""},
+        {"word": "extent", "phonetic": "/ɪkˈstent/", "meaning": "n. 程度；范围", "example": "To what extent does social media influence teenagers' behavior?", "exampleZh": "社交媒体在多大程度上影响青少年的行为？", "extension": "to some extent 在某种程度上"},
+        {"word": "liquid", "phonetic": "/ˈlɪkwɪd/", "meaning": "n. 液体 adj. 液体的", "example": "Water is the most essential liquid for all forms of life.", "exampleZh": "水是所有生命形式最必不可少的液体。", "extension": "solid /ˈsɒlɪd/ n. 固体（反义词）"},
+        {"word": "stimulate", "phonetic": "/ˈstɪmjuleɪt/", "meaning": "v. 刺激；激发；促进", "example": "Certain games are designed to stimulate children's creativity.", "exampleZh": "某些游戏旨在激发儿童的创造力。", "extension": "stimulation /ˌstɪmjuˈleɪʃn/ n. 刺激"},
+        {"word": "feedback", "phonetic": "/ˈfiːdbæk/", "meaning": "n. 反馈；反馈信息", "example": "Constructive feedback helps students identify areas for improvement.", "exampleZh": "建设性的反馈帮助学生确定需要改进的地方。", "extension": ""},
+        {"word": "primarily", "phonetic": "/praɪˈmerəli/", "meaning": "adv. 主要地；首要地", "example": "The fund is primarily used to support educational programs.", "exampleZh": "这笔基金主要用于支持教育项目。", "extension": "primary /ˈpraɪməri/ adj. 主要的"},
+        {"word": "handle", "phonetic": "/ˈhændl/", "meaning": "v. 处理；对付；操作 n. 把手", "example": "She learned how to handle stress through meditation.", "exampleZh": "她学会了通过冥想来处理压力。", "extension": "handler /ˈhændlə(r)/ n. 处理者"},
+        {"word": "upper", "phonetic": "/ˈʌpə(r)/", "meaning": "adj. 上层的；较高的", "example": "The upper floors of the building offer a panoramic view of the city.", "exampleZh": "建筑的上层提供了城市全景。", "extension": "lower /ˈləʊə(r)/ adj. 下层的（反义词）"},
+        {"word": "prevent", "phonetic": "/prɪˈvent/", "meaning": "v. 预防；阻止", "example": "Regular exercise can help prevent many health problems.", "exampleZh": "定期锻炼有助于预防许多健康问题。", "extension": "prevention /prɪˈvenʃn/ n. 预防"},
+        {"word": "predictable", "phonetic": "/prɪˈdɪktəbl/", "meaning": "adj. 可预测的；意料之中的", "example": "The outcome of the match was entirely predictable.", "exampleZh": "比赛的结果完全在意料之中。", "extension": "predict /prɪˈdɪkt/ v. 预测；unpredictable /ˌʌnprɪˈdɪktəbl/ adj. 不可预测的"},
+        {"word": "rhythm", "phonetic": "/ˈrɪðəm/", "meaning": "n. 节奏；韵律", "example": "The music had a fast rhythm that made everyone want to dance.", "exampleZh": "音乐节奏很快，让每个人都想跳舞。", "extension": "rhythmic /ˈrɪðmɪk/ adj. 有节奏的"}
+        ] },
+  { id: 57, title: "📘 PASSAGE 57", c1: '#B88AD8', c2: '#F5B8D0', cardBg: '#F8EDF5', words: [
+        {"word": "valley", "phonetic": "/ˈvæli/", "meaning": "n. 山谷；河谷", "example": "The river winds through the valley, creating a beautiful landscape.", "exampleZh": "河流蜿蜒穿过山谷，形成美丽的风景。", "extension": ""},
+        {"word": "escape", "phonetic": "/ɪˈskeɪp/", "meaning": "v./n. 逃跑；逃避；躲过", "example": "The birds escaped from their cage and flew into the open sky.", "exampleZh": "鸟儿从笼中逃出，飞向广阔的天空。", "extension": "escape from 逃离"},
+        {"word": "film", "phonetic": "/fɪlm/", "meaning": "n. 电影；胶片 v. 拍摄", "example": "The documentary film explored the impact of climate change.", "exampleZh": "这部纪录片探讨了气候变化的影响。", "extension": "filmmaker /ˈfɪlmmeɪkə(r)/ n. 电影制作人"},
+        {"word": "individual", "phonetic": "/ˌɪndɪˈvɪdʒuəl/", "meaning": "n. 个人；个体 adj. 个人的", "example": "Each individual has the right to express their own opinions.", "exampleZh": "每个人都有表达自己观点的权利。", "extension": "individually /ˌɪndɪˈvɪdʒuəli/ adv. 分别地"},
+        {"word": "interested", "phonetic": "/ˈɪntrəstɪd/", "meaning": "adj. 感兴趣的", "example": "He became interested in astronomy after watching the documentary.", "exampleZh": "看了这部纪录片后，他对天文学产生了兴趣。", "extension": "interest /ˈɪntrəst/ n./v. 兴趣"},
+        {"word": "episode", "phonetic": "/ˈepɪsəʊd/", "meaning": "n. 一集；一段经历；事件", "example": "The final episode of the series attracted record-breaking viewers.", "exampleZh": "该系列的最后一集吸引了创纪录的观众。", "extension": "episodic /ˌepɪˈsɒdɪk/ adj. 插曲式的"},
+        {"word": "dynasty", "phonetic": "/ˈdɪnəsti/", "meaning": "n. 朝代；王朝", "example": "The Tang dynasty is considered a golden age of Chinese poetry.", "exampleZh": "唐朝被认为是中国诗歌的黄金时代。", "extension": "dynastic /dɪˈnæstɪk/ adj. 王朝的"},
+        {"word": "crew", "phonetic": "/kruː/", "meaning": "n. 全体船员；一组工作人员", "example": "The film crew worked tirelessly to complete the shooting on time.", "exampleZh": "摄制组不懈努力按时完成了拍摄。", "extension": "crew member 船员；组员"},
+        {"word": "controversy", "phonetic": "/ˈkɒntrəvɜːsi/", "meaning": "n. 争议；争论", "example": "The new policy sparked controversy among education experts.", "exampleZh": "新政策在教育专家中引发了争议。", "extension": "controversial /ˌkɒntrəˈvɜːʃl/ adj. 有争议的"},
+        {"word": "rare", "phonetic": "/reə(r)/", "meaning": "adj. 稀有的；罕见的；半熟的", "example": "It is rare to see such beautiful northern lights in this region.", "exampleZh": "在这个地区看到如此美丽的极光是很罕见的。", "extension": "rarely /ˈreəli/ adv. 很少"},
+        {"word": "alter", "phonetic": "/ˈɔːltə(r)/", "meaning": "v. 改变；更改", "example": "The discovery altered our understanding of ancient history.", "exampleZh": "这一发现改变了我们对古代历史的理解。", "extension": "alteration /ˌɔːltəˈreɪʃn/ n. 改变"},
+        {"word": "argument", "phonetic": "/ˈɑːɡjumənt/", "meaning": "n. 争论；论据；论点", "example": "She presented a strong argument in favor of renewable energy.", "exampleZh": "她提出了支持可再生能源的有力论据。", "extension": "argue /ˈɑːɡjuː/ v. 争论"},
+        {"word": "natural", "phonetic": "/ˈnætʃrəl/", "meaning": "adj. 自然的；天然的", "example": "Natural disasters such as earthquakes can strike without warning.", "exampleZh": "地震等自然灾害可能毫无预警地发生。", "extension": "nature /ˈneɪtʃə(r)/ n. 自然"},
+        {"word": "kingdom", "phonetic": "/ˈkɪŋdəm/", "meaning": "n. 王国；领域；（生物分类）界", "example": "The United Kingdom is made up of four countries.", "exampleZh": "联合王国由四个国家组成。", "extension": "king /kɪŋ/ n. 国王"},
+        {"word": "species", "phonetic": "/ˈspiːʃiːz/", "meaning": "n. 物种；种类（单复数同形）", "example": "Many species of birds migrate south during the winter months.", "exampleZh": "许多鸟类在冬季向南迁徙。", "extension": "endangered species 濒危物种"},
+        {"word": "starve", "phonetic": "/stɑːv/", "meaning": "v. （使）挨饿；（使）饿死", "example": "Millions of people around the world are starving due to food shortage.", "exampleZh": "由于食物短缺，世界各地有数百万人正在挨饿。", "extension": "starvation /stɑːˈveɪʃn/ n. 饥饿"},
+        {"word": "whale", "phonetic": "/weɪl/", "meaning": "n. 鲸", "example": "The blue whale is the largest animal to have ever existed on Earth.", "exampleZh": "蓝鲸是地球上有史以来最大的动物。", "extension": "whale watching 观鲸"},
+        {"word": "shark", "phonetic": "/ʃɑːk/", "meaning": "n. 鲨鱼", "example": "Sharks have existed in the oceans for over 400 million years.", "exampleZh": "鲨鱼已经在海洋中存在了超过四亿年。", "extension": ""},
+        {"word": "evolve", "phonetic": "/ɪˈvɒlv/", "meaning": "v. 进化；逐渐发展", "example": "Scientists believe that birds evolved from small dinosaurs.", "exampleZh": "科学家认为鸟类是从小型恐龙进化而来的。", "extension": "evolution /ˌiːvəˈluːʃn/ n. 进化"},
+        {"word": "adapt", "phonetic": "/əˈdæpt/", "meaning": "v. 适应；改编", "example": "Animals have to adapt to changes in their environment to survive.", "exampleZh": "动物必须适应环境变化才能生存。", "extension": "adaptation /ˌædæpˈteɪʃn/ n. 适应；改编"},
+        {"word": "selection", "phonetic": "/sɪˈlekʃn/", "meaning": "n. 选择；挑选；精选品", "example": "Natural selection is a key mechanism of evolution.", "exampleZh": "自然选择是进化的关键机制。", "extension": "select /sɪˈlekt/ v. 选择"},
+        {"word": "survival", "phonetic": "/səˈvaɪvl/", "meaning": "n. 生存；幸存", "example": "Fresh water is essential for survival in the desert.", "exampleZh": "淡水是在沙漠中生存的必需品。", "extension": "survive /səˈvaɪv/ v. 幸存"},
+        {"word": "suit", "phonetic": "/suːt/", "meaning": "v. 适合；相配 n. 套装", "example": "This schedule suits my daily routine perfectly.", "exampleZh": "这个时间表完全适合我的日常作息。", "extension": "suitable /ˈsuːtəbl/ adj. 合适的"},
+        {"word": "survive", "phonetic": "/səˈvaɪv/", "meaning": "v. 幸存；存活；比……活得久", "example": "Only a few buildings survived the massive earthquake.", "exampleZh": "只有少数建筑在大地震中幸存下来。", "extension": "survivor /səˈvaɪvə(r)/ n. 幸存者"},
+        {"word": "promote", "phonetic": "/prəˈməʊt/", "meaning": "v. 促进；提升；宣传", "example": "The campaign aims to promote healthy eating habits among children.", "exampleZh": "该活动旨在促进儿童的健康饮食习惯。", "extension": "promotion /prəˈməʊʃn/ n. 促进；升职"},
+        {"word": "royal", "phonetic": "/ˈrɔɪəl/", "meaning": "adj. 王室的；皇家的；盛大的", "example": "The royal palace is a major tourist attraction in the city.", "exampleZh": "皇宫是这座城市的主要旅游景点。", "extension": "royalty /ˈrɔɪəlti/ n. 王室成员"},
+        {"word": "abandoned", "phonetic": "/əˈbændənd/", "meaning": "adj. 被遗弃的；废弃的", "example": "The abandoned factory was transformed into an art gallery.", "exampleZh": "废弃的工厂被改造成了美术馆。", "extension": "abandon /əˈbændən/ v. 抛弃"},
+        {"word": "typically", "phonetic": "/ˈtɪpɪkli/", "meaning": "adv. 通常；典型地", "example": "The weather in this region is typically hot and humid in summer.", "exampleZh": "这个地区的夏季通常炎热潮湿。", "extension": "typical /ˈtɪpɪkl/ adj. 典型的"},
+        {"word": "distance", "phonetic": "/ˈdɪstəns/", "meaning": "n. 距离；远方", "example": "In the distance, you can see the snow-capped mountains.", "exampleZh": "在远处，你可以看到积雪覆盖的群山。", "extension": "distant /ˈdɪstənt/ adj. 遥远的"},
+        {"word": "rescue", "phonetic": "/ˈreskjuː/", "meaning": "v./n. 救援；营救", "example": "The rescue team worked through the night to save the trapped miners.", "exampleZh": "救援队通宵工作以营救被困的矿工。", "extension": "rescuer /ˈreskjuːə(r)/ n. 救援者"},
+        {"word": "reality", "phonetic": "/riˈæləti/", "meaning": "n. 现实；事实", "example": "Virtual reality technology is changing the way people play games.", "exampleZh": "虚拟现实技术正在改变人们玩游戏的方式。", "extension": "real /rɪəl/ adj. 真实的"},
+        {"word": "habitat", "phonetic": "/ˈhæbɪtæt/", "meaning": "n. 栖息地；生长地", "example": "Urban expansion is destroying the natural habitats of many wild animals.", "exampleZh": "城市扩张正在破坏许多野生动物的自然栖息地。", "extension": ""},
+        {"word": "pollute", "phonetic": "/pəˈluːt/", "meaning": "v. 污染；弄脏", "example": "Factories should not pollute rivers with chemical waste.", "exampleZh": "工厂不应该用化学废物污染河流。", "extension": "pollution /pəˈluːʃn/ n. 污染"},
+        {"word": "extinction", "phonetic": "/ɪkˈstɪŋkʃn/", "meaning": "n. 灭绝；消亡", "example": "Many species are on the brink of extinction due to human activities.", "exampleZh": "由于人类活动，许多物种正处于灭绝的边缘。", "extension": "extinct /ɪkˈstɪŋkt/ adj. 灭绝的"},
+        {"word": "crisis", "phonetic": "/ˈkraɪsɪs/", "meaning": "n. 危机（复数 crises）", "example": "The energy crisis forced the government to invest in renewable sources.", "exampleZh": "能源危机迫使政府投资可再生能源。", "extension": "critical /ˈkrɪtɪkl/ adj. 关键的"},
+        {"word": "undertake", "phonetic": "/ˌʌndəˈteɪk/", "meaning": "v. 承担；从事；承诺", "example": "The government has undertaken a massive infrastructure project.", "exampleZh": "政府已着手一项大规模的基础设施工程。", "extension": "undertaking /ˌʌndəˈteɪkɪŋ/ n. 任务；事业"},
+        {"word": "conservation", "phonetic": "/ˌkɒnsəˈveɪʃn/", "meaning": "n. 保护；保存（自然资源等）", "example": "Wildlife conservation is essential for maintaining ecological balance.", "exampleZh": "野生动物保护对于维持生态平衡至关重要。", "extension": "conserve /kənˈsɜːv/ v. 保护"}
+        ] },
+  { id: 58, title: "📘 PASSAGE 58", c1: '#2A6A4A', c2: '#7ABA7A', cardBg: '#EAF5EA', words: [
+        {"word": "stair", "phonetic": "/steə(r)/", "meaning": "n. 楼梯；阶梯", "example": "She climbed the stairs to the top floor instead of taking the lift.", "exampleZh": "她爬楼梯上了顶层，没有坐电梯。", "extension": "staircase /ˈsteəkeɪs/ n. 楼梯间"},
+        {"word": "park", "phonetic": "/pɑːk/", "meaning": "n. 公园 v. 停放（车辆）", "example": "We spent the afternoon walking and relaxing in the park.", "exampleZh": "我们在公园散步和放松度过了一个下午。", "extension": "parking /ˈpɑːkɪŋ/ n. 停车"},
+        {"word": "destination", "phonetic": "/ˌdestɪˈneɪʃn/", "meaning": "n. 目的地；终点", "example": "After a long journey, we finally reached our destination.", "exampleZh": "经过长途旅行，我们终于到达了目的地。", "extension": ""},
+        {"word": "housework", "phonetic": "/ˈhaʊswɜːk/", "meaning": "n. 家务活", "example": "Sharing housework can reduce stress and improve family harmony.", "exampleZh": "分担家务可以减轻压力并改善家庭和谐。", "extension": "housewife /ˈhaʊswaɪf/ n. 家庭主妇"},
+        {"word": "difference", "phonetic": "/ˈdɪfrəns/", "meaning": "n. 差异；不同；差额", "example": "There is a big difference between hearing and truly understanding.", "exampleZh": "听到和真正理解之间有很大的差异。", "extension": "different /ˈdɪfrənt/ adj. 不同的"},
+        {"word": "protective", "phonetic": "/prəˈtektɪv/", "meaning": "adj. 保护的；防护的", "example": "Parents are naturally protective of their children.", "exampleZh": "父母天生就会保护他们的孩子。", "extension": "protect /prəˈtekt/ v. 保护"},
+        {"word": "volume", "phonetic": "/ˈvɒljuːm/", "meaning": "n. 音量；卷；体积；册", "example": "She turned up the volume so everyone could hear the announcement.", "exampleZh": "她调高了音量，以便所有人都能听到公告。", "extension": "adjust the volume 调节音量"},
+        {"word": "publish", "phonetic": "/ˈpʌblɪʃ/", "meaning": "v. 出版；发布；发表", "example": "The scientist published her findings in a prestigious medical journal.", "exampleZh": "这位科学家在一本著名的医学期刊上发表了她的研究成果。", "extension": "publication /ˌpʌblɪˈkeɪʃn/ n. 出版"},
+        {"word": "participant", "phonetic": "/pɑːˈtɪsɪpənt/", "meaning": "n. 参与者；参加者", "example": "Each participant in the study was asked to fill out a questionnaire.", "exampleZh": "研究中的每位参与者都被要求填写一份问卷。", "extension": "participate /pɑːˈtɪsɪpeɪt/ v. 参加"},
+        {"word": "death", "phonetic": "/deθ/", "meaning": "n. 死亡；消亡", "example": "The death of the endangered animal shocked the scientific community.", "exampleZh": "这种濒危动物的死亡震惊了科学界。", "extension": "dead /ded/ adj. 死的"},
+        {"word": "behavioral", "phonetic": "/bɪˈheɪvjərəl/", "meaning": "adj. 行为的", "example": "Behavioral scientists study how people make decisions.", "exampleZh": "行为科学家研究人们如何做出决策。", "extension": "behavior /bɪˈheɪvjə(r)/ n. 行为"},
+        {"word": "final", "phonetic": "/ˈfaɪnl/", "meaning": "adj. 最后的；最终的 n. 决赛", "example": "The final decision rests with the committee after the review.", "exampleZh": "最终决定由委员会审查后做出。", "extension": "finally /ˈfaɪnəli/ adv. 最终"},
+        {"word": "monitor", "phonetic": "/ˈmɒnɪtə(r)/", "meaning": "v. 监视；监测 n. 监控器", "example": "The system constantly monitors air quality in the factory.", "exampleZh": "该系统持续监测工厂的空气质量。", "extension": "monitoring /ˈmɒnɪtərɪŋ/ n. 监控"},
+        {"word": "measure", "phonetic": "/ˈmeʒə(r)/", "meaning": "v. 测量；衡量 n. 措施", "example": "The device can accurately measure the height of any object.", "exampleZh": "该设备可精确测量任何物体的高度。", "extension": "measurement /ˈmeʒəmənt/ n. 测量"},
+        {"word": "evaluate", "phonetic": "/ɪˈvæljueɪt/", "meaning": "v. 评估；评价", "example": "Teachers evaluate students' progress through both tests and projects.", "exampleZh": "教师通过考试和项目两种方式评估学生的进步。", "extension": "evaluation /ɪˌvæljuˈeɪʃn/ n. 评估"},
+        {"word": "data", "phonetic": "/ˈdeɪtə/", "meaning": "n. 数据；资料", "example": "The research data was collected from over 10,000 participants.", "exampleZh": "研究数据从超过一万名参与者中收集而来。", "extension": "database /ˈdeɪtəbeɪs/ n. 数据库"},
+        {"word": "average", "phonetic": "/ˈævərɪdʒ/", "meaning": "n. 平均 adj. 平均的；普通的", "example": "The average temperature in July is around 28 degrees Celsius.", "exampleZh": "七月的平均温度大约是28摄氏度。", "extension": "on average 平均"},
+        {"word": "score", "phonetic": "/skɔː(r)/", "meaning": "n. 分数；得分 v. 得分", "example": "She scored the highest marks in the entire school on the exam.", "exampleZh": "她在考试中得了全校最高分。", "extension": "scoreboard /ˈskɔːbɔːd/ n. 记分板"},
+        {"word": "tissue", "phonetic": "/ˈtɪʃuː/", "meaning": "n. 组织；纸巾；绵纸", "example": "The doctor examined a sample of the patient's tissue under a microscope.", "exampleZh": "医生在显微镜下检查了病人的组织样本。", "extension": "tissue paper 薄绵纸"},
+        {"word": "microscope", "phonetic": "/ˈmaɪkrəskəʊp/", "meaning": "n. 显微镜", "example": "Under the microscope, you can see bacteria that are invisible to the naked eye.", "exampleZh": "在显微镜下，你可以看到肉眼看不见的细菌。", "extension": "microscopic /ˌmaɪkrəˈskɒpɪk/ adj. 微观的"},
+        {"word": "diagnose", "phonetic": "/ˈdaɪəɡnəʊz/", "meaning": "v. 诊断；判断", "example": "The doctor was able to diagnose the illness after running several tests.", "exampleZh": "经过几项检查，医生终于诊断出了疾病。", "extension": "diagnosis /ˌdaɪəɡˈnəʊsɪs/ n. 诊断"},
+        {"word": "cognition", "phonetic": "/kɒɡˈnɪʃn/", "meaning": "n. 认知；认识", "example": "Reading has been shown to improve cognition in older adults.", "exampleZh": "阅读已被证明可以改善老年人的认知能力。", "extension": "cognitive /ˈkɒɡnətɪv/ adj. 认知的"},
+        {"word": "sort", "phonetic": "/sɔːt/", "meaning": "n. 种类 v. 分类；整理", "example": "The robot can sort recyclable waste automatically.", "exampleZh": "这台机器人可以自动分拣可回收垃圾。", "extension": "sort out 解决"},
+        {"word": "mask", "phonetic": "/mɑːsk/", "meaning": "n. 面具；口罩 v. 掩盖", "example": "Wearing a mask helps prevent the spread of viruses in public places.", "exampleZh": "在公共场合佩戴口罩有助于预防病毒传播。", "extension": ""},
+        {"word": "symptom", "phonetic": "/ˈsɪmptəm/", "meaning": "n. 症状", "example": "Fever and coughing are common symptoms of the flu.", "exampleZh": "发烧和咳嗽是流感的常见症状。", "extension": "symptomatic /ˌsɪmptəˈmætɪk/ adj. 症状的"},
+        {"word": "intense", "phonetic": "/ɪnˈtens/", "meaning": "adj. 强烈的；紧张的；剧烈的", "example": "The intense heat of the desert made it difficult to travel during the day.", "exampleZh": "沙漠的酷热使得白天旅行非常困难。", "extension": "intensity /ɪnˈtensəti/ n. 强度"},
+        {"word": "beneficial", "phonetic": "/ˌbenɪˈfɪʃl/", "meaning": "adj. 有益的；有利的", "example": "Regular physical activity is beneficial for both body and mind.", "exampleZh": "规律的体育活动对身心都有益。", "extension": "benefit /ˈbenɪfɪt/ n./v. 益处"},
+        {"word": "sweep", "phonetic": "/swiːp/", "meaning": "v. 打扫；席卷；扫过 n. 打扫", "example": "A wave of excitement swept through the classroom when the results were announced.", "exampleZh": "当结果宣布时，一阵兴奋席卷了整个教室。", "extension": "sweeping /ˈswiːpɪŋ/ adj. 全面的"}
+        ] },
+  { id: 59, title: "📘 PASSAGE 59", c1: '#E8B0D8', c2: '#F5C8E0', cardBg: '#F8EDF5', words: [
+        {"word": "password", "phonetic": "/ˈpɑːswɜːd/", "meaning": "n. 密码；口令", "example": "You should create a strong password to protect your online accounts.", "exampleZh": "你应该设置一个强密码来保护在线账户。", "extension": "passcode /ˈpɑːskəʊd/ n. 密码"},
+        {"word": "temporary", "phonetic": "/ˈtemprəri/", "meaning": "adj. 暂时的；临时的", "example": "This is only a temporary solution; we need a long-term plan.", "exampleZh": "这只是暂时的解决方案，我们需要一个长期计划。", "extension": "temporarily /ˈtemprərəli/ adv. 暂时地"},
+        {"word": "usually", "phonetic": "/ˈjuːʒuəli/", "meaning": "adv. 通常；一般", "example": "I usually read for half an hour before going to bed.", "exampleZh": "我通常在睡觉前阅读半小时。", "extension": "usual /ˈjuːʒuəl/ adj. 通常的"},
+        {"word": "log", "phonetic": "/lɒɡ/", "meaning": "v. 登录；记录 n. 日志", "example": "You need to log in to your account to access the materials.", "exampleZh": "你需要登录账户才能访问资料。", "extension": "log out 登出"},
+        {"word": "permanent", "phonetic": "/ˈpɜːmənənt/", "meaning": "adj. 永久的；长久的", "example": "The accident left him with permanent damage to his eyesight.", "exampleZh": "那场事故给他的视力造成了永久性损伤。", "extension": "permanently /ˈpɜːmənəntli/ adv. 永久地"},
+        {"word": "holder", "phonetic": "/ˈhəʊldə(r)/", "meaning": "n. 持有者；支架", "example": "Card holders can enjoy a 10% discount at all partner stores.", "exampleZh": "持卡人在所有合作商店可享受九折优惠。", "extension": "hold /həʊld/ v. 持有；拿着"},
+        {"word": "multiple", "phonetic": "/ˈmʌltɪpl/", "meaning": "adj. 多个的；多种的", "example": "The app allows users to manage multiple tasks at once.", "exampleZh": "该应用允许用户同时管理多个任务。", "extension": "multiply /ˈmʌltɪplaɪ/ v. 乘"},
+        {"word": "discover", "phonetic": "/dɪˈskʌvə(r)/", "meaning": "v. 发现；发觉", "example": "Scientists continue to discover new species in the deep ocean.", "exampleZh": "科学家继续在深海中发现了新物种。", "extension": "discovery /dɪˈskʌvəri/ n. 发现"},
+        {"word": "block", "phonetic": "/blɒk/", "meaning": "v. 阻挡；封锁 n. 街区；块", "example": "The fallen tree blocked the road for several hours.", "exampleZh": "倒下的树堵了路好几个小时。", "extension": "roadblock /ˈrəʊdblɒk/ n. 路障"},
+        {"word": "deliberately", "phonetic": "/dɪˈlɪbərətli/", "meaning": "adv. 故意地；刻意地", "example": "He deliberately chose a challenging topic for his thesis.", "exampleZh": "他刻意选择了一个有挑战性的论文题目。", "extension": "deliberate /dɪˈlɪbərət/ adj. 故意的"},
+        {"word": "kind", "phonetic": "/kaɪnd/", "meaning": "n. 种类 adj. 善良的；友好的", "example": "She is always kind to everyone, which makes her very popular.", "exampleZh": "她对每个人都很友善，这让她很受欢迎。", "extension": "kindness /ˈkaɪndnəs/ n. 善良"},
+        {"word": "selective", "phonetic": "/sɪˈlektɪv/", "meaning": "adj. 选择性的；精挑细选的", "example": "Colleges are becoming more selective in their admissions process.", "exampleZh": "大学在招生过程中变得更有选择性。", "extension": "select /sɪˈlekt/ v. 选择"},
+        {"word": "trial", "phonetic": "/ˈtraɪəl/", "meaning": "n. 试验；审判；考验", "example": "The new drug is currently undergoing clinical trials.", "exampleZh": "新药目前正在进行临床试验。", "extension": "trial and error 反复尝试"},
+        {"word": "distract", "phonetic": "/dɪˈstrækt/", "meaning": "v. 使分心；分散（注意力）", "example": "Turn off notifications while studying to avoid being distracted.", "exampleZh": "学习时关闭通知以避免分心。", "extension": "distraction /dɪˈstrækʃn/ n. 分心"},
+        {"word": "variation", "phonetic": "/ˌveəriˈeɪʃn/", "meaning": "n. 变化；变体；差异", "example": "There is a natural variation in temperature between day and night.", "exampleZh": "昼夜之间有自然的温度差异。", "extension": "vary /ˈveəri/ v. 变化"},
+        {"word": "sample", "phonetic": "/ˈsɑːmpl/", "meaning": "n. 样本；样品 v. 取样", "example": "The scientist collected water samples from different parts of the lake.", "exampleZh": "科学家从湖的不同位置采集了水样。", "extension": "sampling /ˈsɑːmplɪŋ/ n. 取样"},
+        {"word": "record", "phonetic": "/ˈrekɔːd/", "meaning": "n. 记录；唱片 v. /rɪˈkɔːd/ 记录；录制", "example": "The athlete broke the world record in the 100-meter race.", "exampleZh": "这位运动员打破了百米赛跑的世界纪录。", "extension": "recorder /rɪˈkɔːdə(r)/ n. 录音机"},
+        {"word": "automatically", "phonetic": "/ˌɔːtəˈmætɪkli/", "meaning": "adv. 自动地", "example": "The system automatically saves your work every five minutes.", "exampleZh": "系统每五分钟自动保存你的工作。", "extension": "automatic /ˌɔːtəˈmætɪk/ adj. 自动的"},
+        {"word": "practical", "phonetic": "/ˈpræktɪkl/", "meaning": "adj. 实用的；实际的；现实的", "example": "The course provides practical skills that students can use in real life.", "exampleZh": "这门课程提供学生可以在现实生活中使用的实用技能。", "extension": "practice /ˈpræktɪs/ n./v. 实践"},
+        {"word": "implication", "phonetic": "/ˌɪmplɪˈkeɪʃn/", "meaning": "n. 含义；暗示；影响", "example": "The research has important implications for public health policy.", "exampleZh": "这项研究对公共卫生政策有重要的影响。", "extension": "imply /ɪmˈplaɪ/ v. 暗示"},
+        {"word": "method", "phonetic": "/ˈmeθəd/", "meaning": "n. 方法；办法", "example": "The teacher introduced a new method for solving math problems.", "exampleZh": "老师介绍了一种解数学题的新方法。", "extension": "methodology /ˌmeθəˈdɒlədʒi/ n. 方法论"},
+        {"word": "forget", "phonetic": "/fəˈɡet/", "meaning": "v. 忘记；遗忘", "example": "Never forget the people who helped you along the way.", "exampleZh": "永远不要忘记一路帮助你的人。", "extension": "forgetful /fəˈɡetfl/ adj. 健忘的"},
+        {"word": "pursue", "phonetic": "/pəˈsjuː/", "meaning": "v. 追求；追赶；继续", "example": "She decided to pursue a career in environmental science.", "exampleZh": "她决定从事环境科学方面的职业。", "extension": "pursuit /pəˈsjuːt/ n. 追求"},
+        {"word": "inaccuracy", "phonetic": "/ɪnˈækjərəsi/", "meaning": "n. 不精确；不准确；错误", "example": "The report contained several inaccuracies that needed to be corrected.", "exampleZh": "该报告包含几处需要纠正的错误。", "extension": "inaccurate /ɪnˈækjərət/ adj. 不准确的"},
+        {"word": "analysis", "phonetic": "/əˈnæləsɪs/", "meaning": "n. 分析（复数 analyses）", "example": "A thorough analysis of the data revealed several key trends.", "exampleZh": "对数据的彻底分析揭示了几个关键趋势。", "extension": "analyze /ˈænəlaɪz/ v. 分析"}
+        ] },
+  { id: 60, title: "📘 PASSAGE 60", c1: '#C87A3A', c2: '#E8B86A', cardBg: '#F8F0E0', words: [
+        {"word": "advertising", "phonetic": "/ˈædvətaɪzɪŋ/", "meaning": "n. 广告业；广告活动", "example": "Online advertising has become a multibillion-dollar industry.", "exampleZh": "在线广告已经成为一个数千亿美元的产业。", "extension": "advertise /ˈædvətaɪz/ v. 做广告"},
+        {"word": "relevant", "phonetic": "/ˈreləvənt/", "meaning": "adj. 相关的；有关的", "example": "Please provide only information that is relevant to the topic.", "exampleZh": "请只提供与主题相关的信息。", "extension": "irrelevant /ɪˈreləvənt/ adj. 不相关的"},
+        {"word": "brand", "phonetic": "/brænd/", "meaning": "n. 品牌；商标", "example": "Building a strong brand takes years of consistent effort.", "exampleZh": "建立强大的品牌需要多年如一日的努力。", "extension": "brand-new /ˌbrænd ˈnjuː/ adj. 全新的"},
+        {"word": "match", "phonetic": "/mætʃ/", "meaning": "v. 匹配；相配 n. 比赛；火柴", "example": "The color of the curtains matches the sofa perfectly.", "exampleZh": "窗帘的颜色与沙发完美匹配。", "extension": "mismatch /ˌmɪsˈmætʃ/ n. 不匹配"},
+        {"word": "core", "phonetic": "/kɔː(r)/", "meaning": "n. 核心；中心 adj. 核心的", "example": "Honesty is one of the core values of our organization.", "exampleZh": "诚实是我们组织的核心价值观之一。", "extension": "core values 核心价值观"},
+        {"word": "value", "phonetic": "/ˈvæljuː/", "meaning": "n. 价值；价值观 v. 重视", "example": "We should teach children to value friendship and kindness.", "exampleZh": "我们应该教育孩子珍惜友谊和善良。", "extension": "valuable /ˈvæljuəbl/ adj. 有价值的"},
+        {"word": "target", "phonetic": "/ˈtɑːɡɪt/", "meaning": "n. 目标；对象 v. 针对；以……为目标", "example": "The campaign is targeted at teenagers aged 13 to 18.", "exampleZh": "这个活动针对13至18岁的青少年。", "extension": ""},
+        {"word": "consumer", "phonetic": "/kənˈsjuːmə(r)/", "meaning": "n. 消费者；顾客", "example": "Consumer demand for eco-friendly products is growing rapidly.", "exampleZh": "消费者对环保产品的需求正在迅速增长。", "extension": "consume /kənˈsjuːm/ v. 消费"},
+        {"word": "campaign", "phonetic": "/kæmˈpeɪn/", "meaning": "n. 活动；运动；战役 v. 开展活动", "example": "The government launched a campaign to promote healthy eating.", "exampleZh": "政府发起了一项促进健康饮食的活动。", "extension": "campaigner /kæmˈpeɪnə(r)/ n. 活动家"},
+        {"word": "satisfaction", "phonetic": "/ˌsætɪsˈfækʃn/", "meaning": "n. 满意；满足", "example": "Customer satisfaction is our top priority.", "exampleZh": "客户满意是我们的首要任务。", "extension": "satisfy /ˈsætɪsfaɪ/ v. 使满意"},
+        {"word": "focus", "phonetic": "/ˈfəʊkəs/", "meaning": "v. 集中；专注 n. 焦点", "example": "You need to focus on your studies if you want to pass the exam.", "exampleZh": "如果你想通过考试，就需要专注于学习。", "extension": "focus on 专注于"},
+        {"word": "distinguish", "phonetic": "/dɪˈstɪŋɡwɪʃ/", "meaning": "v. 区分；辨别；使……与众不同", "example": "It is important to distinguish facts from opinions.", "exampleZh": "区分事实和观点很重要。", "extension": "distinction /dɪˈstɪŋkʃn/ n. 区别"},
+        {"word": "competition", "phonetic": "/ˌkɒmpəˈtɪʃn/", "meaning": "n. 竞争；比赛", "example": "The competition was fierce, but she managed to win the first prize.", "exampleZh": "竞争很激烈，但她成功赢得了一等奖。", "extension": "compete /kəmˈpiːt/ v. 竞争"},
+        {"word": "present", "phonetic": "/ˈpreznt/", "meaning": "adj. 在场的；当前的 n. 礼物；现在 v. /prɪˈzent/ 呈现；提出", "example": "The artist presented his latest work at the exhibition.", "exampleZh": "艺术家在展览上展示了他最新的作品。", "extension": "presence /ˈprezns/ n. 存在"},
+        {"word": "claim", "phonetic": "/kleɪm/", "meaning": "v. 声称；要求；索取 n. 声明", "example": "The company claims that the product is 100% natural.", "exampleZh": "公司声称该产品是100%天然的。", "extension": "claimant /ˈkleɪmənt/ n. 索赔人"},
+        {"word": "taste", "phonetic": "/teɪst/", "meaning": "n. 味道；口味；品味 v. 品尝", "example": "The soup has a delicious taste that reminds me of home.", "exampleZh": "这汤有一种美味的味道，让我想起家乡。", "extension": "tasty /ˈteɪsti/ adj. 美味的"},
+        {"word": "contain", "phonetic": "/kənˈteɪn/", "meaning": "v. 包含；容纳；控制", "example": "This drink contains no artificial flavors or colors.", "exampleZh": "这种饮料不含人工香精或色素。", "extension": "container /kənˈteɪnə(r)/ n. 容器"},
+        {"word": "superiority", "phonetic": "/suːˌpɪəriˈɒrəti/", "meaning": "n. 优越性；优越感", "example": "The team's technical superiority gave them a clear advantage.", "exampleZh": "该队的技术优势给了他们明显的优势。", "extension": "superior /suːˈpɪəriə(r)/ adj. 优越的"},
+        {"word": "major", "phonetic": "/ˈmeɪdʒə(r)/", "meaning": "adj. 主要的；重要的 n. 专业", "example": "Air pollution is a major concern in many large cities.", "exampleZh": "空气污染是许多大城市的主要问题。", "extension": "majority /məˈdʒɒrəti/ n. 大多数"},
+        {"word": "label", "phonetic": "/ˈleɪbl/", "meaning": "n. 标签；标记 v. 贴标签；归类", "example": "Always read the label before taking any medicine.", "exampleZh": "服用任何药物前请务必阅读标签。", "extension": "labeling /ˈleɪblɪŋ/ n. 贴标签"},
+        {"word": "dominate", "phonetic": "/ˈdɒmɪneɪt/", "meaning": "v. 支配；统治；占优势", "example": "The team has dominated the league for three consecutive seasons.", "exampleZh": "该队已连续三个赛季称霸联赛。", "extension": "dominant /ˈdɒmɪnənt/ adj. 占优势的"},
+        {"word": "command", "phonetic": "/kəˈmɑːnd/", "meaning": "n./v. 命令；指挥；掌握", "example": "She has a good command of three foreign languages.", "exampleZh": "她精通三门外语。", "extension": "commander /kəˈmɑːndə(r)/ n. 指挥官"},
+        {"word": "encounter", "phonetic": "/ɪnˈkaʊntə(r)/", "meaning": "v./n. 遭遇；遇到；邂逅", "example": "You may encounter unexpected difficulties when learning programming.", "exampleZh": "学习编程时你可能会遇到意想不到的困难。", "extension": ""},
+        {"word": "basis", "phonetic": "/ˈbeɪsɪs/", "meaning": "n. 基础；根据（复数 bases）", "example": "On the basis of the evidence, the judge made a fair decision.", "exampleZh": "基于证据，法官做出了公正的裁决。", "extension": "base /beɪs/ n. 基础 v. 基于"},
+        {"word": "adore", "phonetic": "/əˈdɔː(r)/", "meaning": "v. 崇拜；喜爱，非常喜欢", "example": "She absolutely adores her new puppy.", "exampleZh": "她非常喜爱她新养的小狗。", "extension": "adorable /əˈdɔːrəbl/ adj. 可爱的"},
+        {"word": "innovation", "phonetic": "/ˌɪnəˈveɪʃn/", "meaning": "n. 创新；革新", "example": "Technological innovation has transformed nearly every aspect of life.", "exampleZh": "技术创新几乎改变了生活的各个方面。", "extension": "innovate /ˈɪnəveɪt/ v. 创新"},
+        {"word": "replace", "phonetic": "/rɪˈpleɪs/", "meaning": "v. 代替；替换", "example": "Electronic books may never completely replace printed books.", "exampleZh": "电子书可能永远不会完全取代纸质书。", "extension": "replacement /rɪˈpleɪsmənt/ n. 替换"},
+        {"word": "convince", "phonetic": "/kənˈvɪns/", "meaning": "v. 使信服；说服", "example": "She managed to convince her parents to let her study abroad.", "exampleZh": "她成功说服了父母让她出国留学。", "extension": "convincing /kənˈvɪnsɪŋ/ adj. 有说服力的"},
+        {"word": "shrink", "phonetic": "/ʃrɪŋk/", "meaning": "v. 收缩；缩水；（使）变小", "example": "The market for traditional newspapers has been shrinking for years.", "exampleZh": "传统报纸的市场多年来一直在萎缩。", "extension": "shrinkage /ˈʃrɪŋkɪdʒ/ n. 收缩"},
+        {"word": "expectation", "phonetic": "/ˌekspekˈteɪʃn/", "meaning": "n. 期待；期望；预期", "example": "The movie exceeded all my expectations.", "exampleZh": "这部电影超出了我所有的预期。", "extension": "expect /ɪkˈspekt/ v. 期待"},
+        {"word": "skepticism", "phonetic": "/ˈskeptɪsɪzəm/", "meaning": "n. 怀疑态度；怀疑主义", "example": "The new theory was met with a great deal of skepticism.", "exampleZh": "这个新理论遭到了很多的怀疑。", "extension": "skeptical /ˈskeptɪkl/ adj. 怀疑的"},
+        {"word": "magic", "phonetic": "/ˈmædʒɪk/", "meaning": "n. 魔法；魔力 adj. 有魔力的", "example": "The magic of the first snowfall always brings joy to children.", "exampleZh": "初雪的魔力总是给孩子们带来欢乐。", "extension": "magical /ˈmædʒɪkl/ adj. 魔法的"},
+        {"word": "document", "phonetic": "/ˈdɒkjumənt/", "meaning": "n. 文件；文档 v. 记录", "example": "Please bring all relevant documents to the meeting.", "exampleZh": "请将所有相关文件带到会议上。", "extension": "documentation /ˌdɒkjumenˈteɪʃn/ n. 文件"},
+        {"word": "commercial", "phonetic": "/kəˈmɜːʃl/", "meaning": "adj. 商业的 n. 电视广告", "example": "The song was later used in a television commercial.", "exampleZh": "这首歌后来被用于一则电视广告中。", "extension": "commerce /ˈkɒmɜːs/ n. 商业"},
+        {"word": "exposure", "phonetic": "/ɪkˈspəʊʒə(r)/", "meaning": "n. 接触；暴露；曝光", "example": "Exposure to different cultures can broaden your horizons.", "exampleZh": "接触不同文化可以拓宽你的视野。", "extension": "expose /ɪkˈspəʊz/ v. 暴露"}
+        ] },
 ];
