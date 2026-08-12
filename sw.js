@@ -1,5 +1,5 @@
-/* 60篇外刊单词卡 — Service Worker v9.1 (60篇 1648词, 修正P45-60数据)
-var CACHE = 'waka-flashcards-v9.1';
+/* 60篇外刊单词卡 — Service Worker v9.2 (60篇 1648词, 例句全部含原形+词组高亮)
+var CACHE = 'waka-flashcards-v9.2';
 var ASSETS = [
   './',
   './index.html',
