@@ -1,4 +1,4 @@
-/* 60篇外刊单词卡 — Service Worker v9.2 (60篇 1648词, 例句全部含原形+词组高亮)
+/* 60篇外刊单词卡 — Service Worker v9.2 (60篇 1648词, 词组已按PDF/权威词典补漏+橙黄高亮) */
 var CACHE = 'waka-flashcards-v9.2';
 var ASSETS = [
   './',
